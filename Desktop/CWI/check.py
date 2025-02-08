@@ -49,7 +49,7 @@ df.columns = [
 ]
 
 
-df.to_csv("English_Wikipedia_Articles/train.csv", index=False)
+#df.to_csv("English_Wikipedia_Articles/train.csv", index=False)
 
 
 def merge_csv_files(file1,file2,file3,merged_file_name):
@@ -62,4 +62,12 @@ def merge_csv_files(file1,file2,file3,merged_file_name):
 # Save merged data to a new CSV
 
 
-merge_csv_files('English_Wikipedia_Articles/test.csv','English_Professional_News/test.csv','English_Wiki_News/test.csv','test.csv')
+
+
+#merge_csv_files('English_Wikipedia_Articles/test.csv','English_Professional_News/test.csv','English_Wiki_News/test.csv','test.csv')
+
+df =  pd.read_csv('dev.csv')
+
+df = df.drop(df.columns[[0,1,2,3]],axis=1)
+
+df.to_csv('dev.csv',index=False)
