@@ -1,5063 +1,2456 @@
-Complex_Phrase,Native_Annotators,Non_Native_Annotators,Total_Annotators
-production,2,2,4
-Royal Opera House,0,1,1
-Opera,0,1,1
-Bradamante,2,1,3
-island,0,1,1
-Ruggiero,2,0,2
-former,0,1,1
-former tutor,1,1,2
-tutor,2,5,7
-audience,3,6,9
-realizes,1,3,4
-genuinely,5,7,12
-depicted,5,8,13
-depicted sympathetically,6,4,10
-sympathetically,7,6,13
-represented,3,3,6
-urn,6,7,13
-founded,2,1,3
-composer,2,2,4
-librettist,9,10,19
-intention,5,7,12
-provide,0,1,1
-opera,1,0,1
-vision,2,1,3
-widened,2,4,6
-poetry,1,0,1
-lectures,2,0,2
-exhibitions,8,4,12
-thermodynamics,10,10,20
-absolute,5,2,7
-absolute zero,2,1,3
-reached,0,1,1
-thermodynamic,3,2,5
-thermodynamic means,0,1,1
-means,1,2,3
-zero point,1,0,1
-thermodynamic,2,2,4
-temperature,2,0,2
-temperature scale,1,0,1
-scale,1,1,2
-Kelvin,2,0,2
-Rankine,2,0,2
-absolute,0,1,1
-absolute zero,1,0,1
-Academy,0,1,1
-Award,0,2,2
-Merit,1,3,4
-annually,2,2,4
-Motion,0,2,2
-Motion Picture,0,1,1
-Motion Picture Arts,1,0,1
-Sciences,1,0,1
-motion picture,1,1,2
-motion picture industry,1,1,2
-industry,1,0,1
-enlargement,8,10,18
-post-communist,7,4,11
-signed,1,1,2
-Europe,0,1,1
-Agreement,1,0,1
-submitted,2,5,7
-official application for membership,1,0,1
-application,1,1,2
-membership,0,2,2
-post-communist,7,0,7
-Hungary and Poland,0,1,1
-Tallari,0,1,1
-outstanding,4,9,13
-outstanding season,1,1,2
-season,2,0,2
-finishing,0,1,1
-EIHL,1,1,2
-second highest goal scorer,1,0,1
-scorer,1,3,4
-managing,1,2,3
-assists,0,2,2
-denotes,9,4,13
-denotes,2,2,4
-coolest,1,0,1
-spectral,8,5,13
-spectral classes,3,2,5
-subdivided,4,2,6
-numerals,1,1,2
-half-subtypes,7,5,12
-Main-sequence,5,5,10
-Main-sequence stars,1,1,2
-surface,1,1,2
-surface temperature,1,0,1
-temperature,3,0,3
-approximately,2,2,4
-whereas,2,2,4
-more-evolved,4,3,7
-more-evolved stars,0,1,1
-temperatures,1,0,1
-Physically,2,0,2
-indicate,1,4,5
-atmosphere,8,3,11
-normally,0,1,1
-circumvent,10,9,19
-circumvent censorship,2,2,4
-censorship,7,3,10
-filters,1,0,1
-blocked vandals,0,1,1
-vandals,6,4,10
-Wikipedians,4,0,4
-assume,2,3,5
-good faith,1,0,1
-appointed,7,3,10
-Trial,2,1,3
-Trial Division,2,1,3
-Trial Division of the Supreme Court,1,0,1
-Supreme,0,1,1
-Supreme Court,1,0,1
-Court of Appeal,3,3,6
-Appeal,1,2,3
-elected,1,1,2
-Chancellor,6,7,13
-University,1,0,1
-serving,1,0,1
-resigned,8,9,17
-to take up,1,0,1
-Governor,1,0,1
-announced,4,3,7
-Governor,1,0,1
-Chernov,1,0,1
-appointed,4,3,7
-Queen s Counsel,1,0,1
-Counsel,2,6,8
-Chernov,1,1,2
-created,0,2,2
-Officer,1,0,1
-Order of Australia,1,0,1
-Queen s Birthday Honours list,1,0,1
-Birthday Honours,0,1,1
-Honours,5,5,10
-Honours list,0,3,3
-education,1,0,1
-Chernov,1,0,1
-Companion,4,8,12
-Companion of the Order,1,0,1
-Companion of the Order of Australia,1,0,1
-bean,1,1,2
-unearthed,10,10,20
-Awazu-kotei,1,0,1
-Ruin,1,0,1
-Jōmon,3,0,3
-Jomon,1,0,1
-ruins,2,3,5
-particular,1,0,1
-boiled,1,3,4
-resulting,1,0,1
-ingredient,6,6,12
-cuisines,9,6,15
-azuki,2,1,3
-azuki beans,2,0,2
-sekihan,1,0,1
-traditionally,3,2,5
-auspicious,10,8,18
-auspicious occasions,2,1,3
-Gingerbread,3,2,5
-Armenian,1,0,1
-monk,2,3,5
-Nicopolis,1,0,1
-documented,4,1,5
-documented trade,0,1,1
-gingerbread,2,2,4
-biscuits,3,1,4
-monasteries,10,9,19
- pharmacies,1,0,1
-pharmacies,7,3,10
-square farmers  markets,0,1,1
-implemented,7,6,13
-reforms,3,2,5
-EU accession,1,0,1
-accession,9,6,15
-consolidation,10,8,18
-democratic,4,1,5
-democratic systems,1,0,1
-systems,1,0,1
-institution,6,1,7
-rule of law,0,1,1
-acknowledgement,6,6,12
-commitment,1,4,5
-expression,1,2,3
-implementation,7,3,10
-functioning,2,0,2
-functioning free-market economy,0,1,1
-free-market,1,2,3
-free-market economy,3,1,4
-Acherontia,1,1,2
-Acherontia atropos,7,3,10
-atropos,2,1,3
-widely-known,0,3,3
-head Hawk moth,1,0,1
-Hawk moth,0,1,1
-moth,0,2,2
-accompanies,2,1,3
-flashing,0,1,1
-abdomen,6,1,7
-deter,3,7,10
-predators,4,10,14
-species,0,1,1
-Acherontia,2,2,4
-colonies,2,0,2
-Apis mellifera,5,1,6
-mellifera,0,1,1
-hives,0,1,1
-hives unmolested,0,1,1
-unmolested,10,10,20
-mimics,4,4,8
-scent,0,1,1
-bees,1,0,1
-recognized,1,2,3
-recognized as the prototype,1,0,1
-prototype,9,10,19
-L dwarfs,0,1,1
-dwarfs,1,4,5
-Most failed to live up to their candidacy,0,1,1
-candidacy,9,10,19
-absence,1,3,4
-absence of lithium,1,0,1
-lithium,4,2,6
-stellar,5,7,12
-stellar objects,3,3,6
-emissions,10,9,19
-infrared,3,3,6
-infrared ( IR,2,1,3
-spectrum,4,3,7
-ground-based,1,3,4
-ground-based IR detectors,1,0,1
-IR detectors,0,1,1
-detectors,3,3,6
-imprecise,6,10,16
-readily,0,1,1
-brown dwarfs,2,2,4
-dwarfs,2,4,6
-emit,3,2,5
-highlighted,0,1,1
-Brown dwarfs discovered,1,0,1
-dwarfs,0,1,1
-issue,0,1,1
-dwarf,0,1,1
-Jupiter,0,1,1
-masses,0,2,2
-lithium,1,0,1
-thermonuclear,5,5,10
-thermonuclear fusion,4,5,9
-fusion,4,2,6
-evolution,5,5,10
-Advaita,7,3,10
-literally,1,1,2
-"literally , non-duality",1,0,1
-non-duality,5,8,13
-identity,1,1,2
-identity of the Self,1,0,1
-Self,0,2,2
-Brahman,1,0,1
-Maya,0,1,1
-removed,1,0,1
-exists,2,0,2
-ultimately,5,7,12
-difference,1,0,1
-Jiva,0,1,1
-Mahavakya,2,2,4
-sentences,1,0,1
-unity,1,1,2
-Brahman,1,0,1
-Brahman and Atman,1,0,1
-Atman,1,1,2
-According,1,0,1
-Supreme,0,1,1
-Supreme Cosmic Spirit,1,3,4
-Supreme Cosmic Spirit or Brahman,1,0,1
-Cosmic,1,0,1
-Cosmic Spirit,0,2,2
-Spirit,0,1,1
-Brahman,1,0,1
-reality,2,3,5
-Paramarthika,2,1,3
-Paramarthika Satyam,1,0,1
-Perceptible,10,6,16
-Perceptible feeling,0,2,2
-achieve,1,3,4
-turīya,4,2,6
-turīya state,3,2,5
-claim,0,1,1
-soul,0,1,1
-Devotion,5,4,9
-bad Karma,1,0,1
-Karma,2,2,4
-bring,0,1,1
-knowledge,1,3,4
-purifying,7,8,15
-mind,0,1,1
-traded,1,4,5
-season,0,1,1
-brought,0,2,2
-Bentley,0,1,1
-Leafs,2,1,3
-basis,1,0,1
-basis of the style,1,0,1
-novelists,7,3,10
-Turgenev,1,0,1
-Goncharov,1,0,1
-Leo Tolstoy,1,0,1
-subsequent,10,6,16
-lyric,1,3,4
-lyric poets,1,1,2
-Lermontov,1,0,1
-Vertical,4,3,7
-Vertical distance,1,1,2
-measurements,1,1,2
-referred,0,2,2
-referred to,1,0,1
-depth,0,4,4
-elevations,5,7,12
-statistically,6,4,10
-statistically significant,3,2,5
-significant,1,2,3
-rate,0,2,2
-suicide,3,1,4
-lack,0,2,2
-oxygen,1,0,1
-metres,1,0,1
-illnesses,0,2,2
-altitude,3,4,7
-altitude sickness,2,2,4
-sickness,0,3,3
-high altitude pulmonary edema,2,0,2
-altitude pulmonary,1,0,1
-pulmonary,1,2,3
-pulmonary edema,8,4,12
-edema,1,1,2
-high altitude cerebral edema,2,0,2
-cerebral,3,0,3
-cerebral edema,7,4,11
-edema,1,0,1
-altitude,2,0,2
-defined,1,1,2
-population,2,2,4
-census,10,4,14
-second most populous,1,0,1
-populous,10,5,15
-Quito,1,0,1
-pronunciation,5,2,7
-formally,3,0,3
-capital,1,0,1
-elevation,8,7,15
-sea level,0,1,1
-official,1,1,2
-responsibility,2,1,3
-physician,6,5,11
-"physician , midwife , hospital administrator",1,0,1
-midwife,7,8,15
-hospital administrator,2,1,3
-administrator,2,3,5
-birth,0,1,1
-properly,1,3,4
-properly registered,1,0,1
-registered,2,2,4
-appropriate,8,4,12
-appropriate government,1,2,3
-agency,2,0,2
-statue,3,0,3
-Accademia,1,1,2
-replaced,1,1,2
-original,2,0,2
-replica,10,7,17
-requirement,3,4,7
-Cinco Dias,1,0,1
-provisions,10,6,16
-demanded,1,2,3
-reform,8,3,11
-conservative,3,5,8
-conservative government,1,1,2
-instilled,10,10,20
-instilled markets,1,1,2
-brief,0,2,2
-brief dose of confidence,1,0,1
-dose of confidence,1,1,2
-confidence,0,1,1
-stepping,2,1,3
-U-turn,2,2,4
-refusal,1,2,3
-public money,1,0,1
-rescue,0,1,1
-rescue banks,1,1,2
-control stake,5,0,5
-stake,2,3,5
-converting,2,2,4
-state-backed,1,1,2
-state-backed loan,4,1,5
-shares,1,0,1
-parent company,3,0,3
-reportedly,1,0,1
-boost,3,3,6
-investment,1,0,1
-transaction,4,3,7
-refocussed,10,6,16
-refocussed attention,1,0,1
-potential,3,2,5
-potential costs,0,1,1
-conservative,2,0,2
-determined,0,2,2
-slash,4,8,12
-slash spending,2,1,3
-Santander,1,0,1
-eurozones,6,1,7
-by capital,1,0,1
-capital,1,0,1
-slumped,6,10,16
-number-two BBVA,2,0,2
-BBVA slid,1,0,1
-slid,0,1,1
-Banco Popular,1,0,1
-skidded,5,10,15
-Bankia,1,0,1
-stake,2,3,5
-crisis,0,3,3
-crisis measure,5,1,6
-measure,1,0,1
-crippling,9,10,19
-crippling bad loans,1,0,1
-merger,8,9,17
-seven savings banks,1,0,1
-exposure,4,8,12
-exposure to the property sector,1,1,2
-property sector,4,0,4
-sector,1,0,1
-classed,1,1,2
-classed as problematic,1,0,1
-problematic,6,8,14
-hangover,8,10,18
-property party,2,0,2
-extends,1,1,2
-financial sector,2,0,2
-sector,3,0,3
-problematic,4,1,5
-problematic real estate assets,1,0,1
-real estate assets,2,0,2
-assets,1,2,3
-seized,5,9,14
-seized property,0,1,1
-property portfolio,6,1,7
-portfolio,4,6,10
-announcing,4,3,7
-opposition,4,0,4
-opposition rally,6,2,8
-rally,0,2,2
-Authorities,1,4,5
-interior,1,2,3
-interior ministry,3,2,5
-interior ministry troops,3,0,3
-troops,0,1,1
-deployed,7,10,17
-detained,9,8,17
-protest,0,4,4
-included,0,1,1
-flare-type,5,5,10
-flare-type fireworks,4,3,7
-fireworks,1,1,2
-pro-Kremlin,2,0,2
-pro-Kremlin youth,1,2,3
-spokesman,1,3,4
-demonstrators,8,6,14
-attempt,0,1,1
-unsanctioned,10,8,18
-unsanctioned rally,4,2,6
-rally,0,2,2
-protest,1,1,2
-rallies,2,2,4
-broken up,0,1,1
-agreement,0,1,1
-long sought,1,1,2
-sought,6,7,13
-U.S.-backed,1,0,1
-perpetually,9,5,14
-perpetually skittish,5,5,10
-skittish,10,7,17
-skittish leader,0,1,1
-publicly,1,1,2
-publicly voiced,0,1,1
-voiced,1,0,1
-befall,10,10,20
-recognize,3,3,6
-responsibly,2,2,4
-rationale,10,9,19
-reassure,5,5,10
-Soviet withdrawal,1,0,1
-withdrawal,5,4,9
-withdrew,4,3,7
-anti-Soviet,0,1,1
-anti-Soviet militia forces,1,2,3
-militia,3,1,4
-militia forces,3,1,4
-stage,1,0,1
-Taliban,1,0,1
-allowed,0,1,1
-Turkish,1,0,1
-journalists,2,0,2
-detained,10,9,19
-negotiate,10,10,20
-negotiate their release,1,0,1
-release,1,2,3
-authorities,0,2,2
-abducted,9,9,18
-militiamen,10,4,14
-blocked,1,1,2
-abducting,9,5,14
-abducting passengers,2,2,4
-reporters,1,0,1
-held separately,0,1,1
-separately,2,1,3
-prison,0,1,1
-slept,0,2,2
-concrete,1,3,4
-concrete floor,0,1,1
-lost track,0,2,2
-lost track of the days,2,1,3
-appreciate,9,7,16
-appreciate freedom,0,1,1
-relations,3,0,3
-strained,8,10,18
-search engine,5,0,5
-dispute,4,5,9
-dispute over censorship and security,1,0,1
-censorship,10,10,20
-security,1,0,1
-spokeswoman,5,2,7
-cleared,0,1,1
-manufacturing,5,3,8
-tablet computers,0,1,1
-consumer,3,0,3
-consumer devices,3,3,6
-devices,0,1,1
-access,0,3,3
-Motorola,1,0,1
-patents,7,2,9
-Airport officials,1,0,1
-ambassador,5,4,9
-embassy,1,2,3
-embassy staffers,3,2,5
-staffers,4,8,12
-staffers fled,0,1,1
-fled,1,1,2
-thousands,1,0,1
-Egyptians,1,0,1
-attacked,0,1,1
-embassy,2,3,5
-on condition of anonymity,1,0,1
-condition,0,1,1
-condition of anonymity,4,0,4
-anonymity,8,9,17
-not authorized,1,0,1
-authorized,4,5,9
-press,1,0,1
-Yitzhak Levanon,1,0,1
-Witnesses,2,1,3
-insurgents,10,8,18
-Islamic veils,1,2,3
-veils,6,3,9
-to conceal,0,1,1
-conceal,9,7,16
-weapons,1,0,1
-Journal,0,2,2
-insurgent,3,0,3
-detonated,7,8,15
-insurgents,5,1,6
-compound,4,3,7
-took over a laundry,0,1,1
-laundry,0,2,2
-maintenance,1,0,1
-maintenance building,2,0,2
-Suicide bombers,1,1,2
-compound housing,0,1,1
-security pact,3,6,9
-pact,3,1,4
-vulnerable,7,7,14
-vulnerable to a resilient insurgency,1,0,1
-resilient,6,6,12
-resilient insurgency,4,5,9
-insurgency,2,3,5
-responsibility,0,1,1
-insurgents,3,1,4
-insurgents disguised,1,0,1
-disguised,3,8,11
-eastern outskirts,0,1,1
-outskirts,7,8,15
-Gurkha,1,0,1
-passers-by,0,2,2
-strategic,5,4,9
-strategic partnership,3,2,5
-strategic partnership deal,2,0,2
-pact,1,0,1
-sets out,0,1,1
-combat,2,1,3
-combat troops,0,3,3
-troops,0,1,1
-afterward,4,3,7
-knocked,1,4,5
-neighbours,2,3,5
-neighbours door,1,0,1
-obeyed,8,6,14
-according,2,1,3
-neighbour,0,1,1
-heard,1,1,2
-gunshots,0,3,3
-arrived,0,1,1
-on the scene,1,0,1
-Pebbles,0,1,1
-suffering,5,3,8
-gunshot,1,0,1
-gunshot wounds,0,1,1
-wounds,0,2,2
-heard,0,1,1
-teen,0,1,1
-ambulance,7,1,8
-ambulance in a police car,1,0,1
-ambulance,1,1,2
-emerged,10,6,16
-more police approaching,1,0,1
-approaching,6,5,11
-gunshot,1,0,1
-Fighting flared,1,2,3
-flared,10,10,20
-Tripoli,1,0,1
-wounded,0,3,3
-victim,1,2,3
-neighbourhood,1,1,2
-Jabal Mohsen,1,0,1
-populated,2,1,3
-Assads Alawite sect,1,0,1
-Alawite sect,0,1,1
-sect,4,1,5
-offshoot,10,8,18
-offshoot of Shiite Islam,1,0,1
-Battles,0,2,2
-erupted,5,9,14
-neighbourhood,0,1,1
-Bab al-Tebbaneh,2,0,2
-populated,3,1,4
-Sunni,0,1,1
-opposed,1,1,2
-Assads regime,1,0,1
-regime,5,3,8
-security,1,0,1
-Sunni,0,1,1
-Islamist,0,1,1
-suspicion,8,10,18
-linked,0,2,2
-terrorist,0,1,1
-terrorist organisation,0,1,1
-diplomatic,4,3,7
-diplomatic front,4,2,6
-ministers,1,0,1
-fresh,0,2,2
-fresh sanctions,3,0,3
-sanctions,8,4,12
-relentless,4,7,11
-relentless repression,2,6,8
-relentless repression of dissidents,2,1,3
-repression,7,5,12
-dissidents,10,10,20
-regime,1,1,2
-forces are scheduled,1,0,1
-scheduled,3,5,8
-scheduled to end combat operations,1,0,1
-combat,1,4,5
-combat operations,6,4,10
-operations,1,0,1
-wrenching,10,10,20
-fallen,2,2,4
-vowed,2,10,12
-vowed not to compromise,1,0,1
-compromise,10,6,16
-sought,1,5,6
-sought to,1,0,1
-wind down,3,2,5
-harms way,0,3,3
-national,1,0,1
-Afghanistan,1,0,1
-responsibly,2,3,5
-recent,0,1,1
-Fierce,5,5,10
-Fierce clashes,0,1,1
-clashes,1,0,1
-regime,6,3,9
-regime forces,2,0,2
-armed rebels,1,0,1
-rebels,1,4,5
-wounded,1,3,4
-watchdog,8,6,14
-slapped,2,3,5
-slapped fresh sanctions,2,0,2
-fresh sanctions,2,0,2
-sanctions,6,2,8
-Damascus regime,1,0,1
-regime,2,0,2
-The Syrian Observatory for Human Rights,1,0,1
-Observatory,2,3,5
-troop carriers,1,0,1
-carriers,0,1,1
-destroyed,0,1,1
-clashes,1,0,1
-outskirts,7,6,13
-restive,5,5,10
-restive Homs province,1,0,1
-province,2,1,3
-Regime forces,1,1,2
-launched,1,0,1
-offensive,3,2,5
-sharp resistance,4,1,5
-sharp resistance from,1,0,1
-resistance,2,2,4
-rebels,2,0,2
-ouster,7,7,14
-Observatory,1,1,2
-wounded,1,0,1
-shelling,7,3,10
-shelling of the city,1,0,1
-despite,0,3,3
-month-old,0,1,1
-ceasefire,6,8,14
-ceasefire brokered,4,1,5
-brokered,1,6,7
-envoy,1,3,4
-six-point,1,0,1
-six-point plan,1,0,1
-violence,1,0,1
-swept,2,3,5
-revolt,4,2,6
-revolt erupted,2,1,3
-erupted,4,7,11
-regime,2,0,2
-Israeli Foreign Ministry,1,0,1
-Foreign,1,0,1
-Ministry,1,0,1
-officials,1,0,1
-indicated,6,3,9
-symbolic,4,0,4
-symbolic gesture,8,6,14
-gesture,2,4,6
-signal,1,1,2
-desire,0,2,2
-return ties,1,1,2
-neighbor,0,1,1
-normalcy,10,7,17
-permanent,3,1,4
-permanent return,2,0,2
-Israels envoy,0,1,1
-envoy,6,8,14
-security reasons,0,1,1
-Sources,0,1,1
-claimed,0,2,2
-respond,0,1,1
-request,0,1,1
-regarding,1,0,1
-security arrangements,3,1,4
-arrangements,3,3,6
-ambassador,1,0,1
-ambassadors,2,2,4
-ambassadors residence,2,0,2
-residence,2,0,2
-regarding,1,0,1
-embassy,1,0,1
-embassys,3,2,5
-planned,0,1,1
-planned new location,0,1,1
-replace,1,1,2
-Levanon,0,1,1
-ambassador,2,1,3
-expected,1,2,3
-security arrangements,4,1,5
-arrangements,2,1,3
-setup,0,1,1
-requests,0,1,1
-letter of credence,7,3,10
-credence,3,10,13
-blames,0,4,4
-bloodshed,8,5,13
-armed gangs and extremists,0,1,1
-extremists,7,5,12
-foreign,1,0,1
-foreign plot,1,0,1
-plot,0,1,1
-destabilize,10,9,19
-Tensions stemming,1,0,1
-stemming,10,10,20
-uprising,2,2,4
-touched off,2,2,4
-clashes,2,2,4
-Street battles,0,1,1
-battles,1,0,1
-pitting,3,8,11
-Lebanese,1,0,1
-Lebanese Sunnis,1,0,1
-uprising,3,3,6
-Alawite,1,1,2
-regime,7,4,11
-raising,1,0,1
-death toll,0,1,1
-toll,0,1,1
-authorities,0,1,1
-detained,10,6,16
-national,3,0,3
-violence,0,1,1
-undermines,10,8,18
-U.N.-backed peace plan,0,1,1
-supposed,1,0,1
-deadly crisis,1,1,2
-crisis,3,1,4
-cease-fire,7,8,15
-limited effect,1,0,1
-regime,8,0,8
-nationalisation,10,8,18
-nationalisation of other banks,1,0,1
-ruled out,0,4,4
-option,0,1,1
-gravity,6,5,11
-gravity of the economic situation,2,0,2
-economic situation,1,0,1
-increasingly difficult,0,1,1
-refinance,10,8,18
-refinance as much of the debt,1,0,1
-debt,1,1,2
-effectively,1,0,1
-effectively took over,1,0,1
-market anxiety,4,4,8
-anxiety,3,3,6
-anxiety over the lenders viability,1,0,1
-lenders,0,2,2
-lenders viability,2,3,5
-viability,7,6,13
-Toxic,0,2,2
-Toxic assets,5,2,7
-assets,2,1,3
-decade-long,3,4,7
-property bubble,3,1,4
-property bubble burst,3,2,5
-bubble,1,1,2
-bubble burst,0,3,3
-burst,0,2,2
-countrys overspending regional governments,1,0,1
-overspending,4,7,11
-fanned,5,7,12
-fanned fears,1,3,4
-eurozone,4,2,6
-eurozone debt crisis,1,0,1
-debt,1,0,1
-debt crisis,1,2,3
-crisis,1,3,4
-Toxic assets,5,2,7
-assets,1,0,1
-fear the hole,1,0,1
-anniversary,4,4,8
-Crocker,0,3,3
-sole,5,5,10
-sole turning,0,1,1
-sole turning point,3,3,6
-turning point,1,2,3
-prevailing,10,10,20
-prevailing in this,1,0,1
-partners,1,0,1
-taking on ourselves bringing perfection to,1,0,1
-perfection,3,2,5
-left,1,0,1
-left to Afghans,1,0,1
-repeat,0,1,1
-withdrawal,6,8,14
-Western backers,2,0,2
-backers,3,5,8
-in the wake of,1,0,1
-withdrawal,0,2,2
-unleashed,8,10,18
-vicious,6,8,14
-vicious civil war,1,2,3
-al Qaeda,0,1,1
-support bases,1,0,1
-bases,0,1,1
-bases arose,1,0,1
-arose,4,1,5
-lifted off,1,1,2
-Afghanistan,1,0,1
-rocked,2,2,4
-vivid,8,7,15
-vivid reminder,1,1,2
-challenges,2,2,4
-lay ahead,1,0,1
-worse,1,2,3
-worse problems,0,1,1
-previously,2,1,3
-previously thought,1,0,1
-independent,0,1,1
-independent economist,6,0,6
-economist,5,2,7
-attempt,0,3,3
-soothe,7,10,17
-soothe markets,1,0,1
-reform,5,4,9
-reform enabling,0,1,1
-reform enabling banks,1,0,1
-enabling,6,4,10
-problem loans,2,0,2
-agencies,3,1,4
-state money,2,1,3
-developers,4,4,8
-Rajoy,0,1,1
-second plank,2,0,2
-plank,7,10,17
-plank of the reform,1,0,1
-reform,5,1,6
-requirement,3,3,6
-boost,1,5,6
-boost a financial cushion,1,0,1
-financial cushion,10,4,14
-cushion,0,3,3
-threat,0,1,1
-threat of losses,1,0,1
-property assets,6,1,7
-assets,2,4,6
-Economy Ministry,1,0,1
-thousands,1,0,1
-rallied,4,6,10
-faced off,1,2,3
-Interior,1,1,2
-Interior Ministry troops,4,0,4
-detained,10,10,20
-protesters,5,4,9
-journalists,2,0,2
-Russian Union of Journalists,1,0,1
-condemned,10,10,20
-violence,0,2,2
-probe,6,4,10
-describing,0,1,1
-attempt to gag,0,1,1
-gag,5,7,12
-gag and intimidate,1,1,2
-intimidate,10,5,15
-intimidate society,1,2,3
-society,1,0,1
-opposition,6,0,6
-opposition rallies,2,0,2
-rallies,0,1,1
-expected,1,1,2
-pro-Putin,1,0,1
-pro-Putin gathering,2,2,4
-gathering,0,2,2
-parliamentary,8,1,9
-suggested,0,1,1
-tiring,0,1,1
-tiring of,1,1,2
-strongly overshadowed,1,0,1
-overshadowed,10,10,20
-reputation,6,4,10
-reputation for corruption,1,0,1
-corruption,8,8,16
-Preliminary,5,2,7
-Preliminary results,0,1,1
-results indicate,0,1,1
-indicate,0,1,1
-steep,0,2,2
-steep fall,1,1,2
-majority,1,0,1
-immediate,5,2,7
-immediate market reaction,2,1,3
-market reaction,3,1,4
-government announcements,1,0,1
-announcements,0,1,1
-negative,1,0,1
-yields,8,4,12
-benchmark,4,3,7
-benchmark government bonds,6,1,7
-bonds,2,0,2
-measure,0,1,1
-risky,0,3,3
-risky investors,1,1,2
-investors,2,2,4
-lending,0,4,4
-narrowed,2,6,8
-basis points,4,0,4
-bluechip,5,5,10
-bluechip shares,8,1,9
-bluechip shares moderated,1,0,1
-shares,1,0,1
-moderated,3,6,9
-holdings,1,0,1
-holdings of repossessed property,1,0,1
-repossessed,9,7,16
-repossessed property,4,2,6
-asset,1,0,1
-asset management,1,1,2
-asset management firms,6,0,6
-fire sale,4,1,5
-Luis de Guindos,1,0,1
-conference,2,0,2
-separate,0,1,1
-bank rescues,2,0,2
-rescues,3,5,8
-enacted,7,10,17
-de Guindos,1,0,1
-estimated,3,2,5
-teenage,0,1,1
-teenage girl,0,1,1
-Londonderry,1,0,1
-critical,2,4,6
-critical condition,9,3,12
-Bellaghy parish,0,1,1
-parish,4,2,6
-parish priest,1,1,2
-protect,0,1,1
-continuing,2,1,3
-in connection with,1,0,1
-in connection with the incident,1,0,1
-connection,3,3,6
-incident,7,7,14
-under attack,0,1,1
-dived,3,3,6
-process,2,2,4
-questioned,1,0,1
-questioned on suspicion of assisting,0,1,1
-suspicion,10,10,20
-suspicion of assisting an offender,4,0,4
-assisting,4,4,8
-assisting an offender,1,1,2
-offender,2,10,12
-been released,1,0,1
-released,1,3,4
-Skype,2,0,2
-activist,2,6,8
-Mousab Alhamadee,0,2,2
-local rebel leader,0,1,1
-rebel,0,3,3
-alongside,3,5,8
-civilians,5,2,7
-defend,1,2,3
-civilians,0,1,1
-referring,2,3,5
-umbrella,1,0,1
-umbrella group,7,3,10
-anti-regime,5,3,8
-anti-regime militias,6,5,11
-militias,7,5,12
-amateur,8,8,16
-amateur video,1,2,3
-mosque,5,1,6
-coffins,1,4,5
-piled,0,4,4
-wrapped,2,4,6
-cloth,0,1,1
-plain of farmland,1,0,1
-farmland,0,2,2
-dotted,3,3,6
-Alawites,0,1,1
-offshoot,2,6,8
-offshoot sect,6,4,10
-sect,1,1,2
-Shiite,0,2,2
-Alhamadee,0,1,1
-sectarian,4,4,8
-sectarian tensions,7,3,10
-uprising,1,6,7
-deteriorated,10,9,19
-anti-Assad,1,0,1
-uprising,3,1,4
-New updates,0,1,1
-updates,1,2,3
-better-optimized,9,5,14
-better-optimized versions,5,2,7
-versions,0,1,1
-Android,1,0,1
-smartphone,1,0,1
-smartphone manufactures,3,0,3
-manufactures,2,0,2
-defended,1,3,4
-intentions,5,5,10
-special treatment,2,0,2
-Android-running,0,1,1
-Android-running OEMs,0,1,1
-OEMs,2,2,4
-Apparently,2,4,6
-argument,1,3,4
-regulatory,2,2,4
-regulatory hurdles,8,3,11
-hurdles,3,6,9
-close the deal,1,0,1
-purchasing,0,1,1
-patents,7,5,12
-duking,6,8,14
-duking it out,4,3,7
-Java-related,3,1,4
-Java-related patents,2,0,2
-patents,2,0,2
-defend,0,1,1
-lawsuits,3,7,10
-VB,1,0,1
-detained,8,8,16
-protest,0,1,1
-downtown,0,2,2
-included,0,1,1
-flare-type,6,8,14
-flare-type fireworks,3,3,6
-fireworks,0,1,1
-pro-Kremlin,3,1,4
-pro-Kremlin youth,0,1,1
-hit,1,0,1
-euros,1,0,1
-losses,1,0,1
-bursting,5,8,13
-decade-long,2,4,6
-decade-long property bubble,1,1,2
-property bubble,7,1,8
-bubble,1,1,2
-concerns,1,0,1
-overspending,3,5,8
-overspending regional governments,2,0,2
-regional,1,0,1
-fanned,5,8,13
-fanned fears,0,2,2
-new euro zone debt crisis,1,0,1
-euro zone,2,0,2
-euro zone debt crisis,1,1,2
-debt crisis,4,2,6
-crisis,0,1,1
-toxic,1,1,2
-toxic assets,7,4,11
-assets,1,1,2
-the hole is even bigger,1,0,1
-Successive,7,3,10
-Successive waves,4,2,6
-Successive waves of bank sector clean-ups,0,1,1
-waves,0,1,1
-bank sector,1,0,1
-sector,1,0,1
-clean-ups,4,2,6
-convince,1,2,3
-convince investors,0,1,1
-investors,1,1,2
-reform,2,1,3
-reform package,4,2,6
-troubled banks,0,1,1
-convincing,2,1,3
-convincing investors,1,0,1
-investors,1,0,1
-the sector is solvent,1,0,1
-solvent,10,8,18
-strategy,1,3,4
-bailout,10,8,18
-expected,0,1,1
-government package,1,1,2
-measures,1,0,1
-obliging,7,6,13
-obliging banks,1,1,2
-provisions,5,2,7
-provisions against bad loans,0,1,1
-entity,3,2,5
-reforms,6,5,11
-clean-up,1,1,2
-last-minute talks,0,2,2
-lenders,2,7,9
-expected,0,2,2
-force banks,1,0,1
-toxic,5,5,10
-toxic real estate assets,6,2,8
-real estate assets,2,0,2
-assets,4,0,4
-holding companies,4,1,5
-announce,0,1,1
-announce demands,0,1,1
-set aside,0,1,1
-sound loans,5,1,6
-loans,0,1,1
-real estate portfolios,2,1,3
-portfolios,9,7,16
-provisions,9,4,13
-cover bad assets,0,1,1
-bad assets,6,2,8
-assets,1,2,3
-finalised,5,2,7
-Reuters,1,1,2
-new provisions,1,0,1
-provisions,7,5,12
-bad bank scheme,3,0,3
-bad bank,0,3,3
-scheme,7,1,8
-approved,0,1,1
-approves,0,1,1
-approves impeachment,1,0,1
-impeachment,10,10,20
-Supreme Court,1,0,1
-attorney,1,1,2
-attorney general,1,1,2
-attorney generals,1,1,2
-impeach,7,3,10
-Otto Pérez,0,1,1
-Pérez,1,0,1
-pictured,0,2,2
-accused,3,3,6
-accused of corruption,0,1,1
-corruption,8,4,12
-decision,1,0,1
-lifting,0,1,1
-lifting Presidential immunity,0,1,1
-immunity,10,8,18
-falls,0,1,1
-corruption,4,1,5
-corruption scandal,1,0,1
-scandal,1,6,7
-La Linea((en,0,1,1
-Roxana Baldetti,0,1,1
-Baldetti,1,0,1
-fraud,5,3,8
-receiving bribes,0,1,1
-bribes,6,7,13
-Prosecutors,2,2,4
-Prosecutors allege,0,1,1
-allege,1,3,4
-Baldetti,1,1,2
-bribes,1,4,5
-impeach,3,1,4
-investigation,2,2,4
-broadened,4,6,10
-ministerial,3,0,3
-ministerial resignations,6,1,7
-resignations,8,2,10
-stood,0,1,1
-widespread,2,4,6
-protests,2,0,2
-demanding,1,1,2
-Elections,1,0,1
-scheduled,3,2,5
-commented,0,3,3
-rape,2,0,2
-rape charges,0,1,1
-charges,0,1,1
-political motivation,1,2,3
-motivation,4,6,10
-denied,2,3,5
-allegations,10,8,18
-Papernaya,1,0,1
-Alas,2,0,2
-national,0,1,1
-performance,1,0,1
-performance artist,1,0,1
-criminal,1,0,1
-psychopath,10,9,19
-psychopath and a rapist,1,0,1
-rapist,4,4,8
-Ukraine,1,0,1
-painful performances,0,3,3
-performances,2,1,3
-Pyotr Pavlensky,1,0,1
-sewed,0,4,4
-sewed his lips,3,2,5
-lips,0,1,1
-musical,0,1,1
-Pussy Riot,1,0,1
-Riot,1,0,1
-imprisoned,7,5,12
-hooliganism,10,10,20
-anti-Putin,1,0,1
-nailed,0,3,3
-nailed his scrotum,1,1,2
-scrotum,9,5,14
-Fixation,8,3,11
-Matt OBrien,0,1,1
-Washington Post,1,0,1
-claims,3,0,3
-tax cut,2,0,2
-wealthiest,3,6,9
-citizens,1,0,1
-Obamacare,2,1,3
-funds,1,0,1
-converted,6,2,8
-purposes,0,1,1
-estimated,6,3,9
-annually,2,3,5
-Policy,0,1,1
-significant,8,4,12
-significant motive,1,1,2
-motive,1,5,6
-Republican,1,0,1
-Republican Senators,2,0,2
-Senators,0,1,1
-repeal,5,6,11
-Obamacare,2,1,3
-House Majority,1,0,1
-Majority,0,1,1
-Kevin McCarthy,0,1,1
-legislation,6,3,9
-legislation repealing,2,2,4
-repealing,4,7,11
-Obamacare,2,1,3
-replacing,0,2,2
-Democratic,2,0,2
-Senator,0,1,1
-million,0,1,1
-health insurance,1,0,1
-insurance,2,1,3
-ACA,0,2,2
-jet crashes,0,1,1
-crashes,0,1,1
-airshow,2,5,7
-Thailand,0,1,1
-crashed,0,1,1
-pilot,2,0,2
-International,1,0,1
-Songkhla​,0,1,1
-annual,1,0,1
-airshow,3,3,6
-Gripen,3,1,4
-crashed,2,1,3
-runway,1,3,4
-exploded,3,6,9
-commercial,9,1,10
-identified,2,1,3
-Squadron,2,2,4
-Squadron Leader,5,0,5
-Dilokrit Pattavee,0,1,1
-vehicle,1,0,1
-vehicle rolled over,0,1,1
-rolled,1,3,4
-rolled over,1,0,1
-responding,1,3,4
-screamed,3,5,8
-video footage,0,2,2
-footage,3,2,5
-crash,0,1,1
-Royal Thai Air Force,1,0,1
-accident,2,0,2
-deterred,10,10,20
-spokesperson,5,2,7
-Pongsak Semachai,0,1,1
-investigatory,3,3,6
-investigatory commission,9,3,12
-commission,1,0,1
-formed,1,0,1
-Prayut Chan-o-cha,0,1,1
-offered,0,1,1
-offered his sympathies,0,1,1
-sympathies,10,6,16
-Pattavees,0,1,1
-relatives,1,1,2
-purchasing,0,2,2
-Gripen jets,1,0,1
-neighbours,3,0,3
-aircraft,0,1,1
-baht,4,0,4
-experiments,7,1,8
-performed,3,1,4
-laboratory,8,1,9
-laboratory mice,0,1,1
-mice,0,2,2
-research,0,1,1
-engineered,4,2,6
-engineered virus,2,1,3
-virus,1,0,1
-target,0,1,1
-alter,1,0,1
-specific,1,0,1
-specific sets,0,2,2
-neurons,10,3,13
-fitted,0,2,2
-intracranial,9,9,18
-intracranial optical fibers,4,3,7
-optical,4,0,4
-fibers,1,1,2
-expose,1,0,1
-excited,1,2,3
-neurons,3,1,4
-amygdala,10,6,16
-emotion and aggression,1,0,1
-aggression,3,6,9
-stimulated,3,5,8
-stimulated prey pursuit,1,0,1
-stimulated prey pursuit behavior,2,1,3
-prey,2,1,3
-prey pursuit,0,1,1
-prey pursuit behavior,0,2,2
-pursuit,5,4,9
-behavior,2,0,2
-stalking,3,5,8
-stimulated,2,5,7
-jaw,0,1,1
-exposed,0,1,1
-primed,5,3,8
-primed mice,0,1,1
-stalk,1,2,3
-stalk and then pounce,0,1,1
-pounce,4,5,9
-pounce on,0,1,1
-enclosure,1,5,6
-scent,1,0,1
-prey,0,1,1
-Representative,9,3,12
-where its pointed,1,0,1
-process,3,1,4
-Jezebel,1,0,1
-Associated,1,0,1
-Associated Press,1,0,1
-dismiss,3,4,7
-timeline,0,4,4
-impossible,0,1,1
-complicated,2,2,4
-complicated nature,1,2,3
-congressional,7,3,10
-congressional workings,2,1,3
-workings,1,0,1
-possibility,3,0,3
-comprehensive,9,8,17
-comprehensive reform,3,2,5
-comprehensive reform bill,3,0,3
-reform,1,1,2
-reform bill,1,0,1
-bill,0,1,1
-Obamacare,2,0,2
-feasible,8,10,18
-The Affordable Care Act,1,0,1
-Affordable,0,3,3
-cited,0,1,1
-key accomplishment,0,1,1
-accomplishment,6,8,14
-administration,1,0,1
-mixed reputation,1,0,1
-reputation,4,4,8
-conservatives,3,4,7
-market-based,3,1,4
-market-based health care system,1,0,1
-flexible,0,3,3
-efficient,1,2,3
-costly,1,0,1
-Affordable,0,1,1
-Affordable Care Act,1,0,1
-discredited,6,5,11
-discredited pledge,4,2,6
-pledge,2,5,7
-switch,1,2,3
-collision,9,6,15
-airport,1,0,1
-yesterday,1,0,1
-national mourning,1,1,2
-mourning,9,6,15
-Kyrgyzstan,3,1,4
-flight,1,0,1
-operated,2,1,3
-international,3,0,3
-Bishkek,2,0,2
-fatal,6,4,10
-fatal crashes,0,2,2
-crashes,0,2,2
-en route,0,3,3
-crashed,0,2,2
-shortly after take-off,1,0,1
-take-off,1,3,4
-people on board,0,1,1
-on board,1,0,1
-board,1,0,1
-contract,2,2,4
-contract extension,2,1,3
-extension,3,5,8
-Bayern  German football club,1,0,1
-announced,2,0,2
-Dutch winger,0,2,2
-winger,3,1,4
-Arjen,1,0,1
-one contract extension,1,0,1
-contract extension,1,0,1
-extension,6,2,8
-Spending,1,0,1
-Munich,0,1,1
-scored,1,0,1
-Bundesliga,2,1,3
-Bundesliga appearances,1,0,1
-appearances,4,3,7
-netted,3,10,13
-League,2,0,2
-source,0,1,1
-medicine,0,1,1
-medicine in nature,1,0,1
-species,3,4,7
-access,2,2,4
-source,0,1,1
-evolved,7,3,10
-evolved the same behaviour,1,0,1
-behaviour,4,1,5
-medicate,5,5,10
-research,1,1,2
-Phew,1,1,2
-questions,1,0,1
-unanswered,4,5,9
-Ph.D,1,0,1
-ants,0,1,1
-recognize,5,5,10
-collaborating,8,8,16
-Copenhagen,0,2,2
-immunity,8,7,15
-immunity in fungus-growing termites,1,0,1
-fungus-growing,6,3,9
-fungus-growing termites,0,2,2
-termites,6,7,13
-chemical,2,0,2
-chemical recognition,1,0,1
-chemical recognition abilities,4,0,4
-recognition,4,2,6
-recognition abilities,0,2,2
-Furthermore,2,1,3
-social parasitism,4,2,6
-parasitism,10,8,18
-wood-ants,1,2,3
-exploiting,6,4,10
-nest,0,1,1
-shelter,1,2,3
-resources,1,2,3
-somehow,0,1,1
-fortress,7,6,13
-methods,2,0,2
-equipment,8,5,13
-low budget,0,2,2
-budget,6,4,10
-experimental,10,1,11
-experimental setups,1,2,3
-setups,0,4,4
-equipment,4,1,5
-nicknamed,2,6,8
-Nickinator,2,1,3
-i-Nick,1,0,1
-fundamental,10,7,17
-fundamental science,2,1,3
-science,2,0,2
-wherever,0,1,1
-wild,0,1,1
-wild colonies,1,1,2
-colonies,5,3,8
-Formica fusca,4,1,5
-fusca,2,3,5
-searching,0,1,1
-tree-trunks,1,4,5
-logging,2,6,8
-logging sites,1,3,4
-housed,0,3,3
-ants,0,1,1
-nests,0,3,3
-Y-tong,2,0,2
-Y-tong [aerated concrete,0,1,1
-aerated,1,1,2
-aerated concrete,1,1,2
-concrete,1,0,1
-carve,1,8,9
-carved,0,2,2
-old CD covers,1,0,1
-prevent,1,1,2
-escaping,2,1,3
-Force India,1,0,1
-joined,0,1,1
-Marussia,2,2,4
-following,1,2,3
-Monaco,1,0,1
-Monaco Grand Prix,1,1,2
-Grand Prix,1,0,1
-scored,0,2,2
-Marussias,1,1,2
-ninth-place,1,1,2
-ninth-place finish,0,1,1
-accident,2,1,3
-sanctions,10,5,15
-Formula One,1,0,1
-Formula One racing,0,1,1
-racing,0,1,1
-panel,4,4,8
-investigate,8,5,13
-crash,0,2,2
-Afterwards,1,2,3
-revealed,2,4,6
-revealed its findings,0,1,1
-Bianchi,0,2,2
-entered,0,1,1
-run-off,1,3,4
-run-off area,2,0,2
-track,0,1,1
-disabled,5,4,9
-failsafe,8,9,17
-failsafe mechanism,5,2,7
-mechanism,4,2,6
-throttle,10,9,19
-throttle and brake together,0,1,1
-brake,0,3,3
-Eventually,0,3,3
-mandated,10,10,20
-virtual safety car,2,2,4
-virtual,1,0,1
-requires,0,1,1
-enter the pit lane,0,1,1
-the pit,1,0,1
-pit,0,1,1
-proceeding,9,3,12
-broadcasts,8,4,12
-broadcasts,1,2,3
-exchange,3,2,5
-fire,1,0,1
-loudspeakers,1,1,2
-loudspeakers broadcasting,0,1,1
-loudspeakers broadcasting propaganda,1,0,1
-broadcasting,0,1,1
-propaganda,10,9,19
-respond,1,1,2
-militarily,4,2,6
-broadcasts,1,0,1
-militaries,3,0,3
-alert,0,2,2
-withholds,1,5,6
-death,1,0,1
-death penalty,0,1,1
-penalty defendants,1,0,1
-defendants,1,5,6
-judgement,4,0,4
-released,1,0,1
-very considerable unease,1,0,1
-considerable,2,2,4
-considerable unease,1,2,3
-unease,6,4,10
-rejected,4,0,4
-application,3,1,4
-defendants,4,1,5
-penalty,1,2,3
-sought,0,3,3
-Metropolitan,4,1,5
-assist,2,2,4
-assist their defence,1,0,1
-defence,4,0,4
-murders,1,1,2
-occurred,3,0,3
-picturesque,10,8,18
-picturesque resort island,2,0,2
-Koh Tao,0,1,1
-pictured,0,1,1
-Minister,1,0,1
-pictured,0,3,3
-negotiations,10,7,17
-led,0,1,1
-starved,1,8,9
-"starved, suffocated, stripped naked",1,0,1
-suffocated,9,8,17
-stripped,2,8,10
-stripped naked,0,1,1
-exposed,0,1,1
-temperatures,3,0,3
-beaten,0,1,1
-threatened,7,6,13
-denied,2,1,3
-denied legal representation,1,0,1
-legal representation,1,1,2
-representation,2,0,2
-Royal Thai,0,1,1
-misconduct,10,6,16
-Mr Justice Green,0,1,1
-assistance,3,0,3
-report is known to contain,0,1,1
-material,1,0,1
-disputed,5,7,12
-Phyo,1,1,2
-confessions,5,6,11
-representation,4,0,4
-retracting,10,8,18
-backed up,1,2,3
-torture,4,5,9
-evidence,3,0,3
-the report described,0,1,1
-described,2,0,2
-routine,3,3,6
-routine conduct,0,1,1
-conduct,3,0,3
-crime investigation,0,1,1
-investigation,2,1,3
-Extradition,10,10,20
-are thought,0,1,1
-alongside,4,3,7
-eighteen-month-old,1,1,2
-Syrian,0,1,1
-travel document,1,0,1
-document,2,1,3
-spokesman,1,3,4
-Hans,0,1,1
-Peter Doskozil,0,1,1
-Doskozil,1,0,1
-journalists,3,1,4
-first assumption,0,1,1
-assumption,10,6,16
-migrants,8,6,14
-Syrian,0,1,1
-migrants,3,0,3
-rule out,1,1,2
-accused,3,3,6
-escorted,8,10,18
-Kecskemet,2,0,2
-central,1,0,1
-police convoy,0,1,1
-convoy,8,5,13
-Reportedly,1,1,2
-lorry,2,1,3
-traveled,0,1,1
-Kecskemet,1,1,2
-presently,2,0,2
-building a border,1,0,1
-fence,0,2,2
-Serbian,1,0,1
-Serbian frontier,1,0,1
-frontier,5,3,8
-migrants,3,1,4
-war-torn,2,0,2
-war-torn Syria,0,1,1
-access,2,0,2
-access to,0,1,1
-Schengen,2,0,2
-movement,1,2,3
-lorry,5,3,8
-so-called,1,0,1
-Eastern Motorway,0,1,1
-Motorway,1,0,1
-Hungarian,2,1,3
-hard shoulder,1,1,2
-Neusiedl,2,1,3
-Parndorf,2,1,3
-closer,0,1,1
-victims,1,2,3
-suffocated,10,9,19
-seeking,0,3,3
-Krone,0,1,1
-published,3,1,4
-non-articulated,10,9,19
-lorry,3,1,4
-hard shoulder,0,1,1
-vehicle,2,0,2
-liquid,1,0,1
-passing motorist,1,0,1
-motorist,0,3,3
-helicopter,4,1,5
-on-scene,1,2,3
-branding,1,6,7
-Slovakian,2,0,2
-Hyza,2,0,2
-companys website,1,0,1
-sported,1,3,4
-apparent,6,2,8
-apparent anti-immigration,2,0,2
-apparent anti-immigration graphic,0,2,2
-anti-immigration,6,4,10
-anti-immigration graphic,2,1,3
-graphic,3,2,5
-Wikinews,3,0,3
-detention,9,6,15
-detention relates,1,0,1
-relates,0,1,1
-discovery,2,1,3
-lorry,5,2,7
-corpses,4,10,14
-death toll,1,1,2
-toll,0,2,2
-yesterday,0,1,1
-finalised,4,0,4
-hearing,0,3,3
-Kecskemet,4,1,5
-pictured,0,1,1
-lorry,3,1,4
-abandoned,6,7,13
-hard shoulder,2,1,3
-shoulder,1,1,2
-Eastern Motorway,2,1,3
-Hungarian,0,1,1
-Roadworkers,3,3,6
-suspicious,8,5,13
-seeping,3,4,7
-vehicle,1,0,1
-responding,1,2,3
-estimates,2,3,5
-suffocated,10,7,17
-lorry,1,1,2
-Parndorf,1,1,2
-arrested,2,0,2
-Bulgarian,0,1,1
-Criminal,1,0,1
-Criminal suspects,1,2,3
-suspects,0,2,2
-prosecutors,10,8,18
-citing,1,1,2
-seriousness,3,3,6
-extended,4,1,5
-dubbed,6,10,16
-gag,1,2,3
-gag law,3,2,5
-es,1,0,1
-gagging,2,4,6
-gagging law,2,2,4
-prohibits,3,5,8
-unauthorized,8,6,14
-jeopardize,10,10,20
-protected,2,0,2
-facilities,4,1,5
-operations,2,0,2
-Joaquim Bosch,1,1,2
-Democracy spokesperson,0,1,1
-spokesperson,1,2,3
-citizens,1,0,1
-citizens security,1,0,1
-protests,1,2,3
-indicate that the,0,1,1
-preoccupied,8,6,14
-economic situation,1,1,2
-political corruption,2,0,2
-corruption,5,2,7
-Amnesty International,1,0,1
-International condemned,1,0,1
-condemned,6,6,12
-threats,1,1,2
-to stigmatize,1,0,1
-stigmatize,10,10,20
-stigmatize and criminalize,1,0,1
-criminalize,10,2,12
-Virginia Álvarez,1,0,1
-instead of listening to their demands,0,1,1
-dialogue,4,2,6
-authorities,1,0,1
-impede,8,8,16
-impede people from protesting,1,0,1
-protesting,1,0,1
-shots,0,1,1
-reported,1,2,3
-interviewee,10,9,19
-Vicki Gardner,0,1,1
-transported,3,2,5
-underwent,4,7,11
-underwent surgery,1,2,3
-surgery,1,1,2
-injuries,1,1,2
-stable,1,1,2
-stable condition,0,2,2
-gunman,0,1,1
-identified,1,1,2
-Vester Lee Flanagan,0,1,1
-fled,0,5,5
-scene,0,1,1
-brief,0,1,1
-chase,0,3,3
-ensued,9,10,19
-law enforcement,1,3,4
-enforcement,8,3,11
-enforcement attempted,1,1,2
-attempted,1,2,3
-unsuccessfully,6,2,8
-Flanagan,2,0,2
-Interstate,1,2,3
-Fauquier,2,0,2
-pulled off,1,0,1
-pronounced,8,7,15
-Fairfax-area,1,1,2
-reported,0,1,1
-alias,5,1,6
-Bryce Williams,0,1,1
-WDBJ,1,0,1
-Flanagan,0,1,1
-difficult,1,1,2
-race-related,2,3,5
-race-related driver death,1,0,1
-Marino Grand Prix,0,1,1
-Grand Prix,1,0,1
-Ayrton,1,1,2
-late portion,1,3,4
-portion,2,0,2
-Grand Prix,0,1,1
-Suzuka,0,1,1
-Circuit,2,0,2
-Bianchi,1,0,1
-Bianchi collided,0,1,1
-collided,9,8,17
-tractor crane,1,0,1
-crane,0,2,2
-attending,1,0,1
-crashed,0,2,2
-Bianchis,0,1,1
-wedged,5,10,15
-wedged underneath,1,3,4
-underneath,0,3,3
-diffuse,6,2,8
-diffuse axonal,2,0,2
-diffuse axonal injury,5,5,10
-axonal,5,5,10
-axonal injury,1,1,2
-injury,3,0,3
-coma,4,5,9
-accident,1,0,1
-intensive,2,3,5
-intensive care unit,1,1,2
-rehabilitation,9,6,15
-rehabilitation therapy,2,4,6
-therapy,0,1,1
-Philippe,0,1,1
-described,1,0,1
-non-progress,2,2,4
-daily torture,2,3,5
-torture,4,2,6
-Renault,0,1,1
-inaugural,8,4,12
-inaugural member,3,1,4
-Ferrari,0,1,1
-charged,1,4,5
-occasions,5,2,7
-Pavlensky,1,2,3
-Russias,0,1,1
-Federal,1,0,1
-Federal Security Service,1,0,1
-headquarters,5,1,6
-Pavlensky,0,1,1
-artwork,1,1,2
-Threat,3,3,6
-sentenced,2,3,5
-prison,0,1,1
-term,0,1,1
-vandalism,10,10,20
-released,0,1,1
-Anastasia Slonina,0,1,1
-actress,1,0,1
-theatre,1,0,1
-Teatr,0,1,1
-Teatr.doc,0,1,1
-liberal,7,2,9
-liberal plays,0,1,1
-filed,0,1,1
-filed rape charges,0,1,1
-rape,1,1,2
-charges,0,1,1
-Pavlensky,0,1,1
-Oksana,0,3,3
-claims,1,1,2
-CCTV video footage,1,0,1
-video footage,1,1,2
-footage,2,4,6
-Pavlensky,0,1,1
-beating,0,1,1
-Slonina,1,0,1
-Sloninas,0,1,1
-appear,0,1,1
-detained,10,8,18
-Sheremetyevo,2,3,5
-questioning,4,2,6
-Indianapolis,0,1,1
-Indianapolis Motor Speedway,1,0,1
-Doug Boles,0,1,1
-Hulman,0,1,1
-Mark Miles,0,1,1
-officially,5,1,6
-officially announced,0,1,1
-announced,7,0,7
-Wilsons,0,1,1
-accident,3,1,4
-evaluated,10,10,20
-foot injury,0,1,1
-injury,1,0,1
-released,1,2,3
-Andretti,0,1,1
-Autosport,2,0,2
-teammate,3,5,8
-teammate Ryan,0,1,1
-Hunter-Reay,0,1,1
-celebrate,5,0,5
-Victory Lane,1,0,1
-stated,1,1,2
-teammate,2,4,6
-hard,0,1,1
-Formula One,2,1,3
-Champ Car driver,0,1,1
-ride,0,1,1
-entering,0,1,1
-Andretti,1,2,3
-seven-race,0,2,2
-seven-race deal,2,0,2
-deal,0,2,2
-contract,6,2,8
-previously,4,2,6
-acquiring,6,8,14
-acquiring sponsorship,4,0,4
-sponsorship,9,5,14
-increased,0,1,1
-events,1,0,1
-recorded,1,2,3
-best finish,1,0,1
-Mid-Ohio Sports Car Course,0,1,1
-excused,5,4,9
-evidence,4,1,5
-self-medicating,9,6,15
-self-medicating insects,1,1,2
-insects,1,0,1
-widespread,5,9,14
-widespread do you think this phenomenon,1,0,1
-phenomenon,10,10,20
-first evidence,1,0,1
-evidence,1,2,3
-self-medication,4,1,5
-Moths,0,4,4
-definitely,0,2,2
-evidence,3,2,5
-evidence in honey bees and bumble-bees as well,1,0,1
-bumble-bees,3,5,8
-wide-spread,2,2,4
-insect,1,0,1
-insect world,0,1,1
-doubt,0,1,1
-cases documented,1,0,1
-documented,7,6,13
-taking care of themselves,1,0,1
-locate,1,0,1
-healing,1,5,6
-healing substances,2,3,5
-substances,2,2,4
-Bidens,0,1,1
-pictured,1,3,4
-pictured together,1,0,1
-file,0,1,1
-enjoyed,0,1,1
-unusually,3,3,6
-warm relationship,0,1,1
-ceremony,4,6,10
-described,0,1,1
-highly emotional,1,1,2
-emotional,1,2,3
-cited,3,2,5
-running mate,1,2,3
-mate,0,2,2
-career,1,0,1
-described,1,1,2
-arguments,5,4,9
-a lion of American history,1,0,1
-modified,8,4,12
-modified form,2,2,4
-Medal of Freedom,1,0,1
-distinction,10,7,17
-awarded,0,2,2
-Pope John Paul,0,1,1
-then-former,0,1,1
-Secretary,1,0,1
-Secretary of State,1,0,1
-Colin Powell,0,1,1
-ceremony,1,0,1
-comically,10,7,17
-bromance,10,9,19
-spreading,1,5,6
-spreading multiple,0,1,1
-multiple,3,0,3
-multiple conspiracy theories,1,1,2
-conspiracy,7,8,15
-conspiracy theories,4,1,5
-theories,3,0,3
-concerning,3,1,4
-President,1,0,1
-President Barack Obama,0,1,1
-previously,0,1,1
-Democratic,1,0,1
-presidential,3,1,4
-presidential nomination,1,0,1
-nomination,7,4,11
-unsuccessfully,7,1,8
-unsuccessfully sought,0,1,1
-sought,5,5,10
-Republican,1,1,2
-Republican Party,0,1,1
-Primary,0,1,1
-primary,1,0,1
-ballot,5,4,9
-appeared,0,1,1
-harbor,3,6,9
-harbor high expectations,0,1,1
-expectations,4,1,5
-electoral,6,1,7
-electoral success,2,0,2
-debates,2,2,4
-reference,0,1,1
-seventeen candidates,0,1,1
-debates,2,0,2
-casts,0,4,4
-eighteenth,1,1,2
-eighteenth candidate,2,0,2
-willing,1,1,2
-participate,1,1,2
-second-tier,5,3,8
-second-tier debate,1,0,1
-debate,2,0,2
-Moreover,1,0,1
-second-most,0,1,1
-exciting,2,0,2
-reserving,1,0,1
-praises,2,2,4
-throughout,1,1,2
-announcement,6,4,10
-According to,0,1,1
-Agus,1,0,1
-Agus Supriatna,1,0,1
-Supriatna,3,0,3
-chief,1,0,1
-pilot,1,0,1
-reported,1,1,2
-technical,4,2,6
-technical problems,2,1,3
-requested,1,2,3
-return to base,0,1,1
-base,0,1,1
-en,0,1,1
-en route,7,4,11
-route,1,0,1
-Soewondo,3,0,3
-Natuna,3,0,3
-crew,3,2,5
-crew members,0,1,1
-on board,1,2,3
-fatalities,10,9,19
-continued,0,1,1
-reported,1,0,1
-death toll,2,0,2
-toll,1,1,2
-identified,1,1,2
-blood sampling,4,2,6
-sampling,2,6,8
-newspaper,1,0,1
-Jakarta,1,0,1
-allegations,10,9,19
-passengers,1,0,1
-aircraft,0,1,1
-limited,0,1,1
-military,0,1,1
-civilian,5,1,6
-civilian passengers,1,1,2
-passengers,1,0,1
-related to military,0,1,1
-military personnel,1,0,1
-personnel,1,2,3
-special circumstances,4,0,4
-circumstances,7,9,16
-make out,0,1,1
-resident,3,3,6
-quoted,4,4,8
-newspaper,1,0,1
-Haveeru Daily,0,1,1
-appeared,2,1,3
-appeared to be headed,0,1,1
-headed,2,4,6
-Diego,1,0,1
-Diego Garcia,0,1,1
-According,1,0,1
-Huffington,0,1,1
-Haveeru,0,1,1
-reported,0,1,1
-witnesses,4,3,7
-interviewed,9,3,12
-authorities,5,2,7
-deemed,3,8,11
-truthful,0,1,1
-Maldive military officials,1,0,1
-Malaysian,0,1,1
-officials,1,0,1
-aircraft,0,2,2
-airspace,2,4,6
-went missing,0,1,1
-missing,0,1,1
-monitoring,8,8,16
-indication,4,4,8
-observed,3,1,4
-military radars,3,2,5
-radars,1,3,4
-Furthermore,4,0,4
-data,1,0,1
-radars,0,2,2
-analysed,10,5,15
-indication,4,4,8
-said flight,0,1,1
-flight,1,0,1
-Transport Minister,1,0,1
-Hishamuddin,0,1,1
-Hishamuddin Hussein,1,1,2
-located,0,3,3
-fined,4,5,9
-posting,0,1,1
-photograph,2,0,2
-incident,2,1,3
-gained,1,3,4
-gained international attention,0,1,1
-international,3,1,4
-international attention,0,1,1
-attention,1,0,1
-parked,1,1,2
-reserved,3,2,5
-reserved spot,1,2,3
-spot,0,1,1
-Petrer,2,1,3
-snapped,4,9,13
-snapped a photo,1,1,2
-caption,0,1,1
-bloody,3,0,3
-bloody well please,2,1,3
-fined,0,1,1
-Portillo,0,1,1
-spokesperson,4,4,8
-vehicle,1,0,1
-responding,4,6,10
-emergency,3,1,4
-reported,1,0,1
-internationally,5,3,8
-Citizens,1,0,1
-Citizens Security law,4,1,5
-went into effect,0,1,1
-response,1,0,1
-violent,2,2,4
-violent protests,1,2,3
-protests,3,2,5
-enactment,10,10,20
-widespread,2,5,7
-widespread criticism,5,2,7
-criticism,5,6,11
-NATO,1,0,1
-NATO summit,1,1,2
-summit,8,6,14
-Warsaw,0,1,1
-Defence,1,0,1
-Macierewicz,2,0,2
-ceremony,4,8,12
-troops,0,2,2
-decades,5,6,11
-sometimes,1,0,1
-protected civilization,3,0,3
-civilization,6,3,9
-aggression,10,7,17
-attended,1,2,3
-ceremony,3,0,3
-crossed,0,2,2
-crossed in,0,1,1
-Operation,1,0,1
-Operation Atlantic Resolve,0,2,2
-Atlantic,1,0,1
-Resolve,5,1,6
-deployment,8,9,17
-Abrams tanks,1,0,1
-Bradley Fighting Vehicles,1,0,1
-Vehicles,2,0,2
-Paladin,1,0,1
-Paladin artillery,2,0,2
-artillery,10,7,17
-deployment,5,3,8
-Cold War,0,2,2
-unidentified,7,3,10
-unidentified man,0,1,1
-summonsed,10,10,20
-appear,1,0,1
-Maidstone Magistrates,0,1,1
-Maidstone Magistrates Court,1,0,1
-Magistrates,1,0,1
-dangerous driving,0,1,1
-injury,2,1,3
-dangerous driving,1,0,1
-criminal,1,1,2
-criminal damage,1,1,2
-damage,1,0,1
-damaged,1,0,1
-nonfatal,7,6,13
-nonfatal accident,0,2,2
-elderly,0,2,2
-elderly motorcyclist,1,0,1
-motorcyclist,2,1,3
-motorcyclist with broken,0,1,1
-ribs,1,2,3
-avoiding,2,1,3
-tonnes,3,0,3
-falling debris,0,2,2
-debris,8,9,17
-lorries,3,2,5
-partially,5,0,5
-crushed,0,1,1
-collapse,4,2,6
-triggered,3,9,12
-triggered when a digger,0,1,1
-digger,2,5,7
-lorry,1,1,2
-lorry struck,1,0,1
-struck,0,1,1
-concrete,4,0,4
-investigate,6,3,9
-await,2,1,3
-probe,0,1,1
-probes,1,4,5
-deciding,0,2,2
-launch,3,2,5
-collapse,1,2,3
-millions,1,0,1
-pounds,1,0,1
-"damage, and closed",0,1,1
-major route,0,1,1
-route,2,1,3
-accident,1,0,1
-led,0,2,2
-discussions,6,3,9
-discussions regarding,0,1,1
-regarding,1,2,3
-suggestion,2,4,6
-addition,1,0,1
-canopy,7,10,17
-cars cockpit,1,0,1
-cockpit,9,9,18
-controversial,8,3,11
-opposed,1,1,2
-affecting,1,0,1
-aerodynamics,10,10,20
-s peripheral,1,0,1
-peripheral,5,6,11
-peripheral vision,5,2,7
-vision,0,1,1
-movement,1,0,1
-escaping,0,1,1
-upside-down,0,1,1
-tether,4,6,10
-nose cone,0,1,1
-cone,0,2,2
-Hunter-Reay,0,1,1
-mentioned renderings,1,0,1
-renderings,6,10,16
-renderings developed,1,0,1
-boomerang-like,5,4,9
-boomerang-like debris-deflector,4,2,6
-debris-deflector,6,6,12
-positioned,2,1,3
-tallest,0,1,1
-IndyCar,1,1,2
-Newgarden,0,1,1
-refuted,7,6,13
-refuted the statement,0,1,1
-statement,1,0,1
-regulation,3,1,4
-roll,0,1,1
-roll hoop,1,1,2
-hoop,0,1,1
-activity,0,2,2
-Adnan,1,0,1
-arrested,3,1,4
-arrested reportedly,1,1,2
-reportedly,1,3,4
-hunger strikes,4,4,8
-strikes,2,0,2
-lasted,0,1,1
-lasted,0,2,2
-release,1,2,3
-token,4,1,5
-token of sympathy,4,1,5
-sympathy,6,5,11
-remaining,2,1,3
-remaining Palestinian detainees,1,0,1
-Palestinian detainees,1,1,2
-detainees,10,10,20
-crashes,2,0,2
-Indonesian,1,0,1
-crashed,1,5,6
-board,0,1,1
-Sumatra,1,0,1
-according,0,1,1
-North Sumatra,1,0,1
-Tarigan,1,0,1
-Officials,1,0,1
-exploded,4,7,11
-impact,2,6,8
-big fireball,1,0,1
-fireball,2,5,7
-military,1,0,1
-took off,0,2,2
-crashed,0,3,3
-kilometers,3,0,3
-a couple of,0,1,1
-decision,4,0,4
-challenged,4,3,7
-unsuccessfully,7,3,10
-High Court,1,0,1
-pits,0,6,6
-pits the two accused,1,0,1
-accused,4,3,7
-defend,0,1,1
-death penalty,0,1,1
-possibility,1,1,2
-jeopardising,10,10,20
-international,2,0,2
-international relations,1,0,1
-relations,1,0,1
-co-operated,2,0,2
-light,0,1,1
-confidential,7,7,14
-charity,2,1,3
-Reprieve,4,4,8
-Concerns,1,1,2
-conduct,1,0,1
-investigation,3,0,3
-convictions,7,7,14
-raised,0,1,1
-defence,3,1,4
-defence lawyers,1,0,1
-Thailand,0,1,1
-judge,0,1,1
-assistance,1,2,3
-acknowledges,9,5,14
-how the accused might structure their defences,1,0,1
-accused,3,1,4
-structure,1,1,2
-defences,1,1,2
-evidence,4,4,8
-involved,0,2,2
-Chan-o-cha,0,1,1
-arranged,2,3,5
-observer,6,0,6
-observer team,1,0,1
-Metropolitan,1,0,1
-Metropolitan Police,1,0,1
-conduct,2,1,3
-conduct an inspection,1,0,1
-inspection,4,2,6
-Thai probe,1,1,2
-probe,4,6,10
-duly,0,1,1
-duly dispatched,2,1,3
-dispatched,10,6,16
-intent,4,4,8
-assisting,1,1,2
-assisting the victims,0,1,1
-victims,2,1,3
-expressly,5,2,7
-expressly forbidden,2,2,4
-forbidden,5,6,11
-ministerial,10,1,11
-ministerial level,1,0,1
-assistance,1,1,2
-authorities,6,2,8
-involves,0,1,1
-death penalty,0,1,1
-penalty,0,1,1
-established,2,0,2
-foreign,2,0,2
-foreign death penalty,0,1,1
-penalty,1,1,2
-Phyo,1,0,1
-seeking,0,3,3
-complex,1,0,1
-heard,0,1,1
-defendants,6,8,14
-assist,0,1,1
-assist their defence,1,0,1
-defence,5,0,5
-denied,1,3,4
-young surface,0,2,2
-surface,2,1,3
-current,1,2,3
-surface,1,0,1
-million,1,0,1
-craters,6,9,15
-natural satellite,2,1,3
-satellite,8,1,9
-Charon,0,1,1
-mountains,1,0,1
-water-ice,3,3,6
-space probe,1,0,1
-probe,6,8,14
-flew,0,1,1
-Jupiter,3,0,3
-future mission,0,1,1
-mission,2,2,4
-explore,3,5,8
-Kuiper,1,0,1
-Kuiper Belt,3,1,4
-Bianchi,1,0,1
-Bianchi,0,1,1
-Nürburgrings,1,1,2
-Nürburgrings World Series,2,0,2
-Nürburgrings World Series by Renault,1,0,1
-Renault,0,1,1
-serious,1,0,1
-accident,2,1,3
-Japanese,1,0,1
-Japanese Grand Prix,1,0,1
-announced,3,2,5
-deep sadness,0,1,1
-sadness,0,2,2
-Philippe,0,1,1
-Christine,0,1,1
-Mélanie,1,1,2
-passed,1,0,1
-passed away,4,2,6
-admitted,5,2,7
-following,1,0,1
-Suzuka Circuit,1,1,2
-Circuit,1,0,1
-Japanese,0,1,1
-Grand Prix,1,0,1
-expedited,10,10,20
-Burmese,1,0,1
-nationals,1,1,2
-trial accused,1,0,1
-accused,2,4,6
-accused of murdering,0,1,1
-murdering,1,2,3
-Witheridge,1,0,1
-defence,5,2,7
-defence case,0,1,1
-issued,1,1,2
-issued its judgement,0,1,1
-judgement,6,4,10
-following,1,0,1
-hearing,1,1,2
-victims,3,4,7
-murdered,1,0,1
-Koh,1,0,1
-Tao,1,0,1
-Witheridge,1,3,4
-raped,1,0,1
-attracted,0,1,1
-worldwide,1,1,2
-worldwide attention,1,0,1
-confessing,8,3,11
-re-enacting,10,8,18
-accused,2,0,2
-confessions,5,5,10
-tortured,5,6,11
-ongoing,2,6,8
-trial,1,1,2
-intervened,8,9,17
-Prayut,2,0,2
-Chan-o-cha,1,0,1
-basically,3,1,4
-diseases,3,4,7
-nest,0,1,1
-disease,0,1,1
-actually,1,1,2
-infect,4,4,8
-Wikinews,1,1,2
-research,2,5,7
-research,2,0,2
-sources,1,4,5
-medicine,1,0,1
-evidence,3,6,9
-tobacco,5,0,5
-bumble,0,3,3
-bumble bees,0,1,1
-Dalial Freitak,1,0,1
-currently running tests,0,1,1
-running,0,1,1
-running tests,0,1,1
-Ph.D,1,1,2
-Siiri Fuchs,1,0,1
-substances,7,7,14
-behaviour,7,7,14
-described,2,2,4
-species,3,6,9
-comparison,5,7,12
-species,5,5,10
-legislative,8,5,13
-legislative leaders,1,0,1
-moment,0,1,1
-craft,0,3,3
-craft legislation,2,3,5
-legislation,5,1,6
-repeal,3,6,9
-corrosive,9,10,19
-corrosive elements,3,2,5
-elements,1,0,1
-Obamacare,0,3,3
-individual,2,0,2
-individual mandate,1,0,1
-mandate,8,5,13
-penalties,4,2,6
-legislation,5,2,7
-reforms,2,3,5
-insurance,2,0,2
-growing the size of government,1,0,1
-government,1,1,2
-Vice President-elect,1,1,2
-Senator,1,0,1
-Cantwell,1,1,2
-stealing,2,4,6
-stealing health care,0,1,1
-filibuster,10,10,20
-last-ditch,2,6,8
-last-ditch tactic,3,2,5
-tactic,3,4,7
-opposed,1,1,2
-motion,1,2,3
-refuse,0,1,1
-relinquish,9,10,19
-opponents,2,1,3
-give in,0,2,2
-compromise,4,4,8
-Infected,3,2,5
-food laced,1,0,1
-laced,0,6,6
-laced with,0,2,2
-toxic,1,4,5
-toxic hydrogen peroxide,4,1,5
-hydrogen,2,0,2
-hydrogen peroxide,7,0,7
-peroxide,2,0,2
-whereas,3,0,3
-Hydrogen,1,0,1
-Hydrogen peroxide,2,0,2
-infected,2,0,2
-fatalities,3,8,11
-varied,0,1,1
-varied their intake,0,1,1
-intake,2,3,5
-depending,1,0,1
-peroxide,2,0,2
-peroxide concentration,1,1,2
-concentration,7,0,7
-Formica,0,1,1
-Formica fusca,5,2,7
-fusca,0,2,2
-encounter,1,4,5
-chemicals,2,0,2
-aphids,8,7,15
-Independent,1,0,1
-self-medicating,5,5,10
-Bos,0,1,1
-obtained,0,1,1
-doctorate,10,2,12
-Copenhagen,1,1,2
-postdoctoral,10,3,13
-postdoctoral research,0,3,3
-research,1,1,2
-Helsinki,2,1,3
-AntyScience,1,4,5
-blog,1,0,1
-blog,1,0,1
-a gap between scientists,0,1,1
-gap,0,1,1
-scientists,2,0,2
-pun,2,4,6
-pun referencing,0,1,1
-referencing,1,2,3
-non-scientific jargon-free communication,1,0,1
-non-scientific,1,1,2
-jargon-free,5,6,11
-jargon-free communication,3,1,4
-communication,2,0,2
-discusses,0,1,1
-Wikinews,1,0,1
-attracted,1,0,1
-researching,1,0,1
-chief,1,0,1
-allegations,10,10,20
-passengers,4,1,5
-AirAsia,1,1,2
-crashed,1,2,3
-aboard,1,6,7
-determined,3,4,7
-Nigerian,0,1,1
-refugee,5,5,10
-refugee camp,2,0,2
-mistook,5,6,11
-refugees,3,3,6
-rebels,3,3,6
-military,1,0,1
-firing,1,1,2
-Rann,1,1,2
-Borno State,1,1,2
-Dozens,1,1,2
-refugees,5,2,7
-aid workers,0,1,1
-estimate,6,2,8
-Médecins,1,1,2
-Médecins Sans Frontières,2,0,2
-Sans Frontières,0,1,1
-Frontières,1,0,1
-estimates,1,1,2
-Borno,1,1,2
-attributed,10,9,19
-AP,1,0,1
-wounded,2,5,7
-injured,3,3,6
-relations,1,0,1
-strained,8,10,18
-expelled,5,6,11
-diplomats,7,2,9
-accused,2,1,3
-espionage,10,10,20
-sanctioned,10,3,13
-intelligence,1,0,1
-intelligence agencies,1,0,1
-agencies,1,0,1
-issued,0,1,1
-concluded,3,2,5
-hacked,2,6,8
-hacked servers,1,1,2
-parties,1,0,1
-presidential,1,0,1
-presidential election,1,0,1
-president-elect,1,0,1
-indicated,2,1,3
-ties,1,2,3
-capable,1,1,2
-combat-ready,4,2,6
-US armoured brigade,0,1,1
-armoured,5,2,7
-armoured brigade,3,2,5
-brigade,4,2,6
-equipment,0,2,2
-weaponry,5,8,13
-ambassador,3,2,5
-ceremony,2,2,4
-iron-clad,4,4,8
-iron-clad commitment,1,1,2
-commitment,1,2,3
-NATO treaty obligation,1,0,1
-treaty obligation,1,0,1
-obligation,4,6,10
-NATO allies,1,2,3
-refused,2,0,2
-return wreckage,0,1,1
-wreckage,10,10,20
-encouraging,1,2,3
-encouraging conspiracy,2,0,2
-encouraging conspiracy theories,1,1,2
-conspiracy,7,5,12
-conspiracy theories,3,2,5
-theories,3,0,3
-in response to,0,1,1
-vanishing,7,8,15
-vanishing investigatory findings,1,2,3
-investigatory,4,2,6
-investigatory findings,1,0,1
-tension,3,0,3
-mounted,3,2,5
-deployed,7,6,13
-missiles,1,0,1
-Kalingrad,1,0,1
-enclave,6,5,11
-territory,0,2,2
-lying,0,1,1
-nuclear-capable,8,2,10
-Iskanders,2,1,3
-anti-ship,2,1,3
-anti-ship Bastion,1,0,1
-anti-ship Bastion equipment,1,0,1
-Bastion equipment,1,0,1
-equipment,2,0,2
-deployments,6,4,10
-troops,0,1,1
-rotate,1,0,1
-host,0,1,1
-rotation,3,0,3
-treaty,5,4,9
-permanent,3,0,3
-deployment,3,3,6
-particular,3,0,3
-territory,4,1,5
-potential,3,4,7
-potential thaw,1,2,3
-thaw,7,5,12
-According,1,0,1
-According to,1,0,1
-resorts,1,0,1
-pieces,0,1,1
-debris,10,10,20
-disposed,7,7,14
-debris,3,2,5
-trash,1,2,3
-buoys,10,6,16
-suspected,3,1,4
-suspected military,1,0,1
-suspected military waste,1,3,4
-wash up,0,1,1
-especially,1,2,3
-monsoon,9,3,12
-monsoon season,2,1,3
-residents,1,0,1
-resort,1,0,1
-regularly,1,0,1
-trash,1,0,1
-garbage,1,5,6
-garbage island,0,1,1
-Thilafushi,3,0,3
-sorted,2,4,6
-exported,3,2,5
-exported for recycling,1,0,1
-recycling,4,4,8
-debris,1,1,2
-suspected,2,1,3
-Thilafushi,2,0,2
-inch,0,1,1
-resort,2,1,3
-Birther King,1,1,2
-Birther,2,1,3
-announces,1,0,1
-campaign,2,3,5
-a perennial,1,0,1
-perennial,9,7,16
-perennial candidate,3,3,6
-candidate,0,1,1
-self-proclaimed,5,7,12
-self-proclaimed Birther King,0,1,1
-seeking,0,2,2
-presidential nomination,1,1,2
-nomination,2,3,5
-fourth bid,1,0,1
-bid,0,4,4
-announcement,1,1,2
-subsequent,9,9,18
-subsequent release,1,2,3
-expresses,0,3,3
-participate,1,0,1
-presidential,1,0,1
-debates,1,3,4
-aligns,7,7,14
-fellow,0,1,1
-candidate,0,1,1
-Additionally,0,1,1
-outlines,0,1,1
-degrading,8,9,17
-degrading the candidacy,1,1,2
-candidacy,4,7,11
-Republican,0,1,1
-nomination,4,0,4
-Republican,1,0,1
-announcement,2,1,3
-loyal,2,0,2
-principles,1,1,2
-necessarily,3,2,5
-loyal,0,1,1
-failed leaders,0,1,1
-fired artillery,1,0,1
-artillery,6,7,13
-artillery rounds,1,1,2
-rounds,0,1,1
-rounds aimed,0,1,1
-aimed,0,1,1
-loudspeaker,4,4,8
-broadcasts,0,4,4
-anti-Pyongyang,3,0,3
-anti-Pyongyang propaganda,2,2,4
-propaganda,9,6,15
-Commanders,1,0,1
-hastily,4,5,9
-hastily dispatched,2,3,5
-dispatched,4,1,5
-front-line,1,0,1
-destroy,1,0,1
-psychological,6,2,8
-psychological warfare,3,2,5
-psychological warfare tools,0,2,2
-warfare,0,2,2
-enemy,1,0,1
-propaganda,4,0,4
-propaganda broadcast,0,1,1
-counteractions,10,10,20
-injuries,1,0,1
-attacks,0,1,1
-evacuated,5,8,13
-Yeoncheon,2,2,4
-shell,2,3,5
-landed,0,1,1
-The South retaliated,0,1,1
-retaliated,7,8,15
-rounds of artillery,1,0,1
-artillery,3,1,4
-broadcast,1,0,1
-propaganda,3,2,5
-loudspeakers,2,3,5
-lull,1,2,3
-ruled,0,2,2
-ruled the pair,0,1,1
-in principal,1,0,1
-principal,4,0,4
-perfectly,0,2,2
-perfectly proper right,1,0,1
-proper,1,0,1
-seek access,0,1,1
-access,0,1,1
-purpose,0,2,2
-subsequently,10,9,19
-defence,4,1,5
-criminal,1,0,1
-criminal proceedings,5,1,6
-proceedings,3,6,9
-fundamental,5,3,8
-fundamental rights,4,2,6
-Curling,0,1,1
-represented,4,1,5
-appeal,3,4,7
-Phyo,0,1,1
-disappointed,4,2,6
-reassured,1,10,11
-information,1,1,2
-Metropolitan,1,1,2
-applying anxious scrutiny,1,0,1
-anxious,2,2,4
-anxious scrutiny,3,1,4
-scrutiny,7,6,13
-determined,1,2,3
-ongoing,0,6,6
-proceedings,1,1,2
-contacted,1,1,2
-Metropolitan,1,0,1
-responsible,1,1,2
-policing,1,0,1
-statement,0,1,1
-awaiting,2,3,5
-response,0,1,1
-Supreme Court,1,0,1
-due,0,1,1
-deliver,0,3,3
-decision,4,0,4
-challenging,5,6,11
-issue,0,1,1
-issue Article,1,0,1
-Article,1,1,2
-Brexit,1,0,1
-Brexit negotiations—without,1,0,1
-consultation,10,5,15
-consultation of Parliament,1,0,1
-Parliament,4,0,4
-Polish PM Beata Szydło,1,0,1
-Polish Prime Minister Beata Szydło,1,0,1
-headed,3,3,6
-ceremony,4,3,7
-Żagań,1,0,1
-troops,0,2,2
-region,1,0,1
-response,3,2,5
-arriving,1,0,1
-duty,1,1,2
-government,1,1,2
-provide,1,1,2
-provide security,0,1,1
-security,4,0,4
-big step,1,0,1
-direction,1,1,2
-Outgoing,1,5,6
-authorised,10,5,15
-intervention,10,7,17
-Crimea was annexed,1,0,1
-annexed,10,10,20
-The Social and Popular Assembly,1,0,1
-Social,1,0,1
-Assembly,5,1,6
-protests,1,2,3
-recent,1,0,1
-allege,7,3,10
-allege violations,3,1,4
-violations,6,5,11
-electoral,6,0,6
-electoral law,1,0,1
-electoral,5,0,5
-electoral commission crackdown,2,0,2
-commission,3,0,3
-commission crackdown,2,0,2
-crackdown,2,10,12
-organisation,2,0,2
-Campesino,3,2,5
-delay,0,1,1
-reformed,2,5,7
-constitution,6,0,6
-accused,0,1,1
-conspiring,10,6,16
-conspiring to corruptly divert,1,0,1
-corruptly,6,3,9
-corruptly divert,2,2,4
-divert,4,3,7
-denies,1,1,2
-misconduct,8,7,15
-alleged,3,3,6
-alleged shooter,0,1,1
-commits,1,1,2
-suicide,1,3,4
-crew,1,0,1
-Roanoke,1,0,1
-suspect,0,1,1
-manhunt,6,9,15
-authorities,2,1,3
-conducting,1,2,3
-interview,1,0,1
-gunman,1,1,2
-approximately,6,4,10
-under-represented,9,8,17
-education,1,0,1
-suffering,2,2,4
-regional,1,0,1
-regional economic downturn,4,1,5
-economic,3,0,3
-economic downturn,1,2,3
-downturn,3,8,11
-Amongst,3,2,5
-violence,2,1,3
-resolved,3,3,6
-televised,1,1,2
-televised broadcast,2,1,3
-broadcast,1,3,4
-previously,4,1,5
-Chief Minister,1,0,1
-sectarian,10,8,18
-sectarian violence,1,3,4
-violence,2,1,3
-resulted,0,1,1
-thousand,1,0,1
-Hungarian,0,1,1
-lorry,3,2,5
-articles,0,1,1
-Austria,0,1,1
-Portal,0,2,2
-foreign,4,1,5
-suspicion,6,7,13
-smuggling,10,10,20
-prohibits,9,10,19
-unauthorized,9,9,18
-jeopardize,10,10,20
-cited,1,3,4
-spokesperson,3,6,9
-Portillo,0,1,1
-involved,0,1,1
-preferred,3,4,7
-solution,2,1,3
-legal,0,1,1
-legal right,0,1,1
-impose,3,5,8
-impose the fine,1,0,1
-Portillo,1,0,1
-impugned,10,10,20
-sense of honor,0,1,1
-Explosion,2,4,6
-hunt,0,3,3
-responsible,2,1,3
-authorities,2,1,3
-searching,1,0,1
-backpack,2,4,6
-pipe-bomb,2,3,5
-exploded,4,4,8
-Erawan,1,0,1
-Shrine,0,1,1
-Bethany,0,1,1
-intensive,9,4,13
-intensive care,0,1,1
-intensive care unit,2,1,3
-declared,4,4,8
-According to,0,1,1
-Bethany,0,1,1
-waited,0,1,1
-arrival,1,0,1
-Meghalaya,0,2,2
-Meghalaya chief minister V. Shanmuganathan,1,0,1
-minister,1,0,1
-Shanmuganathan,1,1,2
-announcing,2,3,5
-home secretary,3,1,4
-government,1,0,1
-declare,0,4,4
-national mourning,2,1,3
-mourning,4,10,14
-Rajnath Singh,0,1,1
-tweeted,4,4,8
-inspiration,8,4,12
-entire generation,0,1,1
-generation,7,1,8
-presidential,0,2,2
-completed,0,1,1
-challenges,0,5,5
-debate,1,2,3
-debate exclusion,2,0,2
-exclusion,8,3,11
-presidential candidate,0,1,1
-candidate,1,0,1
-commissioner,7,2,9
-commissioner of the Internal Revenue Service,1,0,1
-Internal Revenue Service,1,0,1
-Internal Revenue Service (IRS,1,0,1
-Revenue,2,0,2
-filed,0,1,1
-complaint,2,1,3
-Federal,0,1,1
-Federal Election Commission,5,0,5
-Election,1,0,1
-Election Commission,1,0,1
-challenge,0,2,2
-challenge his exclusion,1,0,1
-exclusion,2,6,8
-Republican,1,0,1
-Republican Party,1,0,1
-presidential,2,0,2
-presidential debate,0,1,1
-debate,1,4,5
-claims,1,1,2
-Everson,0,1,1
-meet the criteria,1,0,1
-criteria,7,7,14
-established,8,2,10
-debates,1,3,4
-seventeen candidates,1,0,1
-candidates,1,1,2
-criteria,3,0,3
-consistently,8,9,17
-recognized opinion polls,1,0,1
-recognized,3,5,8
-opinion,2,0,2
-opinion polls,0,1,1
-polls,0,2,2
-prime-time,1,5,6
-prime-time event,1,1,2
-features,1,1,2
-average,1,0,1
-average polling,0,1,1
-average polling percentage,2,0,2
-polling,1,1,2
-percentage,2,1,3
-participate,3,1,4
-separate,1,0,1
-debate,1,0,1
-prime time event,0,1,1
-complaint,3,1,4
-Everson,0,1,1
-urges,2,1,3
-compel,3,3,6
-Fox News,1,0,1
-second tier,1,0,1
-second tier debate,2,1,3
-tier,3,1,4
-eighth participant,1,0,1
-participant,4,0,4
-argues,1,1,2
-violation,3,1,4
-structure[d] the debates,1,0,1
-debates,0,1,1
-candidate,2,0,2
-criteria,2,0,2
-criteria that replaced,0,1,1
-pre-existing,7,2,9
-percent polling,0,1,1
-polling,1,0,1
-polling threshold,1,1,2
-threshold,7,4,11
-threshold admitting,1,0,1
-consistently,3,3,6
-recognized polls,1,0,1
-recognized,4,2,6
-Brexit,4,3,7
-rules out,0,4,4
-single market,1,0,1
-single market membership,0,3,3
-market,1,0,1
-membership,1,0,1
-announced,2,2,4
-governments,1,0,1
-proceed,2,3,5
-Brexit,2,0,2
-stated,0,1,1
-government,1,0,1
-seek,0,1,1
-single market,0,2,2
-instead,0,3,3
-seek,2,1,3
-trade,0,1,1
-trade relationship,0,2,2
-relationship,2,0,2
-government,1,0,1
-seek,0,1,1
-seek access,0,1,1
-access,4,0,4
-single market,0,1,1
-retaining,10,9,19
-formal,0,1,1
-membership,1,0,1
-stressed,2,6,8
-need for friendliness,0,1,1
-friendliness,5,2,7
-EU,1,0,1
-control immigration,1,1,2
-immigration,10,6,16
-require,1,0,1
-bound,3,6,9
-bound by decisions,0,2,2
-decisions,3,1,4
-European,1,0,1
-European Court of Justice,1,0,1
-Court,1,0,1
-Justice,2,0,2
-preventing,1,2,3
-gaining,0,1,1
-Republican nomination,3,0,3
-nomination,10,3,13
-intends,0,3,3
-focus,2,1,3
-campaign,4,4,8
-protecting,1,0,1
-prestige,9,7,16
-Hampshire,0,1,1
-Primary,2,0,2
-Caucus,4,2,6
-defending the economic legacy,1,0,1
-economic legacy,2,1,3
-legacy,3,5,8
-Alexander Hamilton,0,1,1
-combating,2,6,8
-combating political correctness,1,1,2
-political correctness,1,0,1
-correctness,1,0,1
-emphasizing,7,5,12
-relations,1,0,1
-political,1,0,1
-political corruption,0,2,2
-corruption,4,4,8
-filed paperwork,0,1,1
-paperwork,0,4,4
-Federal,1,0,1
-run for,1,0,1
-officially,0,1,1
-presidential,1,2,3
-presidential candidates,1,0,1
-likewise,2,4,6
-Rape-accused,2,2,4
-Pyotr Pavlensky,1,1,2
-seek asylum,0,1,1
-asylum,5,5,10
-controversial,10,8,18
-political,1,0,1
-political asylum,0,2,2
-asylum,6,2,8
-Oksana Shalygina,0,1,1
-Shalygina,1,0,1
-falsely,1,1,2
-falsely accused,1,1,2
-accused,1,3,4
-Criminal,1,0,1
-Criminal law,0,1,1
-rape,1,0,1
-Presidential,1,0,1
-Presidential spokesperson,1,0,1
-spokesperson,6,7,13
-Dmitry,0,1,1
-Dmitry Peskov,1,1,2
-echoed,4,6,10
-echoed Putin,0,1,1
-troops,0,3,3
-threat,2,1,3
-threaten,4,8,12
-threaten our interests,1,0,1
-Especially,3,0,3
-concerns,1,3,4
-third party,1,0,1
-military,1,0,1
-military presence,2,0,2
-presence,3,1,4
-borders,0,1,1
-European state,1,0,1
-Ties,0,2,2
-strained,4,10,14
-expelled,2,6,8
-diplomats,4,4,8
-diplomats accused,2,0,2
-accused,2,1,3
-espionage,10,10,20
-sanctioned,9,5,14
-intelligence,4,0,4
-intelligence agencies,1,1,2
-response,0,1,1
-hacked,5,6,11
-hacked servers,0,1,1
-servers,1,0,1
-Republican,1,1,2
-Democratic parties,0,1,1
-presidential,0,1,1
-president-elect,2,0,2
-president-elect Donald,0,1,1
-Szydło,1,2,3
-Poland,0,1,1
-suffered,5,3,8
-suffered a decline,0,1,1
-decline,4,4,8
-opinion’s,1,0,1
-showy,0,2,2
-showy profundities,1,0,1
-profundities,10,10,20
-profoundly,1,3,4
-profoundly incoherent,10,3,13
-incoherent,5,8,13
-decision,1,0,1
-wave,0,1,1
-rainbow flag,0,1,1
-court,0,1,1
-court plaza,1,0,1
-plaza,1,0,1
-Demonstrators,10,4,14
-court,0,1,1
-chanted,1,5,6
-legalise,10,4,14
-legalise same-sex,1,0,1
-same-sex marriage,2,0,2
-marriage,1,0,1
-responded,1,2,3
-decision,1,0,1
-uncertain,3,2,5
-uncertain terms,0,1,1
-union,1,0,1
-introduced,0,1,1
-profile,1,1,2
-profile picture,1,0,1
-victory,2,0,2
-Zuckerberg,1,0,1
-community,4,1,5
-recognized,10,2,12
-equal couples,1,0,1
-argues,2,3,5
-his exclusion,1,0,1
-exclusion,8,6,14
-exclusion violates,1,1,2
-violates,3,2,5
-U.S. Code of Federal Regulations,1,0,1
-Federal,0,1,1
-Federal Regulations,0,1,1
-Regulations,1,1,2
-debate,1,2,3
-structure,0,2,2
-debates,1,0,1
-promote,1,0,1
-advance,0,1,1
-advance one candidate over another,1,0,1
-candidate,2,0,2
-pre-established,3,3,6
-pre-established objective criteria,3,0,3
-objective,1,2,3
-objective criteria,1,2,3
-criteria,4,4,8
-determine,1,1,2
-candidates,1,0,1
-participate,1,1,2
-debate,0,1,1
-Commissioner,2,1,3
-IRS,1,0,1
-administration,4,1,5
-departure,2,3,5
-cabinet,2,0,2
-governor,1,0,1
-Mitch Daniels,0,1,1
-tax consulting,1,1,2
-consulting,3,1,4
-firm,0,1,1
-alliantgroup,6,5,11
-announced,2,1,3
-candidacy,6,5,11
-outlined,0,3,3
-pillars,2,2,4
-campaign,1,0,1
-amnesty,10,3,13
-amnesty for illegal immigrants,2,1,3
-illegal immigrants,0,1,1
-immigrants,2,4,6
-reinstatement,7,10,17
-reinstatement of the military draft,1,1,2
-draft,0,3,3
-presidential,0,1,1
-tax reform,0,1,1
-reform,0,1,1
-deficit,6,4,10
-deficit reduction,2,1,3
-corporate,1,1,2
-responsibility,0,1,1
-shrine,6,9,15
-popular attraction,1,1,2
-attraction,3,2,5
-Thailands capital,0,1,1
-including,0,2,2
-foreigners,4,2,6
-reported,0,2,2
-upwards,0,2,2
-injured,0,1,1
-blast,0,2,2
-blast occurred,1,0,1
-occurred,1,1,2
-approximately,8,3,11
-Bangkok,0,1,1
-flooded,2,5,7
-pedestrian,8,9,17
-pedestrian activity,1,1,2
-Authorities,1,2,3
-suspect,2,1,3
-assisted,1,0,1
-political unrest,2,1,3
-unrest,1,7,8
-explosion,4,2,6
-Thai baht,1,1,2
-Thai baht hit,1,0,1
-baht,1,2,3
-Defence,1,1,2
-Defence Minister,1,0,1
-Prawit Wonguwan,0,2,2
-Reuters,0,2,2
-a deliberate,1,0,1
-deliberate,9,8,17
-deliberate attack,1,0,1
-economy,2,0,2
-tourism,1,0,1
-tourism industry,1,0,1
-authorities,1,0,1
-Muslim insurgents,2,0,2
-insurgents,10,5,15
-southern provinces,0,1,1
-provinces,2,1,3
-Wikinews,0,1,1
-Wikinews interviews,0,1,1
-Republican Party,1,0,1
-candidate,0,1,1
-U.S. Commissioner of Internal Revenue,1,0,1
-Commissioner,0,1,1
-Commissioner of Internal Revenue,1,0,1
-Internal Revenue,0,1,1
-Revenue,2,0,2
-Wikinews,1,0,1
-campaign,2,5,7
-Republican,1,0,1
-presidential nomination,0,1,1
-nomination,4,2,6
-Amazonas,0,1,1
-prison,0,1,1
-prison riot,0,2,2
-riot,2,3,5
-inmates,2,4,6
-whom,1,0,1
-beheaded,9,10,19
-beheaded and dismembered,1,0,1
-dismembered,10,10,20
-Roraima,0,2,2
-riot,1,0,1
-disembowelled,10,10,20
-wake,1,0,1
-riots,2,1,3
-Michel Temer,0,1,1
-Reuters,0,1,1
-joint cooperation,0,1,1
-cooperation,1,0,1
-federal,2,1,3
-maximum security,2,0,2
-security prisons,0,1,1
-house,0,1,1
-violent,3,0,3
-violent convicts,1,2,3
-convicts,4,3,7
-intelligence,3,0,3
-counter,0,2,2
-influence,3,1,4
-powerful inmates,1,0,1
-inmates,2,2,4
-Temer,0,1,1
-announced,0,1,1
-Brazilian,0,1,1
-Brazilian reals,1,0,1
-budget,2,0,2
-activists,4,0,4
-skeptical,10,9,19
-we basically put colonies,1,0,1
-basically,1,5,6
-colonies,10,4,14
-diet,1,0,1
-afterwards,0,4,4
-infected,4,4,8
-data,1,0,1
-so-called,2,3,5
-so-called survival analysis,1,0,1
-survival,0,3,3
-survival analysis,2,3,5
-analysis,7,2,9
-measured,0,2,2
-ROS-concentration,7,3,10
-ingested,5,9,14
-using a spectrophotometer,1,0,1
-spectrophotometer,10,8,18
-chemicals,2,0,2
-emission,7,5,12
-emission of light of a certain wave-length,1,0,1
-wave-length,2,3,5
-detrimental,8,9,17
-detrimental effect,0,2,2
-ROS,2,0,2
-spores,4,3,7
-concentrations,3,3,6
-ROS,1,0,1
-spores,2,1,3
-plated,0,3,3
-plated them out on petridishes,1,0,1
-petridishes,10,10,20
-agar-solution,8,4,12
-fungus,4,4,8
-Tumblr,0,1,1
-tweeted,8,2,10
-hashtag,6,5,11
-projected,5,3,8
-decision,1,0,1
-Palestinian,3,1,4
-prisoner,1,0,1
-Khader Adnan,0,1,1
-hunger strike,2,2,4
-released,3,1,4
-Palestinian,2,0,2
-Palestinian Islamic Jihad,2,0,2
-Islamic,1,0,1
-Islamic Jihad,0,1,1
-Jihad,1,0,1
-movement,1,0,1
-media,1,0,1
-Adnan,0,1,1
-ceased,5,6,11
-achieving,4,3,7
-agreement,1,0,1
-entailing,6,9,15
-administrative,5,1,6
-administrative detention,4,1,5
-detention,6,4,10
-lasted,0,1,1
-mortal,4,4,8
-mortal danger,1,1,2
-severe,2,0,2
-severe deterioration,1,1,2
-deterioration,10,9,19
-hospitalize,7,1,8
-Assaf Harofe,0,1,1
-Jawd Boulos,0,1,1
-released,1,0,1
-yesterdays,0,1,1
-ruled,0,1,1
-ruled out,0,4,4
-membership,1,1,2
-customs,1,0,1
-customs union,3,1,4
-union,1,0,1
-prevented,0,1,1
-negotiating,10,10,20
-negotiating trade deals,1,0,1
-deals,0,1,1
-non-EU countries,1,0,1
-Theresa,0,1,1
-contributions,4,6,10
-EU budget,1,0,1
-budget,1,0,1
-cease,3,7,10
-contributions,6,1,7
-pan-European,3,1,4
-pan-European schemes,3,2,5
-schemes,4,3,7
-vast,1,2,3
-vast contributions,0,2,2
-contributions,3,0,3
-legal status,1,2,3
-abroad,1,2,3
-guarantee,4,6,10
-sought,1,1,2
-sought reciprocity,0,1,1
-reciprocity,10,8,18
-Exiting,3,3,6
-echoed,1,6,7
-Parliament,3,2,5
-Houses of Parliament,1,0,1
-Parliament,0,1,1
-economy,5,0,5
-unemployment,8,4,12
-unemployment rate,0,2,2
-remains,1,0,1
-remains steady,0,1,1
-steady,0,3,3
-Bureau,2,1,3
-Bureau of Labor Statistics,1,0,1
-Statistics,1,1,2
-growth,1,0,1
-averaged,3,2,5
-Continuing,0,1,1
-a trend,1,0,1
-trend,2,4,6
-steady,3,3,6
-steady employment growth,0,1,1
-employment,1,1,2
-economy,1,1,2
-Statistics,3,0,3
-unemployment,0,1,1
-remained,0,1,1
-unchanged,0,1,1
-quite strong,1,0,1
-Jim OSullivan,0,1,1
-chief,2,0,2
-economist,7,3,10
-Economics,0,1,1
-data,1,0,1
-data analysis,1,1,2
-data analysis firm,2,1,3
-analysis,5,2,7
-firm,1,0,1
-pace,1,1,2
-employment growth,1,0,1
-trending,1,5,6
-trending down,1,1,2
-earnings,2,1,3
-rose,0,1,1
-rebound,9,7,16
-stalled,3,7,10
-Wages,1,1,2
-Federal,0,1,1
-Federal Reserve,1,0,1
-annual,2,1,3
-annual wage growth,2,0,2
-wage,0,1,1
-underlying,9,7,16
-underlying rate,0,1,1
-underlying rate of inflation,1,0,1
-inflation,8,7,15
-border,1,0,1
-migrants,7,9,16
-"Afghanistan, Syria, and Bangladesh",1,0,1
-Syria,0,1,1
-Biologist,5,1,6
-Biologist Nick Bos,0,1,1
-Wikinews,1,0,1
-self-medicating,7,1,8
-ants,0,1,1
-University of Helsinki,1,0,1
-Helsinki,0,1,1
-amazing adaptations,1,1,2
-adaptations,9,9,18
-social insects,1,2,3
-evolved,2,3,5
-extreme,1,0,1
-extreme parasite pressure,0,1,1
-parasite,9,5,14
-parasite pressure,1,2,3
-experience,0,1,1
-recently-accepted,1,1,2
-Evolution,4,2,6
-colleagues,4,3,7
-ants,0,1,1
-appearing,1,0,1
-self-medicate,3,3,6
-documented,3,4,7
-Formica,1,0,1
-Formica fusca,2,1,3
-fusca,1,1,2
-ant,0,1,1
-species,1,0,1
-thousand-strong,1,3,4
-colonies,4,1,5
-aphid,6,2,8
-aphid honeydew,2,3,5
-honeydew,0,2,2
-nests,0,2,2
-tree stumps,1,1,2
-stumps,2,4,6
-foraging,6,6,12
-foraging workers,1,2,3
-spotted,0,6,6
-ants,0,1,1
-Beauveria bassiana,4,1,5
-bassiana,0,1,1
-a fungus,1,0,1
-fungus,6,1,7
-troops,0,2,2
-threat,2,2,4
-yesterday,0,1,1
-indicated,4,4,8
-a threat,1,1,2
-threat,1,3,4
-deployment,10,10,20
-Operation,1,0,1
-Operation Atlantic Resolve,1,2,3
-Resolve,3,1,4
-quarter,2,2,4
-troops,1,0,1
-earmarked,8,10,18
-Humvees,8,3,11
-based,1,0,1
-Żagań,2,0,2
-Polish Prime Minister,1,0,1
-Prime Minister,1,0,1
-Defence Minister,1,0,1
-Macierewicz,1,0,1
-scheduled,4,3,7
-ceremonially,10,9,19
-tomorrow,0,1,1
-deployment,3,4,7
-Abrams tanks,0,1,1
-Bradley Fighting Vehicles,1,1,2
-Vehicles,1,0,1
-Paladin,1,0,1
-Paladin artillery,2,2,4
-artillery,9,7,16
-deployment,4,2,6
-Cold War,1,2,3
-Justice,0,1,1
-state-run,3,3,6
-news outlet,1,0,1
-outlet,2,1,3
-Agência,1,0,1
-Agência Brasil,1,0,1
-riot,3,8,11
-continued,0,1,1
-security,1,0,1
-security forces,1,0,1
-security forces quelled,1,0,1
-quelled,10,10,20
-riot,0,2,2
-Presse,1,0,1
-Janeiro,2,0,2
-gang,0,2,2
-gang members,1,0,1
-Primeiro,2,1,3
-Primeiro Comando da Capital,1,0,1
-Comando Vermelho,2,0,2
-Vermelho,1,0,1
-riots,0,1,1
-participants,3,1,4
-participants,2,1,3
-Sindicato do Crime,1,0,1
-had been housed,0,1,1
-housed,1,3,4
-separate,1,2,3
-prison,1,1,2
-ringleaders,10,10,20
-captured,2,5,7
-facilities,4,5,9
-riots,0,1,1
-overcrowding,10,9,19
-contributed,3,4,7
-riot,0,1,1
-department,1,0,1
-Alcaçuz,1,1,2
-inmates,3,6,9
-capacity,3,1,4
-Bundesliga,3,1,4
-Bundesliga titles,1,1,2
-titles,2,0,2
-DFB-Pokal,0,1,1
-DFB-Pokal titles,1,1,2
-titles,1,2,3
-scored,1,1,2
-winning,0,1,1
-winning goal,0,2,2
-goal,1,0,1
-UEFA Champions League,1,0,1
-Champions League,1,0,1
-League,4,1,5
-Wembley Stadium,1,0,1
-Bayerns,1,0,1
-arch,2,0,2
-arch rivals,5,6,11
-rivals,1,2,3
-Borussia Dortmund,1,0,1
-signing,1,1,2
-contract,1,3,4
-playing,0,1,1
-further year,0,1,1
-club,0,1,1
-Munich,1,0,1
-second home,0,1,1
-continue,1,1,2
-highest level,0,1,1
-trophies,9,6,15
-announced,2,3,5
-announced signings,0,1,1
-signings,2,4,6
-Niklas Süle,1,0,1
-Hoffenheim,2,0,2
-squad,3,4,7
-squad in,1,0,1
-internationals,6,1,7
-penned,6,10,16
-respectively,10,5,15
-Bianchi,1,0,1
-Bianchi familys second driver death,1,0,1
-driver death,1,0,1
-Le Mans,1,0,1
-great uncle,2,0,2
-testing at Circuit,1,0,1
-Circuit,2,0,2
-Circuit de la Sarthe,4,0,4
-Sarthe,2,0,2
-Le Mans,1,0,1
-Le Mans race,1,0,1
-held,0,2,2
-condolences,10,10,20
-social media,2,1,3
-Marussia,1,1,2
-team mate,1,0,1
-mate,0,1,1
-tweeted,5,3,8
-describe,0,1,1
-pleasure,2,1,3
-pleasure knowing,0,1,1
-knowing and racing you,1,0,1
-Portrait,5,4,9
-president,1,0,1
-Missile,0,1,1
-Missile Man,3,0,3
-Missile Man of India,1,0,1
-former,0,1,1
-collapsing,10,10,20
-collapsing at,1,0,1
-delivering,6,5,11
-delivering a speech,0,1,1
-speech,0,1,1
-Livable,2,0,2
-Livable Planet Earth,1,0,1
-Indian Institute of Management Shillong,2,0,2
-Institute,1,0,1
-Institute of Management,1,0,1
-Institute of Management Shillong,1,0,1
-"Management Shillong, in Meghalaya, India",1,0,1
-Meghalaya,1,0,1
-wrapped,3,9,12
-wrapped himself,0,1,1
-half naked,1,0,1
-cocoon,10,6,16
-barbed,2,8,10
-barbed wire,5,1,6
-following,1,0,1
-chopped,2,2,4
-chopped off,0,4,4
-ear lobe,1,0,1
-lobe,0,2,2
-nude,2,2,4
-labelling,3,2,5
-Segregation,10,9,19
-returning,1,0,1
-Pavlensky,1,2,3
-lamb to the slaughter,1,0,1
-slaughter,10,9,19
-especially,1,1,2
-slaughter,4,3,7
-desired,0,1,1
-Oksana,0,1,1
-liable,7,4,11
-sentenced,2,3,5
-guilty,5,3,8
-fined,0,1,1
-Gag Law,1,2,3
-vehicle,0,1,1
-handicapped,8,3,11
-handicapped bay,0,2,2
-Petrer,0,1,1
-license,4,1,5
-fined,0,1,1
-posting,0,1,1
-photograph,1,0,1
-vehicle,1,1,2
-reserved,3,1,4
-disabled/handicapped,4,0,4
-Eventually,4,4,8
-incidents,8,3,11
-anger,0,1,1
-fore,5,5,10
-dismissed,5,6,11
-appeared,1,1,2
-captured,4,3,7
-Twitter and Facebook pages,1,0,1
-afterwards,3,3,6
-dozens,0,1,1
-lorry,3,2,5
-lorry  To,1,0,1
-articles,0,1,1
-Portal,0,1,1
-Portal  Flag,2,0,2
-Austria.svg,1,0,1
-Parndorf,2,1,3
-lorry,6,1,7
-estimated,3,5,8
-decomposing,5,5,10
-decomposing corpses,6,3,9
-corpses,2,4,6
-apparently,5,3,8
-apparently abandoned,2,3,5
-apparently abandoned lorry,1,0,1
-abandoned,6,5,11
-lorry,4,1,5
-Roadworkers,3,2,5
-spotted,0,3,3
-vehicle,1,0,1
-yesterday,1,0,1
-alerted,0,3,3
-Responding,4,1,5
-corpses,2,3,5
-researchers,2,1,3
-amygdala,10,8,18
-hunting,0,1,1
-biting,1,1,2
-biting behavior,1,0,1
-jawed,0,3,3
-jawed vertebrates,3,2,5
-vertebrates,10,4,14
-experiments,5,0,5
-funded,0,2,2
-organizations,5,1,6
-inspired,3,1,4
-inspired comparisons,1,1,2
-comparisons,0,1,1
-research,1,0,1
-zombies,4,5,9
-Walking Dead,0,1,1
-especially,1,0,1
-behavior,2,0,2
-pronounced,7,4,11
-subjects,0,1,1
-mice,1,1,2
-stimulating,6,5,11
-stimulating predatory,3,0,3
-stimulating predatory behavior,0,1,1
-predatory,8,4,12
-predatory behavior,0,2,2
-specifically,5,0,5
-aggressive,4,4,8
-laser,1,0,1
-resembled,5,6,11
-motorway,1,1,2
-motorway bridge,0,1,1
-collapse,2,2,4
-indicated,1,3,4
-charged,0,1,1
-collapse,4,0,4
-pedestrian,9,5,14
-pedestrian bridge,0,2,2
-motorway,0,1,1
-counted,0,1,1
-spores,7,10,17
-reliable,2,8,10
-reliable,4,3,7
-colonies,6,6,12
-containing,1,0,1
-conducted,4,5,9
-conducted the experiment blind,1,0,1
-experiment,2,1,3
-experiment blind,0,1,1
-blind,1,2,3
-experimenter,4,4,8
-treatment,1,0,1
-impossible,1,0,1
-influence,3,5,8
-observer bias,7,7,14
-bias,4,4,8
-proof,0,2,2
-species,2,3,5
-extrapolate,10,10,20
-ants,0,1,1
-lead,0,1,1
-fungus,3,4,7
-Slovak,2,2,4
-Hyza,1,1,2
-previously,2,2,4
-Wikinews,2,0,2
-the lorry,0,1,1
-lorry,5,3,8
-changed,0,1,1
-changed hands,1,0,1
-roughly,2,4,6
-exported,9,1,10
-bears,0,2,2
-Hungarian,1,0,1
-features,2,3,5
-branding,3,4,7
-including,1,1,2
-discovery,2,0,2
-removed,0,1,1
-graphic,5,2,7
-graphic from their homepage,1,0,1
-homepage,0,2,2
-featuring,2,0,2
-chicken stowaways,0,1,1
-stowaways,9,9,18
-inspected,3,2,5
-customs,2,2,4
-stowaways,6,3,9
-appeared,1,1,2
-alongside,1,2,3
-imigranti,8,4,12
-migrants,3,4,7
-lorry,1,1,2
-Braunau,1,1,2
-refused,0,2,2
-arrested,0,1,1
-chase,0,1,1
-hospitalised,8,2,10
-severe,2,0,2
-severe dehydration,2,1,3
-dehydration,10,9,19
-served,1,2,3
-Commissioner,4,2,6
-Commissioner of Internal Revenue,1,0,1
-Internal,1,0,1
-Internal Revenue,2,2,4
-Revenue,3,2,5
-administrative,8,2,10
-Internal Revenue Service,1,0,1
-Internal Revenue Service (IRS,0,1,1
-administration,3,2,5
-departure,7,7,14
-briefly,1,3,4
-cabinet,5,3,8
-Indiana governor,1,0,1
-Mitch Daniels,0,1,1
-tax consulting firm,1,1,2
-tax consulting firm alliantgroup,1,0,1
-consulting,6,2,8
-alliantgroup,6,2,8
-announced,2,1,3
-candidacy,7,7,14
-outlined,0,5,5
-pillars,5,2,7
-campaign,2,1,3
-amnesty,10,3,13
-illegal,1,0,1
-illegal immigrants,0,2,2
-immigrants,6,5,11
-reinstatement,10,10,20
-reinstatement of the military draft,0,1,1
-draft,1,4,5
-presidential term,0,1,1
-tax reform,0,1,1
-deficit,5,2,7
-deficit reduction,0,4,4
-corporate responsibility,0,3,3
-responsibility,0,1,1
-excluded,3,2,5
-presidential,1,1,2
-debate,0,2,2
-excluded,3,1,4
-polls,0,1,1
-appointed,10,5,15
-position,1,1,2
-Choe,0,1,1
-involved,3,3,6
-trade talks,2,1,3
-talks,1,0,1
-Koreas,0,1,1
-attended,1,2,3
-Kaesong,1,1,2
-Kaesong Industrial Region,1,0,1
-Industrial,2,1,3
-joint,1,0,1
-joint venture,5,5,10
-venture,6,3,9
-South Koreas,0,1,1
-Ministry of Unification,1,0,1
-Unification,2,4,6
-Reuters,1,3,4
-monitoring,7,5,12
-publicly,3,1,4
-South Koreas,0,1,1
-executions,5,9,14
-officials,0,1,1
-including,0,1,1
-forestry official,1,1,2
-forestry,7,3,10
-Choe Yong-gon,0,1,1
-mentioned,2,2,4
-referring,2,3,5
-Yonhap,1,1,2
-attributed,8,7,15
-attributed roughly,1,0,1
-roughly,0,4,4
-executions,7,0,7
-troops,1,0,1
-are set to,0,1,1
-rotate,3,3,6
-rotate around,1,0,1
-region,3,0,3
-planned,0,1,1
-host,2,4,6
-nations,1,0,1
-Estonia,1,1,2
-"Estonia, Latvia, Lithuania, Romania, Bulgaria",1,0,1
-Latvia,1,1,2
-Lithuania,1,1,2
-Romania,0,1,1
-Bulgaria,0,1,1
-Hungary,1,0,1
-rotation,1,0,1
-treaty,6,6,12
-preventing,3,2,5
-preventing permanent deployment,1,0,1
-permanent,1,0,1
-permanent deployment,2,0,2
-deployment,8,10,18
-particular territory,3,0,3
-territory,6,5,11
-Deputy,0,1,1
-Foreign,1,0,1
-Alexei Mechkov,1,1,2
-incoming,1,1,2
-vehicles,1,0,1
-factor,1,0,1
-factor destabilising European security,1,0,1
-destabilising,10,9,19
-presence,0,1,1
-US assets,0,1,1
-assets,1,1,2
-threatens,1,5,6
-threatens our interests and our security,1,0,1
-security,1,0,1
-Vladimir Putin,1,0,1
-Putin,0,1,1
-administration,5,1,6
-described,0,1,1
-deployment,2,1,3
-threat,0,2,2
-relations,1,0,1
-strained,2,9,11
-annexation,10,10,20
-Crimea,2,1,3
-increasing,1,0,1
-presence,2,0,2
-Kalingrad,1,1,2
-enclave,4,3,7
-territory,1,1,2
-Lithuania,0,1,1
-nuclear-capable,3,1,4
-Iskander,2,0,2
-missiles,1,0,1
-anti-ship,0,1,1
-Bastion,1,1,2
-Bastion equipment,1,0,1
-equipment,0,1,1
-considered,1,0,1
-Mannings,0,2,2
-Mannings actions,0,1,1
-Chelsea,0,1,1
-exposed,5,2,7
-serious,1,0,1
-serious abuses,0,1,1
-abuses,1,5,6
-executive,1,0,1
-Amnesty,5,1,6
-Amnesty International,1,0,1
-International,2,0,2
-violated,8,6,14
-Huang,0,1,1
-long overdue,2,3,5
-overdue,3,4,7
-Despite,1,1,2
-trans,1,0,1
-trans woman,3,3,6
-housed,2,1,3
-Disciplinary,3,0,3
-Disciplinary Barracks,0,1,1
-"Disciplinary Barracks at Fort Leavenworth, Kansas",1,0,1
-Barracks,1,1,2
-Leavenworth,1,0,1
-solitary,4,2,6
-solitary confinement,6,3,9
-confinement,3,8,11
-attempted,2,0,2
-attempted suicide,1,0,1
-suicide,2,2,4
-WikiLeaks,1,0,1
-Julian Assanges,0,1,1
-U.S. extradition,0,1,1
-extradition,7,4,11
-granted,0,1,1
-granted clemency,2,0,2
-clemency,9,9,18
-Assange,1,2,3
-Ecuadorian,1,1,2
-embassy,3,0,3
-claiming,0,1,1
-claiming asylum,2,2,4
-asylum,7,8,15
-twice,0,1,1
-heard,0,1,1
-discovery,7,3,10
-Vabbinfaru,1,3,4
-Vabbinfaru resort,1,0,1
-resort,1,0,1
-immediately,3,0,3
-immediately called,0,1,1
-Mohamed Ibrahim,0,1,1
-councilman,9,6,15
-Fehendhoo,1,1,2
-Fehendhoo Island,2,0,2
-Haveeru,1,2,3
-Kuala Lumpur,1,1,2
-vanished,6,10,16
-without a trace,1,0,1
-trace,3,4,7
-passengers,3,1,4
-crew,1,3,4
-believed,1,0,1
-residents,2,2,4
-Maldive,0,1,1
-Kudahuvadhoo,3,2,5
-claimed,0,3,3
-low flying jumbo jet,1,1,2
-jumbo jet,1,0,1
-crash,0,1,1
-appeared,2,1,3
-resemble,10,9,19
-Malaysia,0,1,1
-Malaysia Airlines,1,0,1
-seaplanes,8,7,15
-IKEA,0,1,1
-spokesperson,7,5,12
-Pilkrona-Godden,0,1,1
-affected,3,2,5
-time being,1,1,2
-Västerås,2,1,3
-approximately,8,3,11
-capital,1,0,1
-Stockholm,0,2,2
-population,2,2,4
-roughly,2,2,4
-Vice-premier,4,2,6
-executed,3,3,6
-published,2,0,2
-Yonhap,1,1,2
-Yonhap News Agency,1,0,1
-claims,0,1,1
-vice premier,2,0,2
-premier,3,0,3
-Choe Yong-gon,0,1,1
-Yong-gon,1,0,1
-executed,6,5,11
-cites,2,3,5
-unnamed,4,3,7
-unnamed source,1,2,3
-source,0,1,1
-confirmed,3,3,6
-Wikinews,2,0,2
-rarely,0,1,1
-statements,2,3,5
-internal,3,0,3
-internal affairs,1,5,6
-affairs,1,2,3
-Choe,1,0,1
-disagreed,1,5,6
-Supreme Leader,1,0,1
-Kim Jong-uns,0,1,1
-forestry,6,3,9
-forestry policies,4,2,6
-policies,1,0,1
-Choe,1,1,2
-vice premiers,4,0,4
-premiers,4,1,5
-charge,0,1,1
-construction,1,0,1
-building,0,1,1
-material,1,0,1
-material industries,1,0,1
-industries,0,1,1
-laser,2,2,4
-object,2,1,3
-paws,2,6,8
-intensively,10,6,16
-intensively bite,0,1,1
-bite,0,1,1
-capture,0,3,3
-investigator,3,2,5
-Associated,1,0,1
-Associated Professor,0,1,1
-Psychiatry,4,2,6
-Araujo,1,0,1
-mice,0,1,1
-behaved,1,2,3
-inspired,2,3,5
-natural feeding behavior,1,1,2
-feeding,0,1,1
-behavior,1,0,1
-opposed,2,0,2
-passively,5,4,9
-passively munching,0,1,1
-munching,4,9,13
-food pellets,0,2,2
-pellets,1,4,5
-associated,4,2,6
-associated with feeding,0,1,1
-feeding,0,1,1
-suggested,0,2,2
-associated,3,0,3
-hunting,0,1,1
-feeding,0,1,1
-behavior,1,0,1
-Stimulation,5,7,12
-periaqueductal,8,3,11
-periaqueductal gray,3,2,5
-periaqueductal gray (PAG,1,0,1
-controlled,1,0,1
-controlled stalking,1,0,1
-stalking,4,5,9
-stalking and stimulation,0,2,2
-stimulation,4,1,5
-reticular,8,6,14
-reticular formation,2,3,5
-reticular formation controlled,1,0,1
-reticular formation controlled biting,1,0,1
-formation,2,0,2
-controlled,1,0,1
-biting,0,1,1
-rendition,7,10,17
-Manning,0,2,2
-information,1,1,2
-Manning,1,0,1
-released,1,1,2
-WikiLeaks,2,2,4
-diplomatic,8,3,11
-diplomatic accounts,0,2,2
-military,1,0,1
-military incident logs,1,0,1
-incident logs,0,2,2
-logs,1,1,2
-footage,2,5,7
-Apache,1,0,1
-Apache helicopter,1,0,1
-suspected,2,4,6
-Iraqi,0,1,1
-insurgents,7,7,14
-Guantanamo,1,1,2
-Guantanamo Bay,1,0,1
-trial,0,1,1
-detainees,10,8,18
-detainees abused,0,1,1
-abused,2,4,6
-denounced,3,5,8
-Manning,1,0,1
-traitor,2,4,6
-breach,2,1,3
-endangered,4,5,9
-convicted,2,1,3
-espionage,5,9,14
-acquitted,4,7,11
-aiding,0,1,1
-fitting,0,1,1
-commentary,3,0,3
-commute,1,4,5
-endangered,3,5,8
-diplomats,1,0,1
-intelligence,1,0,1
-leaking,0,2,2
-sensitive,2,0,2
-government,1,0,1
-WikiLeaks,1,1,2
-virulently,5,9,14
-interference,8,4,12
-elections,1,0,1
-Bomb,1,0,1
-vehicle,1,0,1
-packed,0,2,2
-explosives,9,2,11
-detonated,10,10,20
-targeted,3,4,7
-housing,0,1,1
-government,1,0,1
-rebels,0,4,4
-whom,0,1,1
-seized,7,6,13
-Islamic,0,1,1
-Islamic militants,2,1,3
-militants,4,1,5
-leading,0,1,1
-military intervention,1,1,2
-intervention,9,5,14
-disputed,4,1,5
-disputed ceasefire,4,2,6
-ceasefire,7,7,14
-Occasional,2,1,3
-worst,0,2,2
-Bruno Le Roux,0,1,1
-highly symbolic,2,1,3
-symbolic,9,5,14
-François,0,1,1
-Hollande,0,1,1
-Victims,1,1,2
-tasked,0,1,1
-providing,2,0,2
-providing patrols,1,0,1
-patrols,4,3,7
-to quell,0,1,1
-quell,6,8,14
-quell the violence,0,1,1
-violence,2,1,3
-Boubacar Keita,0,1,1
-declare,1,1,2
-mourning,8,8,16
-sluggish,10,10,20
-sluggish wage growth,1,1,2
-wage,0,1,1
-pocket of weakness,2,1,3
-weakness,1,1,2
-economic,2,0,2
-economic recovery,2,1,3
-steady,1,1,2
-steady payroll,0,1,1
-payroll,2,9,11
-payroll gains,1,0,1
-averaging,4,0,4
-led,0,1,1
-observers,3,3,6
-Federal,1,1,2
-Federal Reserve,2,0,2
-Reserve,1,0,1
-hike,0,5,5
-increasingly,2,1,3
-according to,1,0,1
-clearing the hurdle,1,0,1
-hurdle,8,10,18
-Fed,2,1,3
-rate hike,2,0,2
-hike,0,1,1
-economist,9,1,10
-bar,0,1,1
-Federal Reserve,1,1,2
-explicitly,8,10,18
-explicitly stated,0,1,1
-interest rates,1,0,1
-stated,0,2,2
-further improvement,0,1,1
-improvement,3,2,5
-jobs market,1,0,1
-management,5,4,9
-hand it over,0,1,1
-unnamed,2,1,3
-authorities,5,3,8
-debris,8,8,16
-destroyed,1,1,2
-The Serious and Organized Crime Unit,1,0,1
-Serious and Organized Crime Unit,1,0,1
-Organized,0,2,2
-Maldives,0,1,1
-experts,0,3,3
-Maldives Civil Aviation Authority,1,0,1
-Civil,3,0,3
-Civil Aviation Authority,1,0,1
-Aviation,3,4,7
-Authority,1,0,1
-heading,0,1,1
-investigation,8,4,12
-Yesterday,1,0,1
-debris,5,3,8
-measuring,3,4,7
-Baa Atoll,0,1,1
-Fehendhoo,2,1,3
-Fulhahdhoo,1,1,2
-ashore,4,7,11
-piece,0,1,1
-appears,1,0,1
-serial,3,0,3
-serial number,1,0,1
-Initially,6,3,9
-residents,3,2,5
-debris,1,3,4
-resident,1,3,4
-debris,3,3,6
-rape,1,0,1
-rape accusations,0,1,1
-accusations,10,10,20
-Swedish,0,1,1
-administration,2,2,4
-unprecedented,10,9,19
-unprecedented crackdown,2,4,6
-crackdown,2,7,9
-leaks,1,2,3
-leaks of government secrets,1,0,1
-government,0,1,1
-Manning,1,2,3
-individuals,0,1,1
-granted,0,1,1
-clemency,10,9,19
-tenure,4,7,11
-Josh Ernest,0,1,1
-whistleblower,8,9,17
-Edward,0,1,1
-Snowden,0,1,1
-pardoned,5,10,15
-dangerous,2,0,2
-formal trial,0,1,1
-acknowledged,2,0,2
-acknowledged wrongdoing,2,2,4
-wrongdoing,2,4,6
-adversary,7,8,15
-sought,3,2,5
-sought refuge,0,2,2
-refuge,2,3,5
-concerted,6,4,10
-concerted effort,0,2,2
-undermine,4,4,8
-undermine confidence,1,0,1
-democracy,3,1,4
-commuted,4,5,9
-nationalist,3,1,4
-convicted,0,1,1
-Apollo,1,0,1
-Cernan,0,1,1
-Cernan worked,0,1,1
-Apollo-Soyuz,1,1,2
-Apollo-Soyuz project,1,0,1
-project,0,1,1
-retiring,4,3,7
-NASA,2,0,2
-executive,7,3,10
-executive and consultant,1,0,1
-consultant,7,5,12
-autobiography,10,2,12
-advocated,10,7,17
-returning,1,0,1
-Neil Armstrong,0,1,1
-patriot,4,6,10
-pioneer,4,6,10
-shape,0,1,1
-countrys bold ambitions,0,1,1
-bold,0,1,1
-bold ambitions,0,1,1
-ambitions,4,8,12
-ambitions to do things that humankind,0,1,1
-humankind,3,6,9
-achieved,2,3,5
-Administrator,2,0,2
-Administrator Charles Bolden,0,1,1
-Charles Bolden,0,1,1
-Gujarat quota,0,1,1
-Gujarat quota protests,2,0,2
-quota,5,1,6
-quota protests,1,0,1
-protests,1,2,3
-violent,2,0,2
-Gujarat,1,0,1
-curfew,6,9,15
-dozens,0,1,1
-protests,2,1,3
-job quotas,1,0,1
-quotas,3,2,5
-Ahmedabad,0,1,1
-drilled,1,7,8
-drilled a tunnel,1,0,1
-tunnel,2,4,6
-pot,1,0,1
-the foraging arena,1,0,1
-foraging,6,3,9
-foraging arena,1,1,2
-medicine,2,0,2
-infected,2,4,6
-preparing,0,1,1
-solution,2,1,3
-fungus,6,2,8
-fungus Beauveria bassiana,2,0,2
-Beauveria,3,0,3
-Beauveria bassiana,5,2,7
-bassiana,4,2,6
-Afterwards,1,0,1
-dipped,0,5,5
-solution,1,0,1
-dried,0,2,2
-exposing,4,6,10
-fungus,3,1,4
-foraging,3,7,10
-foraging arena,4,2,6
-arena,0,2,2
-counted,0,1,1
-food-source,1,1,2
-infected,1,1,2
-sooner,0,2,2
-ingesting,3,10,13
-ROS,2,0,2
-ROS [Reactive Oxygen Species,1,0,1
-Reactive,1,0,1
-Reactive Oxygen Species,2,0,2
-Oxygen,1,0,1
-Species,2,2,4
-chemicals,1,0,1
-hydrogen,4,0,4
-hydrogen peroxide,2,0,2
-peroxide,1,0,1
-infected,1,0,1
-obtained,3,3,6
-force feed,0,2,2
-ignore,2,1,3
-behaviour,9,3,12
-guesses,2,5,7
-moment,1,1,2
-investigate,8,6,14
-couple,1,1,2
-Wikinews,1,0,1
-PhD,1,0,1
-researched,2,0,2
-ants scent-based communications,0,1,1
-scent-based,2,5,7
-scent-based communications,5,2,7
-communications,4,1,5
-infected,1,5,6
-encourage,2,4,6
-conflicting,6,8,14
-conflicting evidence,3,0,3
-evidence,0,3,3
-actually,1,0,1
-smell,0,1,1
-interaction,5,3,8
-nestmates,10,10,20
-nestmates and especially brood,1,0,1
-brood,2,7,9
-nest,0,1,1
-die in isolation,0,1,1
-isolation,10,8,18
-common,1,0,1
-collection,3,4,7
-species,6,7,13
-species of fungus,1,0,1
-fungus,7,2,9
-appear,1,1,2
-different strain,1,1,2
-strain,7,7,14
-laboratory,5,0,5
-laboratory technician,1,0,1
-technician,3,1,4
-adapt,5,2,7
-local strains,2,1,3
-strains,3,4,7
-local adaptation,2,0,2
-adaptation,3,5,8
-strain,2,2,4
-strain of fungus,2,0,2
-fungus,1,1,2
-definitely,1,3,4
-evolve,4,5,9
-evolve specific resistances,1,0,1
-specific,1,0,1
-specific resistances,2,1,3
-resistances,9,5,14
-reaction,0,1,1
-to self-medicate,1,0,1
-self-medicate,1,0,1
-general response,1,2,3
-response,1,0,1
-fungal,0,1,1
-fungal enemies,2,0,2
-enemies,2,1,3
-ethical,5,3,8
-ethical considerations,3,1,4
-considerations,2,1,3
-exposing,2,2,4
-toxins,7,6,13
-parasites,1,1,2
-alleges,7,9,16
-ensure,2,5,7
-inclusion,6,3,9
-inclusion of the low-polling candidates,1,0,1
-low-polling,3,1,4
-low-polling candidates,2,2,4
-candidates,0,1,1
-Hewlett-Packard,0,1,1
-Carly,0,1,1
-Fiorina,0,1,1
-George Pataki,0,1,1
-Lindsey,0,1,1
-Graham,0,1,1
-Gilmore,0,1,1
-recognizes,4,4,8
-major players,2,1,3
-Furthermore,0,3,3
-argues,2,2,4
-criteria,4,3,7
-objective,3,4,7
-define,0,1,1
-consistently,8,9,17
-recognized,2,5,7
-referring,0,2,2
-asserts,3,5,8
-Republican,1,0,1
-online straw poll,1,2,3
-straw,0,1,1
-straw poll,3,3,6
-excluded,4,2,6
-debate,1,2,3
-expert,0,1,1
-publisher,1,0,1
-Ballot Access News,0,1,1
-challenge,0,2,2
-chance of success,0,1,1
-actually,1,0,1
-lawsuit,2,10,12
-complaining,1,3,4
-FEC,0,1,1
-deputy,5,2,7
-deputy chief,2,0,2
-deputy chief of the HCSO,1,0,1
-brothers in arms,2,0,2
-arms,1,1,2
-hurting,3,6,9
-difficult,3,0,3
-sheriff,2,0,2
-sheriffs,2,0,2
-a tragedy,1,0,1
-tragedy,8,6,14
-those…affected,1,0,1
-tragedy,1,0,1
-reporters,2,0,2
-administrative,6,2,8
-administrative segregation,4,2,6
-administrative segregation unit,1,0,1
-segregation,10,7,17
-promised,1,1,2
-elsewhere,2,2,4
-angered,1,4,5
-victims,3,2,5
-victims disrespected,0,1,1
-disrespected,10,6,16
-mistreated,10,9,19
-auxiliary,10,8,18
-auxiliary bishop,3,2,5
-bishop,4,0,4
-conducted,5,1,6
-Roman Catholic mass,2,0,2
-mass,1,1,2
-St Marys Roman Catholic Church,1,0,1
-Catholic,0,1,1
-Liverpools Woolton,1,0,1
-Woolton,0,2,2
-church,1,0,1
-Bobby Willis,0,1,1
-marriage,1,0,1
-Eulogies,8,7,15
-delivered,1,2,3
-Cliff Richard,0,1,1
-OGrady,0,1,1
-poems,1,0,1
-tributes,9,8,17
-flew,0,3,3
-specially,3,0,3
-funeral,3,4,7
-interred,9,7,16
-ceremony,5,0,5
-graves,1,2,3
-Allerton,0,2,2
-cemetery,7,2,9
-suffered,1,2,3
-stroke,4,2,6
-military,1,1,2
-quasi-state of war,3,1,4
-quasi-state,4,3,7
-According,1,0,1
-Yonhap,0,2,2
-quoting,3,2,5
-agency,1,0,1
-military,0,1,1
-high alert,0,1,1
-alert,1,0,1
-prepare,2,0,2
-quasi-state,1,1,2
-quasi-state of war,2,2,4
-along party lines,0,1,1
-party lines,0,1,1
-Republicans,4,0,4
-expressed,1,3,4
-uncertainty,7,5,12
-repealing,8,10,18
-repealing Obamacare,1,0,1
-Obamacare,2,1,3
-replacement,2,3,5
-replacement system,1,0,1
-president-elect,1,1,2
-Donald Trump,0,1,1
-repeal and replace,2,0,2
-repeal,0,3,3
-enacted,8,7,15
-simultaneously,10,8,18
-government,1,0,1
-expressed,1,1,2
-doubts,2,0,2
-well-constructed,3,1,4
-well-constructed plan,0,1,1
-voting,1,0,1
-Senator,1,0,1
-Johnny Isakson,0,1,1
-repealing,4,2,6
-Obamacare,0,1,1
-unacceptable,5,3,8
-concerns,5,3,8
-House of Representatives,2,0,2
-Representatives,2,0,2
-replacement,0,2,2
-repeal,3,1,4
-Representative,3,1,4
-Mark Meadows,0,1,1
-Neighbouring,9,3,12
-Hungary is constructing,0,1,1
-constructing,5,2,7
-constructing a border fence,1,0,1
-border fence,0,3,3
-fence,0,3,3
-frontier,9,4,13
-attempts,1,0,1
-illegally,6,2,8
-according to authorities,1,0,1
-authorities,6,2,8
-Conflict,3,3,6
-refugees,9,6,15
-freely,0,1,1
-Schengen,1,1,2
-Schengen Area,0,1,1
-arrested,2,0,2
-motorists,2,2,4
-motorists suspected of people smuggling,1,0,1
-suspected,3,2,5
-people smuggling,1,1,2
-smuggling,10,9,19
-accused,5,4,9
-roadside,1,1,2
-Bruck,0,1,1
-Bruck an der Leitha,1,0,1
-Leitha,0,1,1
-struggling,4,7,11
-struggling to breathe,1,1,2
-breathe,2,1,3
-astronaut,4,2,6
-astronaut Eugene,1,0,1
-Cernan,0,1,1
-NASA astronaut,1,1,2
-astronaut,7,2,9
-according,1,0,1
-NASA,1,0,1
-statement,1,0,1
-previous,1,0,1
-previous foray,0,1,1
-foray,10,7,17
-charade,10,8,18
-Wikinews,1,0,1
-tag team,5,2,7
-attacking,1,0,1
-candidacy,10,5,15
-raw,1,1,2
-raw media,1,0,1
-raw media power,2,2,4
-weaken,1,1,2
-negative,1,0,1
-negative information,0,1,1
-hardball,6,5,11
-hardball media tactics,1,3,4
-tactics,6,4,10
-toxic,4,2,6
-toxic candidate,2,0,2
-candidate,3,0,3
-adamantly,10,10,20
-adamantly opposes,1,1,2
-opposes,3,1,4
-criticizes,4,1,5
-alleged,3,6,9
-economic,1,0,1
-collapse,1,2,3
-Lehman,0,1,1
-labeling,0,1,1
-handful,0,1,1
-corrupt,2,0,2
-corrupt plutocrats,3,2,5
-plutocrats,10,8,18
-previously,1,0,1
-criticized,1,3,4
-accusing,2,0,2
-then-presidential,2,0,2
-then-presidential candidate,1,0,1
-abusing,1,3,4
-cocaine,0,1,1
-presence,3,2,5
-presence of US assets,1,0,1
-US assets,1,0,1
-assets,1,3,4
-threatens,3,8,11
-threatens our interests and our security,1,1,2
-security,1,1,2
-military presence,0,1,1
-presence,2,1,3
-BBC,1,0,1
-Outgoing,1,3,4
-Barack Obama,0,1,1
-authorised,5,7,12
-response,0,1,1
-Russian intervention,1,0,1
-intervention,6,7,13
-Ukraine,1,1,2
-Crimea,0,2,2
-Crimea was annexed,1,0,1
-annexed,8,8,16
-NATO summit,1,1,2
-summit,1,3,4
-Tomasz,0,1,1
-Tomasz Szatkowski,1,1,2
-Polish Undersecretary,1,0,1
-Undersecretary,4,2,6
-Undersecretary of State,0,1,1
-Undersecretary of State for Defence,0,1,1
-large exercises,0,2,2
-exercises,1,2,3
-troops,0,2,2
-Szatkowski,0,1,1
-mentioned,2,1,3
-aggressive,5,5,10
-aggressive actions,1,0,1
-aggressive actions in our vicinity,1,1,2
-vicinity,6,10,16
-Deputy,0,1,1
-Alexei Mechkov,0,1,1
-Mechkov,1,1,2
-incoming,1,1,2
-vehicles,1,1,2
-factor destabilising European security,0,1,1
-destabilising,10,8,18
-destabilising European security,1,0,1
-recent stint,0,1,1
-stint,9,9,18
-arrested,3,2,5
-allegedly,10,7,17
-allegedly slamming,1,2,3
-slamming,3,8,11
-refrigerator,4,2,6
-involved,0,1,1
-murders,0,1,1
-assault,5,9,14
-assault charge,1,2,3
-victims,2,3,5
-scene,0,1,1
-authorities,5,4,9
-released,1,2,3
-Dwayne,1,0,1
-Honesty,1,0,1
-Nathaniel,1,0,1
-investigators,7,5,12
-Valerie,1,0,1
-broke,0,1,1
-tragedy,10,8,18
-a statement,0,1,1
-statement,0,4,4
-checked,0,2,2
-GPS trackers,0,1,1
-trackers,1,2,3
-fleet,1,3,4
-vehicles,1,0,1
-Slovakia,2,1,3
-statement,1,0,1
-lorry,7,3,10
-Hyza,1,1,2
-Hyza vehicles,1,0,1
-exported,5,2,7
-registered,4,3,7
-the branding,0,1,1
-branding,1,4,5
-Bild,1,1,2
-Bild newspaper,1,0,1
-Agrofert,3,0,3
-parent,0,1,1
-statement,1,0,1
-owners,0,1,1
-required,0,2,2
-cooperate,3,1,4
-Slovak,0,1,1
-express,0,2,2
-sincere,1,0,1
-condolences,10,8,18
-condolences to the bereaved,1,0,1
-bereaved,10,10,20
-Interior,0,1,1
-Interior Minister,1,1,2
-Johanna,0,1,1
-Mikl-Leitner,0,1,1
-Union-wide,1,0,1
-measures,0,1,1
-immigrant,4,5,9
-immigrant refugees,1,2,3
-refugees,5,3,8
-tackle,2,6,8
-human traffickers,2,0,2
-traffickers,7,8,15
-Yesterday,1,0,1
-IndyCar,1,1,2
-injuries,4,0,4
-sustained,10,8,18
-Pocono,1,0,1
-twenty laps,0,1,1
-laps,0,3,3
-remaining,1,0,1
-leading,0,1,1
-crashed,0,3,3
-approached,5,3,8
-site,0,1,1
-crash,0,1,1
-reportedly,2,2,4
-nose cone,0,1,1
-cone,0,1,1
-airborne,6,7,13
-struck,0,1,1
-helmet,1,0,1
-steered,4,9,13
-collided,8,5,13
-barrier,3,4,7
-caution,3,0,3
-caution flag,1,2,3
-extracted,10,7,17
-airlifted,7,8,15
-released a statement,1,0,1
-statement,0,1,1
-"statement, announcing",1,0,1
-announcing,2,1,3
-suffered,3,1,4
-severe,5,0,5
-critical,4,0,4
-critical condition,2,0,2
-condition,1,0,1
-had fallen into,0,1,1
-coma,3,5,8
-Initially,7,2,9
-considered,3,3,6
-victims,4,2,6
-status,4,1,5
-changed,0,2,2
-suspect,3,3,6
-subsequently,10,9,19
-wounds,2,1,3
-CCTV,1,0,1
-investigation,6,5,11
-Local newspaper Vestmanlands Läns Tidning (VLT,1,0,1
-newspaper,1,0,1
-Vestmanlands Läns Tidning,1,1,2
-reportedly,1,3,4
-footage,4,4,8
-suspects,2,1,3
-tackled,8,9,17
-claimed,1,0,1
-identified,3,0,3
-respectively,10,2,12
-victims,0,1,1
-residents,1,1,2
-connection,1,0,1
-Västerås,1,1,2
-vacationing,9,8,17
-spokesperson,6,5,11
-an act of madness,1,0,1
-act of madness,0,1,1
-madness,2,0,2
-worst,1,2,3
-Mattias,1,0,1
-Mattias Johansson,0,1,1
-Västerås,1,0,1
-Sveriges,1,1,2
-Law and Justice Party,1,0,1
-removed,0,1,1
-web,0,1,1
-featuring,3,5,8
-investigation,5,6,11
-Smolensk,2,1,3
-Smolensk air disaster,3,0,3
-air,1,0,1
-disaster,2,8,10
-dignitaries,10,10,20
-Kaczynski,1,1,2
-disputed,5,8,13
-probe,3,1,4
-concluded,2,1,3
-pilots,2,0,2
-determination,8,7,15
-dense,3,2,5
-dense fog,0,2,2
-fog,0,1,1
-blame,0,4,4
-Russian controllers,1,1,2
-failing,0,2,2
-failing to divert,0,1,1
-divert,2,5,7
-investigators,2,0,2
-blamed,0,2,2
-pilots,1,0,1
-high-profile,2,3,5
-high-profile political figures,1,1,2
-political,0,1,1
-ceremony,1,1,2
-commemorating,10,9,19
-anniversary,1,0,1
-Katyn,0,1,1
-massacre,8,5,13
-civilians,2,0,2
-Soviets,1,0,1
+Unnamed: 0,Complex_Phrase,complex_percentage,frequency,length
+2,academy,10.0,4.57,7
+4,according,6.666666666666667,5.28,9
+6,additionally,10.0,4.2,12
+7,administrator,30.0,4.07,13
+10,affordable,20.0,4.22,10
+12,afterwards,35.0,4.42,10
+13,agreement,5.0,4.88,9
+19,alas,0.0,3.67,4
+26,amnesty,30.0,3.63,7
+27,amongst,20.0,4.31,7
+29,android,0.0,4.42,7
+32,apache,0.0,3.54,6
+35,apparently,30.0,4.8,10
+36,appeal,40.0,4.67,6
+40,article,10.0,5.09,7
+42,assembly,10.0,4.61,8
+43,associated,10.0,4.89,10
+44,atlantic,0.0,4.39,8
+45,atman,10.0,2.23,5
+48,authorities,16.363636363636363,4.63,11
+49,authority,0.0,4.81,9
+51,aviation,40.0,4.17,8
+52,award,20.0,4.88,5
+57,bangkok,10.0,3.84,7
+59,barracks,10.0,3.67,8
+60,bastion,10.0,3.31,7
+61,battles,0.0,4.18,7
+70,biologist,10.0,3.35,9
+71,birther,10.0,2.34,7
+73,bomb,0.0,4.6,4
+85,bureau,10.0,4.41,6
+91,catholic,10.0,4.55,8
+92,caucus,20.0,3.58,6
+95,chancellor,70.0,4.13,10
+101,circuit,0.0,4.47,7
+102,citizens,0.0,4.72,8
+103,civil,0.0,4.93,5
+104,commanders,0.0,3.74,10
+105,commissioner,20.0,4.43,12
+106,companion,80.0,4.13,9
+107,concerns,20.0,4.59,8
+108,conflict,30.0,4.64,8
+109,continuing,10.0,4.48,10
+111,cosmic,0.0,3.78,6
+112,counsel,60.0,4.16,7
+113,court,10.0,5.41,5
+115,criminal,3.3333333333333335,4.75,8
+116,crocker,30.0,3.03,7
+117,curling,10.0,3.51,7
+119,defence,8.0,4.51,7
+120,democratic,10.0,4.73,10
+121,demonstrators,60.0,3.28,13
+122,deputy,20.0,4.55,6
+123,despite,30.0,5.0,7
+124,devotion,40.0,3.73,8
+126,disciplinary,0.0,3.75,12
+129,dozens,10.0,4.13,6
+132,eu,0.0,4.62,2
+133,economics,10.0,4.42,9
+137,election,0.0,5.08,8
+138,elections,0.0,4.66,9
+140,especially,10.0,5.21,10
+142,eulogies,70.0,2.31,8
+145,eventually,35.0,4.88,10
+147,evolution,50.0,4.41,9
+148,exiting,30.0,3.34,7
+149,explosion,20.0,4.22,9
+150,extradition,40.0,3.28,11
+154,fed,10.0,4.51,3
+155,federal,10.0,5.13,7
+158,fierce,50.0,3.92,6
+160,fixation,30.0,3.27,8
+162,foreign,3.3333333333333335,5.08,7
+167,furthermore,13.333333333333334,4.23,11
+169,gingerbread,20.0,3.03,11
+171,governor,0.0,4.71,8
+172,graham,10.0,4.3,6
+185,honesty,0.0,3.99,7
+194,hydrogen,0.0,3.98,8
+198,independent,10.0,4.93,11
+201,industrial,10.0,4.71,10
+203,infected,23.333333333333332,4.13,8
+204,initially,25.0,4.49,9
+205,institute,0.0,4.8,9
+206,interior,20.0,4.55,8
+207,internal,0.0,4.66,8
+208,international,3.3333333333333335,5.36,13
+209,interstate,20.0,3.99,10
+220,jihad,0.0,3.49,5
+221,jiva,10.0,1.96,4
+224,journal,20.0,4.77,7
+226,justice,5.0,4.97,7
+231,karma,20.0,3.88,5
+234,kelvin,0.0,3.29,6
+237,krone,10.0,2.43,5
+242,leafs,10.0,3.56,5
+243,league,5.0,5.13,6
+252,livable,0.0,2.8,7
+255,magistrates,0.0,3.53,11
+258,majority,0.0,4.94,8
+263,manning,10.0,3.86,7
+268,maya,10.0,3.87,4
+271,merit,30.0,4.08,5
+272,metropolitan,5.0,4.18,12
+274,minister,0.0,5.04,8
+275,ministry,0.0,4.63,8
+276,missile,10.0,4.14,7
+278,moreover,0.0,4.16,8
+279,moths,40.0,3.21,5
+280,motion,20.0,4.59,6
+282,motorway,10.0,3.46,8
+300,observatory,20.0,3.71,11
+301,occasional,10.0,4.12,10
+302,officer,0.0,5.03,7
+303,officials,3.3333333333333335,4.68,9
+305,opera,0.0,4.27,5
+306,operation,0.0,4.92,9
+307,organized,20.0,4.51,9
+308,outgoing,40.0,3.59,8
+309,oxygen,0.0,4.25,6
+310,paladin,0.0,2.98,7
+314,parliament,10.0,4.74,10
+318,pebbles,10.0,3.17,7
+319,perceptible,60.0,2.57,11
+323,phew,10.0,3.14,4
+326,physically,0.0,4.3,10
+330,policy,10.0,5.17,6
+331,portal,15.0,4.0,6
+333,portrait,40.0,4.22,8
+335,preliminary,20.0,4.16,11
+336,president,0.0,5.45,9
+337,presidential,8.88888888888889,4.52,12
+339,primary,0.0,4.88,7
+341,prosecutors,80.0,3.64,11
+342,psychiatry,20.0,3.56,10
+350,rann,10.0,2.34,4
+352,reactive,0.0,3.54,8
+353,regulations,10.0,4.5,11
+355,reportedly,20.0,4.13,10
+356,representative,20.0,4.57,14
+357,representatives,0.0,4.52,15
+358,reprieve,40.0,2.88,8
+359,republican,3.75,4.7,10
+360,republicans,0.0,4.5,11
+361,reserve,0.0,4.6,7
+362,resolve,10.0,4.17,7
+363,responding,36.666666666666664,4.07,10
+365,revenue,6.666666666666667,4.64,7
+366,riot,28.0,4.09,4
+368,roanoke,0.0,3.07,7
+372,ruin,0.0,4.31,4
+377,sciences,0.0,4.39,8
+378,secretary,0.0,4.95,9
+379,segregation,70.0,3.6,11
+380,self,20.0,5.25,4
+381,senator,3.3333333333333335,4.58,7
+382,senators,10.0,4.1,8
+388,shrine,90.0,3.73,6
+397,social,0.0,5.42,6
+400,sources,40.0,4.84,7
+401,soviets,0.0,3.59,7
+402,species,37.142857142857146,4.85,7
+403,spending,0.0,4.71,8
+404,spirit,10.0,4.79,6
+405,squadron,20.0,3.69,8
+406,statistics,5.0,4.6,10
+407,stimulation,10.0,3.7,11
+409,successive,30.0,3.85,10
+410,sumatra,0.0,3.03,7
+412,supreme,10.0,4.69,7
+423,tao,0.0,3.49,3
+431,threat,18.0,4.6,6
+432,ties,20.0,4.35,4
+434,toxic,30.0,4.24,5
+435,trial,10.0,4.87,5
+436,tripoli,0.0,3.29,7
+443,undersecretary,20.0,2.82,14
+444,unification,40.0,3.36,11
+446,university,0.0,5.39,10
+447,vb,0.0,3.07,2
+450,vehicles,3.3333333333333335,4.62,8
+452,vertical,30.0,4.15,8
+454,victims,21.428571428571427,4.56,7
+457,wages,10.0,4.25,5
+458,warsaw,10.0,3.66,6
+464,witnesses,30.0,4.29,9
+468,yesterday,5.0,4.91,9
+472,abandoned,60.0,4.4,9
+473,abdomen,10.0,3.56,7
+474,abducted,90.0,3.56,8
+475,abducting,50.0,2.55,9
+476,aboard,60.0,4.14,6
+477,abroad,20.0,4.39,6
+478,absence,30.0,4.34,7
+479,absolute,15.0,4.54,8
+480,abused,40.0,4.0,6
+481,abuses,50.0,3.69,6
+482,abusing,30.0,3.62,7
+483,access,12.0,5.05,6
+484,accession,60.0,3.4,9
+485,accident,5.0,4.71,8
+486,accompanies,10.0,3.2,11
+487,accomplishment,80.0,3.69,14
+488,accusations,100.0,3.85,11
+489,accused,21.818181818181817,4.46,7
+490,accusing,0.0,3.74,8
+491,achieve,30.0,4.57,7
+492,achieved,30.0,4.49,8
+493,achieving,30.0,4.03,9
+494,acknowledged,0.0,4.08,12
+496,acknowledges,50.0,3.53,12
+497,acquiring,80.0,3.8,9
+498,acquitted,70.0,3.44,9
+499,activist,60.0,4.13,8
+500,activists,0.0,4.13,9
+501,activity,20.0,4.86,8
+502,actress,0.0,4.45,7
+503,actually,3.3333333333333335,5.49,8
+504,adamantly,100.0,2.69,9
+505,adapt,20.0,3.98,5
+506,adaptation,50.0,4.01,10
+507,adaptations,90.0,3.38,11
+508,addition,0.0,5.01,8
+509,administration,12.0,4.93,14
+510,administrative,16.666666666666668,4.45,14
+511,admitted,20.0,4.49,8
+512,advance,10.0,4.65,7
+513,adversary,80.0,3.29,9
+514,advocated,70.0,3.6,9
+515,aerated,10.0,2.32,7
+516,aerodynamics,100.0,2.93,12
+517,affairs,20.0,4.67,7
+518,affected,20.0,4.64,8
+519,affecting,0.0,4.07,9
+520,afterward,30.0,3.83,9
+522,agencies,5.0,4.54,8
+523,agency,0.0,4.87,6
+524,aggression,65.0,3.9,10
+525,aggressive,45.0,4.32,10
+526,aiding,10.0,3.44,6
+527,aimed,10.0,4.25,5
+528,air,0.0,5.37,3
+529,airborne,70.0,3.67,8
+530,aircraft,13.333333333333334,4.64,8
+531,airlifted,80.0,2.6,9
+532,airport,0.0,4.84,7
+533,airshow,40.0,2.58,7
+534,airspace,40.0,3.28,8
+535,alert,10.0,4.33,5
+536,alerted,30.0,3.32,7
+537,alias,10.0,3.46,5
+538,aligns,70.0,2.88,6
+539,allegations,90.0,4.08,11
+540,allege,30.0,3.18,6
+541,alleged,45.0,4.37,7
+542,allegedly,70.0,4.06,9
+543,alleges,90.0,3.32,7
+545,allowed,10.0,5.03,7
+546,alongside,33.333333333333336,4.45,9
+547,alter,0.0,4.05,5
+548,altitude,20.0,3.92,8
+549,amateur,80.0,4.22,7
+550,ambassador,17.5,4.35,10
+551,ambassadors,20.0,3.55,11
+552,ambitions,80.0,3.64,9
+553,ambulance,10.0,4.06,9
+554,amygdala,70.0,2.84,8
+556,analysis,20.0,4.91,8
+557,anger,10.0,4.42,5
+558,angered,40.0,3.29,7
+559,annexation,100.0,3.42,10
+560,annexed,90.0,3.5,7
+561,anniversary,20.0,4.53,11
+562,announce,10.0,4.26,8
+563,announced,14.444444444444445,4.96,9
+564,announcement,20.0,4.31,12
+565,announcements,10.0,3.7,13
+566,announces,0.0,3.94,9
+567,announcing,23.333333333333332,3.87,10
+568,annual,5.0,4.94,6
+569,annually,25.0,4.16,8
+570,anonymity,90.0,3.39,9
+571,ant,10.0,3.86,3
+579,ants,10.0,3.72,4
+580,anxiety,30.0,4.45,7
+581,anxious,20.0,4.09,7
+582,aphid,20.0,2.39,5
+583,aphids,70.0,2.63,6
+584,apparent,20.0,4.32,8
+585,appear,6.666666666666667,4.85,6
+586,appearances,30.0,4.09,11
+587,appeared,10.0,4.83,8
+588,appearing,0.0,4.15,9
+589,appears,0.0,4.84,7
+590,application,10.0,4.86,11
+591,appointed,36.666666666666664,4.59,9
+592,appreciate,70.0,4.74,10
+593,approached,30.0,4.16,10
+594,approaching,50.0,4.17,11
+595,appropriate,40.0,4.67,11
+596,approved,10.0,4.64,8
+597,approves,10.0,3.42,8
+598,approximately,30.0,4.64,13
+599,arch,0.0,4.02,4
+600,arena,20.0,4.33,5
+601,argues,20.0,4.04,6
+602,argument,30.0,4.64,8
+603,arguments,40.0,4.33,9
+605,arms,10.0,4.82,4
+606,arose,10.0,3.73,5
+607,arranged,30.0,4.31,8
+608,arrangements,20.0,4.23,12
+609,arrested,8.0,4.64,8
+610,arrival,0.0,4.44,7
+611,arrived,10.0,4.79,7
+612,arriving,0.0,4.16,8
+613,articles,10.0,4.71,8
+614,artillery,55.0,3.96,9
+615,artwork,10.0,4.11,7
+616,ashore,70.0,3.52,6
+617,assault,90.0,4.44,7
+618,asserts,50.0,3.38,7
+619,asset,0.0,4.23,5
+620,assets,15.555555555555555,4.56,6
+621,assist,15.0,4.42,6
+622,assistance,10.0,4.59,10
+623,assisted,0.0,4.1,8
+624,assisting,25.0,3.79,9
+625,assists,20.0,4.03,7
+626,assume,30.0,4.57,6
+627,assumption,60.0,4.07,10
+628,astronaut,20.0,3.6,9
+629,asylum,50.0,3.99,6
+630,atmosphere,30.0,4.46,10
+632,attacked,10.0,4.52,8
+633,attacking,0.0,4.29,9
+634,attacks,10.0,4.68,7
+635,attempt,20.0,4.85,7
+636,attempted,10.0,4.42,9
+637,attempts,0.0,4.5,8
+638,attended,20.0,4.47,8
+639,attending,0.0,4.31,9
+640,attention,0.0,5.11,9
+641,attorney,10.0,4.69,8
+642,attracted,5.0,4.31,9
+643,attraction,20.0,4.11,10
+644,attributed,80.0,4.05,10
+645,audience,60.0,4.73,8
+646,auspicious,80.0,3.09,10
+648,authorized,50.0,4.12,10
+649,autobiography,20.0,3.63,13
+650,auxiliary,80.0,3.74,9
+651,average,0.0,5.16,7
+652,averaged,20.0,3.85,8
+653,averaging,0.0,3.73,9
+654,avoiding,10.0,4.07,8
+655,await,10.0,3.63,5
+656,awaiting,30.0,3.75,8
+657,awarded,20.0,4.35,7
+658,axonal,50.0,2.32,6
+660,backers,50.0,3.23,7
+661,backpack,40.0,3.78,8
+662,baht,10.0,2.94,4
+663,bailout,80.0,3.16,7
+664,ballot,40.0,4.06,6
+665,bar,10.0,4.94,3
+666,barbed,80.0,3.27,6
+667,barrier,40.0,4.15,7
+668,base,10.0,5.05,4
+669,based,0.0,5.51,5
+670,bases,10.0,4.18,5
+671,basically,30.0,4.63,9
+672,basis,0.0,4.81,5
+674,bean,10.0,3.98,4
+675,bears,20.0,4.34,5
+676,beaten,10.0,4.21,6
+677,beating,10.0,4.43,7
+678,bees,0.0,3.96,4
+679,befall,100.0,2.71,6
+680,behaved,20.0,3.59,7
+681,behavior,0.0,4.69,8
+682,behaviour,36.666666666666664,4.36,9
+683,beheaded,100.0,3.22,8
+684,believed,0.0,4.75,8
+685,benchmark,30.0,3.6,9
+686,bereaved,100.0,2.9,8
+688,bias,40.0,4.18,4
+689,bid,40.0,4.4,3
+690,bill,10.0,5.15,4
+691,birth,10.0,4.77,5
+692,biscuits,10.0,3.6,8
+693,bishop,0.0,4.38,6
+694,bite,10.0,4.31,4
+695,biting,10.0,3.77,6
+696,blame,40.0,4.63,5
+697,blamed,20.0,3.9,6
+698,blames,40.0,3.55,6
+699,blast,20.0,4.32,5
+700,blind,20.0,4.52,5
+701,blocked,10.0,4.31,7
+702,blog,0.0,4.73,4
+703,bloodshed,50.0,3.29,9
+704,bloody,0.0,4.28,6
+706,board,5.0,5.24,5
+707,boiled,30.0,3.68,6
+708,bold,10.0,4.26,4
+709,bonds,0.0,4.27,5
+711,boost,40.0,4.41,5
+712,border,0.0,4.7,6
+713,borders,10.0,4.26,7
+714,bound,60.0,4.46,5
+715,brake,30.0,3.95,5
+716,branding,46.666666666666664,3.77,8
+717,breach,10.0,4.13,6
+718,breathe,10.0,4.26,7
+719,bribes,55.0,3.3,6
+720,brief,15.0,4.52,5
+721,briefly,30.0,4.22,7
+722,brigade,20.0,3.9,7
+723,bring,10.0,5.27,5
+724,broadcast,15.0,4.39,9
+725,broadcasting,10.0,4.02,12
+726,broadcasts,25.0,3.5,10
+727,broadened,60.0,3.04,9
+728,broke,10.0,4.85,5
+729,brokered,60.0,2.8,8
+731,brood,70.0,3.25,5
+732,brought,20.0,5.16,7
+733,bubble,10.0,4.16,6
+734,budget,13.333333333333334,4.82,6
+735,building,10.0,5.29,8
+736,bumble,30.0,2.97,6
+738,buoys,60.0,2.77,5
+739,burst,20.0,4.15,5
+740,bursting,80.0,3.49,8
+741,cabinet,15.0,4.49,7
+742,campaign,26.0,5.0,8
+743,candidacy,68.0,3.41,9
+744,candidate,4.285714285714286,4.66,9
+745,candidates,6.666666666666667,4.56,10
+746,canopy,100.0,3.52,6
+747,capable,10.0,4.61,7
+748,capacity,10.0,4.71,8
+749,capital,0.0,5.01,7
+750,caption,10.0,3.72,7
+751,capture,30.0,4.42,7
+752,captured,40.0,4.44,8
+753,career,0.0,5.07,6
+754,carriers,10.0,4.02,8
+755,carve,80.0,3.41,5
+756,carved,20.0,3.88,6
+757,casts,40.0,3.58,5
+758,caution,0.0,3.97,7
+759,cease,70.0,4.03,5
+761,ceased,60.0,3.81,6
+762,ceasefire,75.0,3.32,9
+763,celebrate,0.0,4.49,9
+764,cemetery,20.0,4.06,8
+765,censorship,65.0,3.85,10
+766,census,40.0,4.19,6
+767,central,0.0,5.12,7
+768,cerebral,0.0,3.6,8
+769,ceremonially,90.0,2.11,12
+770,ceremony,25.0,4.42,8
+771,challenge,20.0,4.88,9
+772,challenged,30.0,4.09,10
+773,challenges,35.0,4.49,10
+774,challenging,60.0,4.27,11
+775,changed,15.0,5.07,7
+776,chanted,50.0,2.99,7
+777,charade,80.0,2.9,7
+778,charge,10.0,5.02,6
+779,charged,25.0,4.62,7
+780,charges,10.0,4.68,7
+781,charity,10.0,4.45,7
+782,chase,20.0,4.44,5
+783,checked,20.0,4.54,7
+784,chemical,0.0,4.57,8
+785,chemicals,0.0,4.17,9
+786,chief,0.0,5.11,5
+787,chopped,20.0,3.78,7
+788,church,0.0,5.16,6
+789,circumstances,90.0,4.59,13
+790,circumvent,90.0,3.15,10
+791,cited,20.0,4.29,5
+792,cites,30.0,3.61,5
+793,citing,10.0,3.94,6
+794,civilian,10.0,4.23,8
+795,civilians,10.0,4.1,9
+796,civilization,30.0,4.01,12
+797,claim,10.0,4.95,5
+798,claimed,16.666666666666668,4.64,7
+799,claiming,10.0,4.33,8
+800,claims,7.5,4.86,6
+801,clashes,6.666666666666667,3.53,7
+802,classed,10.0,3.31,7
+805,cleared,10.0,4.2,7
+806,clemency,90.0,2.97,8
+807,closer,10.0,4.73,6
+808,cloth,10.0,4.03,5
+809,club,10.0,5.2,4
+811,cocaine,10.0,3.98,7
+812,cockpit,90.0,3.6,7
+813,cocoon,60.0,3.08,6
+814,coffins,40.0,3.04,7
+815,collaborating,80.0,3.42,13
+816,collapse,16.0,4.18,8
+817,collapsing,100.0,3.39,10
+818,colleagues,30.0,4.29,10
+819,collection,40.0,4.96,10
+820,collided,65.0,3.26,8
+821,collision,60.0,3.95,9
+822,colonies,28.0,3.94,8
+823,coma,50.0,3.74,4
+824,combat,25.0,4.56,6
+826,combating,60.0,3.25,9
+827,comically,70.0,2.77,9
+828,commemorating,90.0,3.14,13
+829,commentary,0.0,4.19,10
+830,commented,30.0,4.07,9
+831,commercial,10.0,4.92,10
+832,commission,0.0,4.91,10
+833,commitment,30.0,4.43,10
+834,commits,10.0,3.49,7
+835,common,0.0,5.2,6
+836,communication,0.0,4.68,13
+837,communications,10.0,4.59,14
+838,community,10.0,5.34,9
+839,commute,40.0,3.56,7
+840,commuted,50.0,2.85,8
+841,comparison,70.0,4.51,10
+842,comparisons,10.0,3.79,11
+843,compel,30.0,3.28,6
+844,complaining,30.0,4.12,11
+845,complaint,10.0,4.32,9
+846,completed,10.0,4.77,9
+847,complex,0.0,4.86,7
+848,complicated,20.0,4.47,11
+849,composer,20.0,3.85,8
+850,compound,30.0,4.18,8
+851,comprehensive,80.0,4.36,13
+852,compromise,50.0,4.15,10
+853,conceal,70.0,3.52,7
+854,concentration,0.0,4.27,13
+855,concentrations,30.0,3.76,14
+856,concerning,10.0,4.31,10
+857,concerted,40.0,3.27,9
+858,concluded,15.0,4.35,9
+859,concrete,10.0,4.44,8
+860,condemned,80.0,3.97,9
+861,condition,5.0,4.86,9
+862,condolences,90.0,3.58,11
+863,conduct,3.3333333333333335,4.52,7
+864,conducted,30.0,4.58,9
+865,conducting,20.0,4.07,10
+866,cone,15.0,3.83,4
+867,conference,0.0,5.01,10
+868,confessing,30.0,3.08,10
+869,confessions,55.0,3.53,11
+870,confidence,10.0,4.65,10
+871,confidential,70.0,3.9,12
+872,confinement,80.0,3.46,11
+873,confirmed,30.0,4.67,9
+874,conflicting,80.0,3.63,11
+875,congressional,30.0,4.19,13
+876,connection,15.0,4.76,10
+877,conservative,25.0,4.61,12
+878,conservatives,40.0,4.14,13
+879,considerable,20.0,4.25,12
+880,considerations,10.0,3.74,14
+881,considered,15.0,5.08,10
+882,consistently,70.0,4.24,12
+883,consolidation,80.0,3.71,13
+884,conspiracy,65.0,4.26,10
+885,conspiring,60.0,3.11,10
+886,constitution,0.0,4.56,12
+887,constructing,20.0,3.59,12
+888,construction,0.0,4.97,12
+889,consultant,50.0,4.13,10
+890,consultation,50.0,4.02,12
+891,consulting,15.0,4.06,10
+892,consumer,0.0,4.56,8
+893,contacted,10.0,4.0,9
+894,containing,0.0,4.43,10
+895,continue,10.0,5.08,8
+896,continued,10.0,4.96,9
+897,contract,23.333333333333332,4.94,8
+898,contributed,40.0,4.39,11
+899,contributions,23.333333333333332,4.34,13
+900,controlled,0.0,4.59,10
+901,controversial,55.0,4.23,13
+902,converted,20.0,4.21,9
+903,converting,20.0,3.73,10
+904,convicted,10.0,4.2,9
+905,convictions,70.0,3.71,11
+906,convicts,30.0,3.27,8
+907,convince,20.0,4.26,8
+908,convincing,10.0,3.97,10
+909,convoy,50.0,3.71,6
+910,coolest,0.0,3.62,7
+911,cooperate,10.0,3.79,9
+912,cooperation,0.0,4.3,11
+913,corporate,10.0,4.64,9
+914,corpses,56.666666666666664,3.5,7
+915,correctness,0.0,3.39,11
+916,corrosive,100.0,3.11,9
+917,corrupt,0.0,4.14,7
+918,corruption,38.0,4.35,10
+919,corruptly,30.0,2.19,9
+920,costly,0.0,3.93,6
+921,councilman,60.0,3.17,10
+922,counted,10.0,4.04,7
+923,counter,20.0,4.56,7
+924,counteractions,100.0,0.0,14
+925,couple,10.0,5.19,6
+926,crackdown,85.0,3.35,9
+927,craft,30.0,4.3,5
+928,crane,20.0,3.92,5
+929,crash,12.5,4.55,5
+930,crashed,23.75,4.04,7
+931,crashes,10.0,3.87,7
+932,craters,90.0,3.03,7
+933,created,20.0,5.05,7
+934,credence,100.0,3.08,8
+935,crew,16.666666666666668,4.7,4
+936,criminalize,20.0,2.58,11
+937,crippling,100.0,3.36,9
+938,crisis,20.0,4.62,6
+939,criteria,28.0,4.21,8
+940,critical,20.0,4.83,8
+941,criticism,60.0,4.49,9
+942,criticized,30.0,4.0,10
+943,criticizes,10.0,3.17,10
+944,crossed,20.0,4.35,7
+945,crushed,10.0,4.03,7
+946,cuisines,60.0,2.72,8
+947,curfew,90.0,3.37,6
+948,current,20.0,5.27,7
+949,cushion,30.0,3.58,7
+950,customs,10.0,4.19,7
+951,damage,0.0,4.9,6
+952,damaged,0.0,4.39,7
+953,dangerous,0.0,4.79,9
+954,data,0.0,5.34,4
+955,deal,20.0,5.32,4
+956,deals,10.0,4.59,5
+957,death,0.0,5.4,5
+958,debate,16.25,4.64,6
+959,debates,15.0,3.98,7
+960,debris,48.75,3.92,6
+962,debt,5.0,4.69,4
+964,decades,60.0,4.58,7
+965,deciding,20.0,4.11,8
+966,decision,0.0,5.09,8
+967,decisions,10.0,4.72,9
+968,declare,25.0,4.05,7
+969,declared,40.0,4.55,8
+970,decline,40.0,4.4,7
+971,decomposing,50.0,2.8,11
+972,deemed,80.0,4.19,6
+974,defend,13.333333333333334,4.47,6
+975,defendants,46.666666666666664,3.85,10
+976,defended,30.0,4.0,8
+977,deficit,30.0,4.06,7
+978,define,10.0,4.31,6
+979,defined,10.0,4.56,7
+980,definitely,25.0,4.96,10
+981,degrading,90.0,3.35,9
+982,dehydration,90.0,3.31,11
+983,delay,10.0,4.4,5
+984,deliberate,80.0,3.82,10
+985,deliver,30.0,4.55,7
+986,delivered,20.0,4.62,9
+987,delivering,50.0,4.09,10
+988,demanded,20.0,4.12,8
+989,demanding,10.0,4.13,9
+990,democracy,10.0,4.51,9
+991,denied,23.333333333333332,4.43,6
+992,denies,10.0,3.73,6
+993,denotes,30.0,3.42,7
+994,denounced,50.0,3.47,9
+995,dense,20.0,3.98,5
+996,department,0.0,5.23,10
+997,departure,50.0,4.22,9
+998,depending,0.0,4.56,9
+999,depicted,80.0,3.77,8
+1000,deployed,80.0,4.03,8
+1001,deployment,52.5,3.91,10
+1002,deployments,40.0,3.15,11
+1003,depth,40.0,4.55,5
+1004,describe,10.0,4.56,8
+1005,described,8.333333333333334,5.0,9
+1006,describing,10.0,4.23,10
+1007,desire,20.0,4.61,6
+1008,desired,10.0,4.16,7
+1010,destabilize,90.0,2.8,11
+1011,destroy,0.0,4.52,7
+1012,destroyed,10.0,4.61,9
+1013,detained,81.66666666666667,3.81,8
+1014,detainees,90.0,3.39,9
+1015,detectors,30.0,3.46,9
+1016,detention,50.0,3.96,9
+1017,deter,70.0,3.48,5
+1018,deteriorated,90.0,3.35,12
+1019,deterioration,90.0,3.43,13
+1020,determination,70.0,4.16,13
+1021,determine,10.0,4.63,9
+1022,determined,26.666666666666668,4.64,10
+1023,deterred,100.0,2.9,8
+1024,detonated,90.0,3.12,9
+1025,detrimental,90.0,3.55,11
+1026,developers,40.0,4.22,10
+1027,devices,10.0,4.59,7
+1028,dialogue,20.0,4.29,8
+1029,diet,0.0,4.57,4
+1030,difference,0.0,5.01,10
+1031,difficult,5.0,5.07,9
+1032,diffuse,20.0,3.28,7
+1033,digger,50.0,3.17,6
+1034,dignitaries,100.0,3.1,11
+1035,diplomatic,30.0,4.11,10
+1036,diplomats,20.0,3.53,9
+1037,dipped,50.0,3.54,6
+1038,direction,10.0,4.93,9
+1039,disabled,40.0,4.29,8
+1041,disagreed,50.0,3.49,9
+1042,disappointed,20.0,4.42,12
+1043,disaster,80.0,4.39,8
+1044,discovery,13.333333333333334,4.45,9
+1045,discredited,50.0,3.15,11
+1046,discusses,10.0,3.93,9
+1047,discussions,30.0,4.28,11
+1048,disease,10.0,4.9,7
+1049,diseases,40.0,4.36,8
+1051,disguised,80.0,3.56,9
+1052,dismembered,100.0,2.79,11
+1053,dismiss,40.0,3.85,7
+1054,dismissed,60.0,4.2,9
+1055,dispatched,35.0,3.61,10
+1056,disposed,70.0,3.55,8
+1057,dispute,50.0,4.27,7
+1058,disputed,53.333333333333336,3.76,8
+1059,disrespected,60.0,2.93,12
+1060,dissidents,100.0,3.09,10
+1061,distinction,70.0,4.1,11
+1062,dived,30.0,2.97,5
+1063,divert,40.0,3.42,6
+1064,doctorate,20.0,3.38,9
+1065,document,10.0,4.5,8
+1066,documented,36.666666666666664,4.0,10
+1067,dotted,30.0,3.41,6
+1068,doubt,10.0,4.9,5
+1069,doubts,0.0,3.95,6
+1070,downtown,20.0,4.4,8
+1071,downturn,80.0,3.19,8
+1072,draft,35.0,4.61,5
+1073,dried,20.0,4.04,5
+1074,drilled,70.0,3.51,7
+1075,dubbed,100.0,3.81,6
+1076,due,10.0,5.35,3
+1078,duly,10.0,3.44,4
+1079,duty,10.0,4.71,4
+1080,dwarf,10.0,3.75,5
+1081,dwarfs,30.0,3.17,6
+1082,earmarked,100.0,3.0,9
+1083,earnings,10.0,4.27,8
+1084,echoed,60.0,3.4,6
+1085,economic,0.0,5.1,8
+1086,economist,20.0,3.87,9
+1087,economy,3.3333333333333335,4.87,7
+1088,edema,5.0,2.95,5
+1089,education,0.0,5.28,9
+1090,effectively,0.0,4.49,11
+1091,efficient,20.0,4.42,9
+1093,eighteenth,10.0,3.48,10
+1094,elderly,20.0,4.15,7
+1095,elected,10.0,4.63,7
+1096,electoral,3.3333333333333335,4.12,9
+1097,elements,0.0,4.7,8
+1098,elevation,70.0,3.9,9
+1099,elevations,70.0,3.25,10
+1100,elsewhere,20.0,4.46,9
+1101,embassy,12.5,4.13,7
+1103,emerged,60.0,4.16,7
+1104,emergency,10.0,4.72,9
+1105,emission,50.0,3.7,8
+1106,emissions,90.0,4.07,9
+1107,emit,20.0,3.25,4
+1108,emotional,20.0,4.66,9
+1109,emphasizing,50.0,3.36,11
+1110,employment,10.0,4.56,10
+1111,en,10.0,4.5,2
+1112,enabling,40.0,3.92,8
+1113,enacted,85.0,3.75,7
+1114,enactment,100.0,3.22,9
+1115,enclave,40.0,3.19,7
+1116,enclosure,50.0,3.61,9
+1117,encounter,40.0,4.26,9
+1118,encourage,40.0,4.45,9
+1119,encouraging,20.0,4.14,11
+1120,endangered,50.0,3.86,10
+1121,enemies,10.0,4.4,7
+1122,enemy,0.0,4.7,5
+1123,enforcement,30.0,4.45,11
+1124,engineered,20.0,3.71,10
+1125,enjoyed,10.0,4.59,7
+1126,enlargement,100.0,3.2,11
+1127,ensued,100.0,3.34,6
+1128,ensure,50.0,4.7,6
+1129,entailing,90.0,2.09,9
+1130,entered,10.0,4.72,7
+1131,entering,10.0,4.42,8
+1132,entity,20.0,4.12,6
+1133,envoy,55.0,3.48,5
+1134,equipment,18.0,4.88,9
+1135,erupted,80.0,3.39,7
+1136,es,0.0,3.93,2
+1137,escaping,10.0,3.73,8
+1138,escorted,100.0,3.49,8
+1139,espionage,96.66666666666669,3.47,9
+1140,established,10.0,4.9,11
+1141,estimate,20.0,4.29,8
+1142,estimated,33.333333333333336,4.62,9
+1143,estimates,20.0,4.3,9
+1144,ethical,30.0,4.07,7
+1145,euros,0.0,3.78,5
+1148,evacuated,80.0,3.66,9
+1149,evaluated,100.0,3.83,9
+1150,events,0.0,5.08,6
+1151,evidence,25.714285714285715,5.14,8
+1152,evolve,50.0,3.8,6
+1153,evolved,30.0,4.09,7
+1154,exchange,20.0,4.85,8
+1155,excited,20.0,4.74,7
+1156,exciting,0.0,4.54,8
+1157,excluded,16.666666666666668,3.89,8
+1158,exclusion,50.0,3.68,9
+1159,excused,40.0,3.28,7
+1160,executed,40.0,4.27,8
+1161,executions,45.0,3.44,10
+1162,executive,15.0,4.87,9
+1163,exercises,20.0,4.12,9
+1164,exhibitions,40.0,3.68,11
+1165,exists,0.0,4.48,6
+1166,expectations,10.0,4.44,12
+1167,expected,15.0,4.96,8
+1168,expedited,100.0,2.98,9
+1169,expelled,60.0,3.7,8
+1170,experience,10.0,5.27,10
+1171,experiment,10.0,4.38,10
+1172,experimental,10.0,4.28,12
+1173,experimenter,40.0,2.48,12
+1174,experiments,5.0,4.2,11
+1175,expert,10.0,4.56,6
+1176,experts,30.0,4.52,7
+1177,explicitly,100.0,3.96,10
+1178,exploded,56.666666666666664,3.77,8
+1179,exploiting,40.0,3.48,10
+1180,explore,50.0,4.31,7
+1181,explosives,20.0,3.79,10
+1182,exported,16.666666666666668,3.56,8
+1183,expose,0.0,3.98,6
+1184,exposed,13.333333333333334,4.51,7
+1185,exposing,40.0,3.78,8
+1186,exposure,80.0,4.44,8
+1187,express,20.0,4.68,7
+1188,expressed,20.0,4.52,9
+1189,expresses,30.0,3.61,9
+1190,expression,20.0,4.55,10
+1191,expressly,20.0,3.48,9
+1192,extended,10.0,4.64,8
+1193,extends,10.0,3.99,7
+1194,extension,35.0,4.46,9
+1195,extracted,70.0,3.68,9
+1196,extrapolate,100.0,2.67,11
+1197,extreme,0.0,4.6,7
+1198,extremists,50.0,3.47,10
+1199,facilities,30.0,4.66,10
+1200,factor,0.0,4.67,6
+1201,failing,20.0,4.3,7
+1203,fallen,20.0,4.39,6
+1204,falls,10.0,4.63,5
+1205,falsely,10.0,3.61,7
+1206,fanned,75.0,2.74,6
+1207,farmland,20.0,3.35,8
+1208,fatal,40.0,4.1,5
+1209,fatalities,85.0,3.45,10
+1210,feasible,100.0,3.72,8
+1211,features,20.0,4.94,8
+1212,featuring,25.0,4.45,9
+1213,feeding,10.0,4.28,7
+1214,fellow,10.0,4.76,6
+1215,fence,25.0,4.21,5
+1216,fibers,10.0,3.64,6
+1217,file,10.0,4.75,4
+1218,filed,10.0,4.49,5
+1219,filibuster,100.0,2.89,10
+1220,filters,0.0,3.88,7
+1222,fined,20.0,3.7,5
+1223,finishing,10.0,4.3,9
+1224,fire,0.0,5.3,4
+1225,fireball,50.0,3.18,8
+1226,fireworks,10.0,3.83,9
+1227,firing,10.0,4.27,6
+1228,firm,5.0,4.79,4
+1229,fitted,20.0,4.13,6
+1230,fitting,10.0,4.1,7
+1232,flared,100.0,3.12,6
+1233,flashing,10.0,3.68,8
+1234,fled,30.0,4.05,4
+1235,fleet,30.0,4.33,5
+1236,flew,20.0,4.16,4
+1237,flexible,30.0,4.13,8
+1238,flight,0.0,4.86,6
+1239,flooded,50.0,3.79,7
+1240,focus,10.0,5.0,5
+1241,fog,10.0,3.9,3
+1242,following,5.0,5.46,9
+1244,footage,37.5,4.31,7
+1245,foraging,53.333333333333336,3.13,8
+1246,foray,70.0,3.04,5
+1247,forbidden,60.0,3.96,9
+1248,fore,50.0,3.52,4
+1249,foreigners,20.0,3.87,10
+1250,forestry,30.0,3.69,8
+1251,formal,10.0,4.45,6
+1252,formally,0.0,4.01,8
+1253,formation,0.0,4.49,9
+1254,formed,0.0,4.68,6
+1255,former,10.0,5.28,6
+1256,fortress,60.0,3.77,8
+1257,founded,10.0,4.5,7
+1258,fraud,30.0,4.37,5
+1260,freely,10.0,4.07,6
+1261,fresh,20.0,4.83,5
+1262,friendliness,20.0,2.93,12
+1264,frontier,35.0,3.97,8
+1265,functioning,0.0,4.02,11
+1266,fundamental,50.0,4.33,11
+1267,funded,20.0,4.29,6
+1268,funds,0.0,4.74,5
+1269,funeral,40.0,4.37,7
+1270,fungal,10.0,3.31,6
+1271,fungus,21.428571428571427,3.53,6
+1274,fusion,20.0,4.02,6
+1275,gag,45.0,3.63,3
+1276,gagging,40.0,2.93,7
+1277,gained,30.0,4.49,6
+1278,gaining,10.0,4.13,7
+1279,gang,20.0,4.5,4
+1280,gap,10.0,4.47,3
+1281,garbage,50.0,4.18,7
+1282,gathering,20.0,4.25,9
+1283,generation,10.0,4.82,10
+1284,genuinely,70.0,4.1,9
+1285,gesture,40.0,3.9,7
+1286,goal,0.0,5.06,4
+1287,government,3.3333333333333335,5.57,10
+1288,governments,0.0,4.45,11
+1289,granted,10.0,4.61,7
+1290,graphic,20.0,4.23,7
+1291,graves,20.0,3.87,6
+1292,gravity,50.0,4.21,7
+1294,growth,0.0,5.03,6
+1295,guarantee,60.0,4.44,9
+1296,guesses,50.0,3.21,7
+1297,guilty,30.0,4.61,6
+1298,gunman,10.0,3.32,6
+1299,gunshot,0.0,3.49,7
+1300,gunshots,30.0,3.22,8
+1301,hacked,60.0,3.82,6
+1303,handful,10.0,4.11,7
+1304,handicapped,30.0,3.42,11
+1305,hangover,100.0,3.5,8
+1306,harbor,60.0,4.15,6
+1307,hard,10.0,5.53,4
+1308,hardball,50.0,2.76,8
+1309,hashtag,50.0,3.67,7
+1310,hastily,50.0,3.3,7
+1311,headed,35.0,4.55,6
+1312,heading,10.0,4.48,7
+1313,headquarters,10.0,4.36,12
+1314,healing,50.0,4.23,7
+1315,heard,10.0,5.27,5
+1316,hearing,20.0,4.82,7
+1317,held,20.0,5.24,4
+1318,helicopter,10.0,4.13,10
+1319,helmet,0.0,4.02,6
+1321,highlighted,10.0,3.89,11
+1322,hike,30.0,3.95,4
+1323,hit,0.0,5.37,3
+1324,hives,10.0,3.12,5
+1325,holdings,0.0,4.0,8
+1326,homepage,20.0,3.45,8
+1327,honeydew,20.0,2.4,8
+1328,hooliganism,100.0,2.42,11
+1329,hoop,10.0,3.41,4
+1331,hospitalize,10.0,1.77,11
+1332,host,25.0,4.77,4
+1333,house,10.0,5.71,5
+1334,housed,23.333333333333332,3.69,6
+1335,housing,10.0,4.77,7
+1336,humankind,60.0,3.11,9
+1337,hunt,30.0,4.49,4
+1338,hunting,10.0,4.42,7
+1339,hurdle,100.0,3.41,6
+1340,hurdles,60.0,3.54,7
+1341,hurting,60.0,4.11,7
+1343,identified,7.5,4.63,10
+1344,identity,10.0,4.65,8
+1345,ignore,10.0,4.48,6
+1346,illegal,0.0,4.68,7
+1347,illegally,20.0,3.87,9
+1348,illnesses,20.0,3.67,9
+1350,immediate,20.0,4.52,9
+1351,immediately,0.0,4.98,11
+1352,immigrant,50.0,4.04,9
+1353,immigrants,45.0,4.37,10
+1354,immigration,60.0,4.47,11
+1355,immunity,75.0,3.91,8
+1356,impact,60.0,4.92,6
+1357,impeach,20.0,3.1,7
+1358,impeachment,100.0,3.59,11
+1359,impede,80.0,3.14,6
+1360,implementation,30.0,4.31,14
+1361,implemented,60.0,4.23,11
+1362,impose,50.0,3.92,6
+1363,impossible,5.0,4.78,10
+1364,imprecise,100.0,2.68,9
+1365,imprisoned,50.0,3.79,10
+1366,improvement,20.0,4.49,11
+1367,impugned,100.0,2.1,8
+1368,inaugural,40.0,3.67,9
+1369,inch,10.0,4.49,4
+1370,incident,40.0,4.54,8
+1371,incidents,30.0,4.15,9
+1372,included,10.0,5.03,8
+1373,including,13.333333333333334,5.52,9
+1374,inclusion,30.0,4.02,9
+1375,incoherent,80.0,3.09,10
+1376,incoming,10.0,3.93,8
+1377,increased,10.0,4.91,9
+1378,increasing,0.0,4.68,10
+1379,increasingly,10.0,4.38,12
+1380,indicate,25.0,4.35,8
+1381,indicated,27.5,4.34,9
+1382,indication,40.0,4.06,10
+1383,individual,0.0,5.0,10
+1384,individuals,10.0,4.81,11
+1385,industries,10.0,4.42,10
+1386,industry,0.0,5.19,8
+1387,infect,40.0,3.36,6
+1388,inflation,70.0,4.14,9
+1389,influence,30.0,4.78,9
+1390,information,10.0,5.43,11
+1391,infrared,30.0,3.71,8
+1392,ingested,90.0,3.11,8
+1393,ingesting,100.0,2.8,9
+1394,ingredient,60.0,3.74,10
+1395,injured,20.0,4.51,7
+1396,injuries,3.3333333333333335,4.44,8
+1397,injury,3.3333333333333335,4.74,6
+1398,inmates,40.0,3.84,7
+1399,insect,0.0,3.76,6
+1400,insects,0.0,4.02,7
+1401,inspected,20.0,3.51,9
+1402,inspection,20.0,4.14,10
+1403,inspiration,40.0,4.41,11
+1404,inspired,20.0,4.63,8
+1405,instead,30.0,5.24,7
+1406,instilled,100.0,2.97,9
+1407,institution,10.0,4.41,11
+1408,insurance,5.0,4.94,9
+1409,insurgency,30.0,3.31,10
+1410,insurgent,0.0,3.2,9
+1411,insurgents,44.0,3.37,10
+1412,intake,30.0,3.98,6
+1413,intelligence,0.0,4.7,12
+1414,intends,30.0,3.69,7
+1415,intensive,35.0,4.06,9
+1416,intensively,60.0,2.87,11
+1417,intent,40.0,4.28,6
+1418,intention,70.0,4.33,9
+1419,intentions,50.0,4.11,10
+1420,interaction,30.0,4.29,11
+1421,interference,40.0,3.99,12
+1422,internationally,30.0,3.95,15
+1423,internationals,10.0,3.09,14
+1424,interred,70.0,2.79,8
+1425,intervened,90.0,3.35,10
+1426,intervention,63.333333333333336,4.26,12
+1427,interview,0.0,4.86,9
+1428,interviewed,30.0,4.0,11
+1429,interviewee,90.0,2.7,11
+1430,intimidate,50.0,3.31,10
+1431,intracranial,90.0,2.69,12
+1432,introduced,10.0,4.72,10
+1433,investigate,46.666666666666664,4.31,11
+1434,investigation,30.0,4.75,13
+1435,investigator,20.0,3.83,12
+1436,investigators,25.0,3.88,13
+1437,investigatory,25.0,2.53,13
+1438,investment,0.0,4.84,10
+1439,investors,10.0,4.34,9
+1440,involved,17.5,5.1,8
+1441,involves,10.0,4.34,8
+1443,island,10.0,5.01,6
+1444,isolation,80.0,4.02,9
+1445,issue,10.0,5.23,5
+1446,issued,10.0,4.73,6
+1448,jaw,10.0,3.98,3
+1449,jawed,30.0,2.55,5
+1451,jeopardize,100.0,3.1,10
+1452,joined,10.0,4.73,6
+1453,joint,0.0,4.71,5
+1454,journalists,3.3333333333333335,4.29,11
+1455,judge,10.0,4.95,5
+1457,kilometers,0.0,3.82,10
+1458,knocked,40.0,4.24,7
+1459,knowledge,30.0,4.96,9
+1460,labeling,10.0,3.55,8
+1462,laboratory,5.0,4.31,10
+1463,laced,60.0,3.29,5
+1464,lack,20.0,4.92,4
+1465,landed,10.0,4.24,6
+1466,laps,30.0,3.66,4
+1467,laser,10.0,4.2,5
+1469,lasted,13.333333333333334,4.09,6
+1470,launch,20.0,4.69,6
+1471,launched,0.0,4.63,8
+1472,laundry,20.0,4.06,7
+1473,lawsuit,100.0,4.09,7
+1474,lawsuits,70.0,3.63,8
+1475,lead,10.0,5.2,4
+1476,leading,10.0,5.0,7
+1477,leaking,20.0,3.7,7
+1478,leaks,20.0,3.88,5
+1479,lectures,0.0,3.96,8
+1480,led,13.333333333333334,5.11,3
+1481,left,0.0,5.62,4
+1482,legacy,50.0,4.37,6
+1483,legal,10.0,5.08,5
+1485,legislation,20.0,4.55,11
+1486,legislative,50.0,4.32,11
+1487,lenders,45.0,3.67,7
+1488,lending,40.0,3.87,7
+1489,liable,40.0,3.89,6
+1490,liberal,20.0,4.66,7
+1491,librettist,100.0,2.06,10
+1492,license,10.0,4.52,7
+1493,lifting,10.0,4.06,7
+1494,light,10.0,5.33,5
+1495,likewise,40.0,4.04,8
+1496,limited,10.0,5.02,7
+1497,linked,20.0,4.54,6
+1498,lips,10.0,4.35,4
+1499,liquid,0.0,4.39,6
+1500,literally,10.0,4.91,9
+1501,lithium,10.0,3.56,7
+1502,loans,10.0,4.51,5
+1503,lobe,20.0,3.3,4
+1504,locate,0.0,3.94,6
+1505,located,30.0,4.86,7
+1506,logging,60.0,3.76,7
+1507,logs,10.0,3.81,4
+1508,lorries,20.0,2.84,7
+1509,lorry,16.428571428571427,3.21,5
+1510,losses,0.0,4.45,6
+1511,loudspeaker,40.0,2.95,11
+1512,loudspeakers,20.0,2.79,12
+1514,loyal,5.0,4.2,5
+1515,lull,20.0,3.08,4
+1516,lying,10.0,4.67,5
+1517,lyric,30.0,3.63,5
+1518,madness,0.0,3.97,7
+1519,maintenance,0.0,4.55,11
+1520,management,40.0,5.13,10
+1521,managing,20.0,4.4,8
+1522,mandate,50.0,3.97,7
+1523,mandated,100.0,3.56,8
+1524,manhunt,90.0,3.03,7
+1525,manufactures,0.0,3.43,12
+1526,manufacturing,30.0,4.56,13
+1527,market,0.0,5.29,6
+1529,marriage,0.0,4.91,8
+1530,mass,10.0,4.87,4
+1531,massacre,50.0,3.91,8
+1532,masses,20.0,3.94,6
+1533,mate,15.0,4.55,4
+1534,material,0.0,4.95,8
+1535,means,20.0,5.44,5
+1536,measure,5.0,4.65,7
+1537,measured,20.0,4.25,8
+1538,measurements,10.0,4.05,12
+1539,measures,5.0,4.67,8
+1540,measuring,40.0,4.07,9
+1541,mechanism,20.0,4.27,9
+1542,media,0.0,5.3,5
+1543,medicate,50.0,2.48,8
+1544,medicine,3.3333333333333335,4.73,8
+1546,membership,7.5,4.47,10
+1547,mentioned,15.0,4.83,9
+1548,merger,90.0,3.97,6
+1549,methods,0.0,4.68,7
+1551,mice,13.333333333333334,4.09,4
+1552,midwife,80.0,3.27,7
+1553,migrants,40.0,3.9,8
+1554,militants,10.0,3.56,9
+1556,militarily,20.0,3.0,10
+1557,military,4.285714285714286,5.2,8
+1558,militia,10.0,3.88,7
+1559,militiamen,40.0,2.7,10
+1560,militias,50.0,3.2,8
+1561,million,5.0,5.33,7
+1562,millions,0.0,4.64,8
+1563,mimics,40.0,3.11,6
+1564,mind,10.0,5.41,4
+1565,ministerial,5.0,3.55,11
+1566,ministers,0.0,4.34,9
+1567,misconduct,65.0,3.66,10
+1568,missiles,0.0,3.95,8
+1569,missing,10.0,5.05,7
+1570,mission,20.0,4.87,7
+1571,mistook,60.0,3.07,7
+1572,mistreated,90.0,3.05,10
+1573,moderated,60.0,3.14,9
+1574,modified,40.0,4.24,8
+1575,moment,10.0,5.24,6
+1576,monasteries,90.0,3.13,11
+1577,monitoring,65.0,4.34,10
+1578,monk,30.0,3.93,4
+1579,monsoon,30.0,3.33,7
+1582,mortal,40.0,3.86,6
+1583,mosque,10.0,3.89,6
+1584,moth,20.0,3.5,4
+1585,motivation,60.0,4.22,10
+1586,motive,50.0,3.94,6
+1587,motorcyclist,10.0,2.74,12
+1588,motorist,30.0,3.07,8
+1589,motorists,20.0,3.29,9
+1590,mountains,0.0,4.5,9
+1591,mounted,20.0,4.26,7
+1592,mourning,80.0,3.69,8
+1593,movement,6.666666666666667,4.97,8
+1594,multiple,0.0,4.92,8
+1595,munching,90.0,2.88,8
+1596,murdered,0.0,4.32,8
+1597,murdering,20.0,3.72,9
+1598,murders,10.0,4.05,7
+1599,musical,10.0,4.51,7
+1600,nailed,30.0,3.77,6
+1601,narrowed,60.0,3.43,8
+1602,national,3.3333333333333335,5.51,8
+1604,nationalist,10.0,3.91,11
+1605,nationals,10.0,3.91,9
+1606,nations,0.0,4.8,7
+1607,necessarily,20.0,4.48,11
+1608,negative,0.0,4.79,8
+1609,negotiate,100.0,3.99,9
+1610,negotiating,100.0,3.78,11
+1611,negotiations,70.0,4.21,12
+1612,neighbor,10.0,4.11,8
+1616,nest,10.0,4.07,4
+1618,nests,25.0,3.43,5
+1619,netted,100.0,3.08,6
+1620,neurons,20.0,3.71,7
+1621,newspaper,0.0,4.6,9
+1622,nicknamed,60.0,3.44,9
+1624,nomination,24.0,4.07,10
+1629,nonfatal,60.0,1.95,8
+1630,normalcy,70.0,2.83,8
+1631,normally,10.0,4.57,8
+1632,novelists,30.0,3.01,9
+1634,nude,20.0,4.0,4
+1635,numerals,10.0,3.03,8
+1636,obeyed,60.0,3.02,6
+1637,object,10.0,4.56,6
+1638,objective,30.0,4.36,9
+1639,obligation,60.0,4.07,10
+1640,obliging,60.0,2.61,8
+1641,observed,10.0,4.39,8
+1642,observer,0.0,3.91,8
+1643,observers,30.0,3.77,9
+1644,obtained,20.0,4.49,8
+1645,occasions,20.0,4.26,9
+1646,occurred,5.0,4.57,8
+1647,offender,100.0,3.7,8
+1648,offensive,20.0,4.46,9
+1649,offered,10.0,4.86,7
+1650,official,10.0,5.14,8
+1651,officially,10.0,4.53,10
+1652,offshoot,70.0,2.98,8
+1654,ongoing,60.0,4.32,7
+1655,operated,10.0,4.35,8
+1656,operations,0.0,4.87,10
+1657,opinion,0.0,4.94,7
+1658,opinion’s,0.0,1.61,9
+1659,opponents,10.0,4.23,9
+1660,opposed,7.5,4.51,7
+1661,opposes,10.0,3.36,7
+1662,opposition,0.0,4.57,10
+1663,optical,0.0,4.07,7
+1664,option,10.0,4.8,6
+1666,organizations,10.0,4.67,13
+1667,original,0.0,5.16,8
+1668,ouster,70.0,2.72,6
+1669,outlet,10.0,4.0,6
+1670,outlined,40.0,3.87,8
+1671,outlines,10.0,3.6,8
+1672,outskirts,70.0,3.56,9
+1673,outstanding,90.0,4.5,11
+1674,overcrowding,90.0,3.05,12
+1675,overdue,40.0,3.5,7
+1676,overshadowed,100.0,3.23,12
+1677,overspending,60.0,2.4,12
+1678,owners,10.0,4.65,6
+1679,pace,10.0,4.38,4
+1680,packed,20.0,4.31,6
+1681,pact,5.0,3.73,4
+1683,panel,40.0,4.55,5
+1684,paperwork,40.0,3.84,9
+1685,parasite,50.0,3.51,8
+1686,parasites,10.0,3.5,9
+1687,parasitism,80.0,2.27,10
+1688,pardoned,100.0,3.11,8
+1689,parent,10.0,4.57,6
+1690,parish,20.0,4.11,6
+1691,parked,10.0,3.91,6
+1692,parliamentary,10.0,4.18,13
+1693,partially,0.0,4.19,9
+1694,participant,0.0,3.78,11
+1695,participants,10.0,4.4,12
+1696,participate,7.5,4.42,11
+1697,particular,0.0,5.0,10
+1698,parties,0.0,4.89,7
+1699,partners,0.0,4.56,8
+1700,passed,0.0,4.92,6
+1701,passengers,5.0,4.34,10
+1703,passively,40.0,3.01,9
+1704,patents,23.333333333333332,3.77,7
+1705,patriot,60.0,3.73,7
+1706,patrols,30.0,3.48,7
+1707,paws,60.0,3.43,4
+1708,payroll,90.0,3.76,7
+1709,pedestrian,70.0,3.71,10
+1710,pellets,40.0,3.26,7
+1711,penalties,20.0,4.08,9
+1712,penalty,13.333333333333334,4.45,7
+1713,penned,100.0,3.38,6
+1714,percentage,10.0,4.48,10
+1715,perennial,70.0,3.51,9
+1716,perfection,20.0,3.99,10
+1717,perfectly,20.0,4.61,9
+1718,performance,0.0,5.16,11
+1719,performances,10.0,4.29,12
+1720,performed,10.0,4.68,9
+1722,peripheral,60.0,3.66,10
+1723,permanent,3.3333333333333335,4.57,9
+1724,peroxide,0.0,3.13,8
+1725,perpetually,50.0,3.16,11
+1726,personnel,20.0,4.56,9
+1728,pharmacies,30.0,3.18,10
+1729,phenomenon,100.0,4.13,10
+1730,photograph,0.0,4.23,10
+1731,physician,50.0,4.18,9
+1732,pictured,20.0,3.79,8
+1733,picturesque,80.0,3.5,11
+1734,piece,10.0,5.04,5
+1735,pieces,10.0,4.72,6
+1736,piled,40.0,3.41,5
+1737,pillars,20.0,3.62,7
+1738,pilot,0.0,4.52,5
+1739,pilots,0.0,4.12,6
+1740,pioneer,60.0,3.91,7
+1742,pit,10.0,4.27,3
+1743,pits,60.0,3.72,4
+1744,pitting,80.0,3.0,7
+1745,plank,100.0,3.46,5
+1746,planned,10.0,4.69,7
+1747,plated,30.0,3.45,6
+1748,playing,10.0,5.37,7
+1749,plaza,0.0,3.91,5
+1750,pleasure,10.0,4.57,8
+1751,pledge,50.0,4.0,6
+1752,plot,10.0,4.58,4
+1753,plutocrats,80.0,2.13,10
+1754,poems,0.0,4.11,5
+1755,poetry,0.0,4.4,6
+1756,policies,0.0,4.71,8
+1757,policing,0.0,3.62,8
+1758,political,3.3333333333333335,5.29,9
+1759,polling,5.0,3.83,7
+1760,polls,15.0,4.1,5
+1761,populated,10.0,3.79,9
+1762,population,20.0,5.01,10
+1763,populous,50.0,3.41,8
+1764,portfolio,60.0,4.15,9
+1765,portfolios,70.0,3.36,10
+1766,portion,0.0,4.53,7
+1767,position,10.0,5.21,8
+1768,positioned,10.0,3.79,10
+1769,possibility,5.0,4.58,11
+1771,postdoctoral,30.0,3.13,12
+1772,posting,10.0,4.39,7
+1773,pot,0.0,4.4,3
+1774,potential,30.0,5.01,9
+1775,pounce,50.0,2.97,6
+1776,pounds,0.0,4.53,6
+1777,praises,20.0,3.51,7
+1780,predators,100.0,3.74,9
+1781,predatory,40.0,3.39,9
+1782,preferred,40.0,4.35,9
+1783,premier,0.0,4.56,7
+1784,premiers,10.0,3.12,8
+1785,preoccupied,60.0,3.26,11
+1786,prepare,0.0,4.55,7
+1787,preparing,10.0,4.33,9
+1788,presence,10.0,4.73,8
+1789,presently,0.0,3.72,9
+1791,press,0.0,5.16,5
+1792,prestige,70.0,3.75,8
+1793,prevailing,100.0,3.55,10
+1794,prevent,10.0,4.79,7
+1795,prevented,10.0,4.09,9
+1796,preventing,20.0,4.12,10
+1797,previous,0.0,5.0,8
+1798,previously,11.666666666666666,4.83,10
+1799,prey,10.0,3.98,4
+1801,primed,30.0,3.15,6
+1802,principal,0.0,4.52,9
+1803,principles,10.0,4.42,10
+1804,prison,10.0,4.8,6
+1805,prisoner,0.0,4.2,8
+1808,probe,40.0,3.99,5
+1809,probes,40.0,3.43,6
+1810,problematic,45.0,3.87,11
+1811,proceed,30.0,4.18,7
+1812,proceeding,30.0,3.66,10
+1813,proceedings,35.0,4.18,11
+1814,process,15.0,5.26,7
+1815,production,20.0,5.14,10
+1816,profile,10.0,4.82,7
+1817,profoundly,30.0,3.51,10
+1818,profundities,100.0,1.21,12
+1819,prohibits,75.0,3.42,9
+1820,project,10.0,5.22,7
+1821,projected,30.0,3.99,9
+1822,promised,10.0,4.49,8
+1823,promote,0.0,4.56,7
+1824,pronounced,55.0,4.06,10
+1825,pronunciation,20.0,3.51,13
+1826,proof,20.0,4.7,5
+1827,propaganda,42.5,4.17,10
+1828,proper,0.0,4.72,6
+1829,properly,30.0,4.64,8
+1830,protect,10.0,4.92,7
+1831,protected,0.0,4.51,9
+1832,protecting,0.0,4.3,10
+1833,protest,20.0,4.45,7
+1834,protesters,40.0,4.0,10
+1835,protesting,0.0,3.76,10
+1836,protests,15.0,4.2,8
+1837,prototype,100.0,3.83,9
+1838,provide,10.0,5.15,7
+1839,providing,0.0,4.72,9
+1840,province,10.0,4.47,8
+1841,provinces,10.0,4.03,9
+1842,provisions,42.5,4.12,10
+1843,psychological,20.0,4.27,13
+1844,psychopath,90.0,3.32,10
+1845,publicly,10.0,4.28,8
+1846,published,5.0,5.07,9
+1847,publisher,0.0,4.13,9
+1848,pulmonary,20.0,3.5,9
+1849,pun,40.0,3.55,3
+1850,purchasing,15.0,4.06,10
+1851,purifying,80.0,2.77,9
+1852,purpose,20.0,4.88,7
+1853,purposes,10.0,4.51,8
+1854,pursuit,40.0,4.12,7
+1855,quarter,20.0,4.72,7
+1857,quell,80.0,3.0,5
+1858,quelled,100.0,2.46,7
+1859,questioned,0.0,4.02,10
+1860,questioning,20.0,4.04,11
+1861,questions,0.0,5.15,9
+1862,quota,10.0,3.53,5
+1863,quotas,20.0,3.33,6
+1864,quoted,40.0,4.21,6
+1865,quoting,20.0,3.72,7
+1867,racing,10.0,4.5,6
+1868,radars,25.0,2.87,6
+1869,raised,10.0,4.84,6
+1870,raising,0.0,4.43,7
+1871,rallied,60.0,3.27,7
+1872,rallies,15.0,3.64,7
+1873,rally,20.0,4.34,5
+1874,rape,2.5,4.48,4
+1875,raped,0.0,4.08,5
+1876,rapist,40.0,3.62,6
+1877,rarely,10.0,4.42,6
+1878,rate,20.0,5.14,4
+1879,rationale,90.0,3.53,9
+1880,raw,10.0,4.53,3
+1882,reached,10.0,4.85,7
+1883,reaction,10.0,4.73,8
+1884,readily,10.0,3.93,7
+1885,reality,30.0,4.89,7
+1886,realizes,30.0,3.75,8
+1887,reassure,50.0,3.3,8
+1888,reassured,100.0,3.11,9
+1889,rebel,30.0,4.08,5
+1890,rebels,27.5,4.07,6
+1891,rebound,70.0,3.53,7
+1892,recent,5.0,5.04,6
+1894,reciprocity,80.0,3.04,11
+1895,recognition,20.0,4.47,11
+1896,recognize,40.0,4.52,9
+1897,recognized,32.0,4.52,10
+1898,recognizes,40.0,3.74,10
+1899,recorded,20.0,4.66,8
+1900,recycling,40.0,3.76,9
+1901,reference,10.0,4.74,9
+1902,referencing,20.0,3.36,11
+1903,referred,20.0,4.61,8
+1904,referring,26.666666666666668,4.35,9
+1905,refinance,80.0,2.92,9
+1907,reform,18.333333333333332,4.53,6
+1908,reformed,50.0,3.61,8
+1909,reforms,33.333333333333336,4.06,7
+1910,refrigerator,20.0,3.61,12
+1911,refuge,30.0,3.91,6
+1912,refugee,50.0,3.98,7
+1913,refugees,35.0,4.26,8
+1914,refusal,20.0,3.83,7
+1915,refuse,10.0,4.39,6
+1916,refused,10.0,4.54,7
+1917,refuted,60.0,3.07,7
+1918,regarding,6.666666666666667,4.67,9
+1919,regime,15.714285714285714,4.3,6
+1920,region,0.0,5.0,6
+1921,regional,0.0,4.72,8
+1922,registered,25.0,4.52,10
+1923,regularly,0.0,4.52,9
+1924,regulation,10.0,4.38,10
+1925,regulatory,20.0,4.23,10
+1926,rehabilitation,60.0,3.99,14
+1927,reinstatement,100.0,2.99,13
+1928,rejected,0.0,4.37,8
+1929,relates,10.0,3.82,7
+1930,relations,0.0,4.67,9
+1931,relationship,0.0,5.15,12
+1932,relatives,10.0,4.2,9
+1933,release,20.0,5.09,7
+1934,released,12.5,5.05,8
+1935,relentless,70.0,3.51,10
+1936,reliable,55.0,4.29,8
+1937,relinquish,100.0,3.12,10
+1938,remained,10.0,4.62,8
+1939,remaining,5.0,4.63,9
+1940,remains,0.0,4.8,7
+1941,removed,6.666666666666667,4.79,7
+1942,renderings,100.0,2.67,10
+1943,rendition,100.0,3.45,9
+1944,repeal,40.0,3.87,6
+1945,repealing,63.333333333333336,3.08,9
+1946,repeat,10.0,4.49,6
+1947,replace,10.0,4.58,7
+1948,replaced,10.0,4.55,8
+1949,replacement,25.0,4.44,11
+1950,replacing,20.0,4.15,9
+1951,replica,70.0,3.67,7
+1952,reported,10.0,5.0,8
+1953,reporters,0.0,4.01,9
+1954,repossessed,70.0,2.55,11
+1955,representation,0.0,4.34,14
+1956,represented,20.0,4.53,11
+1957,repression,50.0,3.51,10
+1958,reputation,40.0,4.47,10
+1959,request,10.0,4.76,7
+1960,requested,20.0,4.33,9
+1961,requests,10.0,4.28,8
+1962,require,0.0,4.78,7
+1963,required,20.0,5.02,8
+1964,requirement,35.0,4.26,11
+1965,requires,10.0,4.67,8
+1966,rescue,10.0,4.48,6
+1967,rescues,50.0,3.25,7
+1968,research,13.333333333333334,5.39,8
+1969,researched,0.0,3.56,10
+1970,researchers,10.0,4.39,11
+1971,researching,0.0,3.63,11
+1972,resemble,90.0,3.73,8
+1973,resembled,60.0,3.33,9
+1974,reserved,15.0,4.18,8
+1975,reserving,0.0,2.93,9
+1976,residence,0.0,4.36,9
+1977,resident,30.0,4.38,8
+1978,residents,12.5,4.64,9
+1979,resignations,20.0,2.82,12
+1980,resigned,90.0,4.04,8
+1981,resilient,60.0,3.5,9
+1982,resistance,20.0,4.55,10
+1983,resistances,50.0,2.69,11
+1984,resolved,30.0,4.1,8
+1985,resort,3.3333333333333335,4.37,6
+1986,resorts,0.0,3.75,7
+1987,resources,20.0,4.91,9
+1988,respectively,35.0,4.45,12
+1989,respond,10.0,4.53,7
+1990,responded,20.0,4.26,9
+1991,response,8.333333333333334,5.03,8
+1992,responsibility,10.0,4.75,14
+1993,responsible,10.0,4.88,11
+1994,responsibly,25.0,3.24,11
+1995,restive,50.0,2.37,7
+1996,resulted,10.0,4.37,8
+1997,resulting,0.0,4.48,9
+1998,retaining,90.0,3.78,9
+1999,retaliated,80.0,2.8,10
+2000,reticular,60.0,2.13,9
+2001,retiring,30.0,3.8,8
+2002,retracting,80.0,2.49,10
+2003,returning,0.0,4.49,9
+2004,revealed,40.0,4.65,8
+2005,revolt,20.0,3.73,6
+2006,ribs,20.0,3.8,4
+2007,ride,10.0,4.85,4
+2008,ringleaders,100.0,2.32,11
+2009,riots,10.0,3.87,5
+2010,risky,30.0,3.94,5
+2011,rivals,20.0,3.95,6
+2012,roadside,10.0,3.45,8
+2013,rocked,20.0,3.53,6
+2014,roll,10.0,4.75,4
+2015,rolled,30.0,4.21,6
+2016,rose,10.0,4.82,4
+2017,rotate,15.0,3.58,6
+2018,rotation,0.0,4.08,8
+2019,roughly,33.333333333333336,4.36,7
+2020,rounds,10.0,4.3,6
+2021,route,5.0,4.67,5
+2022,routine,30.0,4.37,7
+2023,ruins,30.0,4.02,5
+2024,ruled,15.0,4.3,5
+2026,running,10.0,5.23,7
+2027,runway,30.0,3.92,6
+2028,sadness,20.0,3.88,7
+2029,sampling,60.0,3.75,8
+2030,sanctioned,40.0,3.62,10
+2031,sanctions,36.666666666666664,3.95,9
+2032,satellite,10.0,4.33,9
+2033,scale,10.0,4.83,5
+2034,scandal,60.0,4.17,7
+2035,scene,10.0,4.97,5
+2036,scent,5.0,3.82,5
+2038,scheduled,33.333333333333336,4.45,9
+2039,scheme,10.0,4.57,6
+2040,schemes,30.0,4.03,7
+2041,science,0.0,5.12,7
+2042,scientists,0.0,4.5,10
+2043,scored,10.0,4.63,6
+2044,scorer,30.0,3.63,6
+2045,screamed,50.0,3.72,8
+2046,scrotum,50.0,2.85,7
+2047,scrutiny,60.0,3.74,8
+2048,seaplanes,70.0,2.05,9
+2049,searching,5.0,4.36,9
+2050,season,5.0,5.48,6
+2053,sect,10.0,3.54,4
+2054,sectarian,60.0,3.27,9
+2055,sector,0.0,4.66,6
+2056,security,1.6666666666666667,5.2,8
+2057,seek,10.0,4.61,4
+2058,seeking,26.666666666666668,4.58,7
+2059,seeping,40.0,2.74,7
+2060,seized,75.0,4.03,6
+2066,sensitive,0.0,4.46,9
+2067,sentenced,30.0,4.09,9
+2068,sentences,0.0,4.13,9
+2069,separate,10.0,4.83,8
+2070,separately,10.0,4.08,10
+2071,serial,0.0,4.23,6
+2072,serious,0.0,5.1,7
+2073,seriousness,30.0,3.56,11
+2074,served,20.0,4.81,6
+2075,servers,0.0,4.05,7
+2076,serving,0.0,4.62,7
+2077,setup,10.0,4.09,5
+2078,setups,40.0,2.92,6
+2080,severe,0.0,4.56,6
+2081,sewed,40.0,2.89,5
+2082,shape,10.0,4.72,5
+2083,shares,0.0,4.6,6
+2084,shell,30.0,4.39,5
+2085,shelling,30.0,3.18,8
+2086,shelter,20.0,4.25,7
+2087,sheriff,0.0,4.16,7
+2088,sheriffs,0.0,3.14,8
+2089,shots,10.0,4.63,5
+2090,shoulder,10.0,4.5,8
+2091,showy,20.0,2.79,5
+2092,sickness,30.0,3.83,8
+2093,signal,10.0,4.62,6
+2094,signed,10.0,4.85,6
+2095,significant,30.0,4.98,11
+2096,signing,10.0,4.4,7
+2097,signings,40.0,3.33,8
+2098,simultaneously,80.0,4.17,14
+2099,sincere,0.0,3.84,7
+2100,site,10.0,5.22,4
+2102,skeptical,90.0,3.68,9
+2103,skidded,100.0,2.51,7
+2104,skittish,70.0,2.63,8
+2105,slamming,80.0,3.35,8
+2106,slapped,30.0,3.67,7
+2107,slash,80.0,3.65,5
+2108,slaughter,60.0,3.84,9
+2109,slept,20.0,4.18,5
+2110,slid,10.0,3.55,4
+2111,sluggish,100.0,3.25,8
+2112,slumped,100.0,3.03,7
+2113,smartphone,0.0,4.06,10
+2114,smell,10.0,4.49,5
+2115,smuggling,95.0,3.54,9
+2116,snapped,90.0,3.81,7
+2118,society,0.0,5.17,7
+2119,sole,50.0,4.29,4
+2120,solitary,20.0,3.73,8
+2121,solution,6.666666666666667,4.84,8
+2122,solvent,80.0,3.44,7
+2123,somehow,10.0,4.53,7
+2124,sometimes,0.0,5.28,9
+2125,sooner,20.0,4.25,6
+2126,soothe,100.0,3.18,6
+2127,sorted,40.0,3.83,6
+2128,sought,38.333333333333336,4.49,6
+2129,soul,10.0,4.81,4
+2130,source,10.0,5.15,6
+2131,specially,0.0,4.01,9
+2132,specific,0.0,5.03,8
+2133,specifically,0.0,4.65,12
+2134,spectral,50.0,3.46,8
+2135,spectrophotometer,80.0,2.05,17
+2136,spectrum,30.0,4.26,8
+2137,speech,10.0,4.85,6
+2138,spokesman,30.0,3.79,9
+2139,spokesperson,44.285714285714285,3.64,12
+2140,spokeswoman,20.0,3.12,11
+2141,sponsorship,50.0,3.72,11
+2142,spores,46.666666666666664,3.26,6
+2143,sported,30.0,2.73,7
+2144,spot,10.0,4.89,4
+2145,spotted,45.0,4.19,7
+2146,spreading,50.0,4.19,9
+2147,squad,40.0,4.67,5
+2148,stable,10.0,4.48,6
+2149,staffers,80.0,3.23,8
+2150,stage,0.0,5.1,5
+2151,stake,30.0,4.15,5
+2152,stalk,20.0,3.46,5
+2153,stalking,50.0,3.64,8
+2154,stalled,70.0,3.37,7
+2155,starved,80.0,3.47,7
+2158,stated,13.333333333333334,4.74,6
+2159,statement,8.571428571428571,4.97,9
+2160,statements,30.0,4.51,10
+2161,statistically,40.0,3.67,13
+2162,statue,0.0,4.09,6
+2163,status,10.0,4.87,6
+2164,steady,23.333333333333332,4.31,6
+2165,stealing,40.0,4.23,8
+2166,steep,20.0,3.99,5
+2167,steered,90.0,3.13,7
+2168,stellar,70.0,3.76,7
+2169,stemming,100.0,3.26,8
+2170,stepping,10.0,3.98,8
+2171,stigmatize,100.0,2.22,10
+2172,stimulated,50.0,3.37,10
+2173,stimulating,50.0,3.54,11
+2174,stint,90.0,3.61,5
+2175,stood,10.0,4.57,5
+2176,stowaways,60.0,2.17,9
+2177,strain,45.0,4.15,6
+2178,strained,97.5,3.53,8
+2179,strains,40.0,3.72,7
+2180,strategic,40.0,4.43,9
+2181,strategy,30.0,4.74,8
+2182,straw,10.0,3.99,5
+2183,stressed,60.0,4.18,8
+2184,strikes,0.0,4.25,7
+2185,stripped,80.0,3.84,8
+2186,stroke,20.0,4.27,6
+2187,struck,10.0,4.42,6
+2188,structure,15.0,4.84,9
+2189,struggling,70.0,4.33,10
+2190,stumps,40.0,3.12,6
+2191,subdivided,20.0,3.1,10
+2192,subjects,10.0,4.38,8
+2193,submitted,50.0,4.32,9
+2194,subsequent,75.0,4.39,10
+2195,subsequently,90.0,4.23,12
+2196,substances,45.0,3.93,10
+2197,suffered,20.0,4.52,8
+2198,suffering,25.0,4.53,9
+2199,suffocated,80.0,2.87,10
+2200,suggested,15.0,4.68,9
+2201,suggestion,40.0,4.23,10
+2202,suicide,20.0,4.62,7
+2203,summit,45.0,4.3,6
+2204,summonsed,100.0,1.44,9
+2205,supposed,0.0,4.91,8
+2206,surface,6.666666666666667,4.83,7
+2207,surgery,10.0,4.63,7
+2208,survival,30.0,4.37,8
+2209,suspect,16.666666666666668,4.51,7
+2210,suspected,20.0,4.15,9
+2211,suspects,15.0,3.94,8
+2212,suspicion,90.0,3.97,9
+2213,suspicious,50.0,4.09,10
+2214,sustained,80.0,4.19,9
+2215,swept,30.0,3.94,5
+2216,switch,20.0,4.6,6
+2217,symbolic,25.0,3.86,8
+2218,sympathetically,60.0,2.51,15
+2219,sympathies,60.0,3.23,10
+2220,sympathy,50.0,4.01,8
+2221,systems,0.0,5.07,7
+2222,tackle,60.0,4.15,6
+2223,tackled,90.0,3.35,7
+2224,tactic,40.0,3.71,6
+2225,tactics,40.0,4.17,7
+2227,talks,0.0,4.61,5
+2228,tallest,10.0,3.5,7
+2229,target,10.0,4.82,6
+2230,targeted,40.0,4.22,8
+2231,tasked,10.0,3.53,6
+2232,teammate,45.0,3.84,8
+2233,technical,20.0,4.75,9
+2234,technician,10.0,3.7,10
+2235,teen,10.0,4.33,4
+2236,teenage,10.0,4.14,7
+2237,televised,10.0,3.53,9
+2238,temperature,0.0,4.64,11
+2239,temperatures,0.0,4.33,12
+2240,tension,0.0,4.22,7
+2241,tenure,70.0,3.93,6
+2242,term,10.0,5.23,4
+2243,termites,70.0,2.95,8
+2244,territory,22.5,4.6,9
+2245,terrorist,10.0,4.35,9
+2246,tether,60.0,2.96,6
+2247,thaw,50.0,3.18,4
+2251,theories,0.0,4.22,8
+2252,therapy,10.0,4.52,7
+2253,thermodynamic,20.0,2.93,13
+2254,thermodynamics,100.0,3.1,14
+2255,thermonuclear,50.0,2.67,13
+2257,thousand,0.0,4.64,8
+2259,thousands,0.0,4.77,9
+2260,threaten,80.0,3.94,8
+2261,threatened,60.0,4.36,10
+2262,threatens,65.0,3.75,9
+2263,threats,10.0,4.28,7
+2264,threshold,40.0,4.03,9
+2265,throttle,90.0,3.47,8
+2266,throughout,10.0,4.99,10
+2267,tier,10.0,4.16,4
+2268,timeline,40.0,4.15,8
+2269,tiring,10.0,3.37,6
+2270,titles,10.0,4.41,6
+2271,tobacco,0.0,4.19,7
+2272,token,10.0,3.82,5
+2273,toll,13.333333333333334,4.08,4
+2274,tomorrow,10.0,5.02,8
+2275,tonnes,0.0,3.72,6
+2276,torture,35.0,4.15,7
+2277,tortured,60.0,3.78,8
+2278,tourism,0.0,4.28,7
+2279,toxins,60.0,3.5,6
+2280,trace,40.0,4.19,5
+2281,track,10.0,5.02,5
+2282,trackers,20.0,3.1,8
+2283,trade,10.0,5.12,5
+2284,traded,40.0,4.15,6
+2285,traditionally,20.0,4.06,13
+2286,traffickers,80.0,3.01,11
+2287,tragedy,46.666666666666664,4.14,7
+2288,traitor,40.0,3.69,7
+2289,trans,0.0,4.41,5
+2290,transaction,30.0,4.21,11
+2291,transported,20.0,3.88,11
+2292,trash,10.0,4.42,5
+2293,traveled,10.0,4.06,8
+2294,treatment,0.0,5.01,9
+2295,treaty,50.0,4.31,6
+2297,trend,40.0,4.51,5
+2298,trending,50.0,3.62,8
+2299,tributes,80.0,3.27,8
+2300,triggered,90.0,3.99,9
+2301,troops,14.0,4.64,6
+2302,trophies,60.0,3.67,8
+2303,truthful,10.0,3.42,8
+2304,tunnel,40.0,4.24,6
+2306,tutor,50.0,3.67,5
+2307,tweeted,30.0,4.09,7
+2308,twice,10.0,4.84,5
+2309,ultimately,70.0,4.57,10
+2310,umbrella,0.0,3.89,8
+2311,unacceptable,30.0,3.87,12
+2312,unanswered,50.0,3.31,10
+2313,unauthorized,75.0,3.57,12
+2314,uncertain,20.0,3.99,9
+2315,uncertainty,50.0,4.03,11
+2316,unchanged,10.0,3.74,9
+2318,underlying,70.0,4.17,10
+2319,undermine,40.0,3.65,9
+2320,undermines,80.0,3.13,10
+2321,underneath,30.0,4.08,10
+2322,underwent,70.0,3.65,9
+2323,unearthed,100.0,3.19,9
+2324,unease,40.0,2.78,6
+2325,unemployment,25.0,4.22,12
+2326,unidentified,30.0,3.61,12
+2327,union,0.0,5.08,5
+2328,unity,10.0,4.22,5
+2329,unleashed,100.0,3.47,9
+2330,unmolested,100.0,2.36,10
+2331,unnamed,20.0,3.57,7
+2332,unprecedented,90.0,3.82,13
+2333,unrest,70.0,3.61,6
+2334,unsanctioned,80.0,2.36,12
+2335,unsuccessfully,20.0,3.28,14
+2336,unusually,30.0,3.76,9
+2337,updates,20.0,4.31,7
+2338,uprising,30.0,3.74,8
+2340,upwards,20.0,3.75,7
+2341,urges,10.0,3.69,5
+2342,urn,70.0,3.24,3
+2343,vacationing,80.0,2.86,11
+2344,vandalism,100.0,3.33,9
+2345,vandals,40.0,2.97,7
+2346,vanished,100.0,3.72,8
+2347,vanishing,80.0,3.27,9
+2348,varied,10.0,4.03,6
+2349,vast,20.0,4.49,4
+2350,vehicle,2.5,4.76,7
+2351,veils,30.0,2.85,5
+2352,venture,30.0,4.26,7
+2353,versions,10.0,4.35,8
+2354,vertebrates,40.0,2.96,11
+2355,viability,60.0,3.44,9
+2356,vicinity,100.0,3.8,8
+2357,vicious,80.0,3.83,7
+2358,victim,20.0,4.56,6
+2359,victory,0.0,4.73,7
+2360,violated,60.0,3.91,8
+2361,violates,20.0,3.49,8
+2362,violation,10.0,4.15,9
+2363,violations,50.0,3.99,10
+2364,violence,10.0,4.75,8
+2365,violent,6.666666666666667,4.46,7
+2366,virtual,0.0,4.32,7
+2367,virulently,90.0,2.09,10
+2368,virus,0.0,4.42,5
+2369,vision,10.0,4.63,6
+2370,vivid,70.0,3.75,5
+2371,voiced,0.0,3.76,6
+2372,voting,0.0,4.62,6
+2373,vowed,100.0,3.39,5
+2374,vulnerable,70.0,4.21,10
+2375,wage,10.0,4.44,4
+2376,waited,10.0,4.26,6
+2377,wake,0.0,4.76,4
+2379,warfare,20.0,4.05,7
+2380,watchdog,60.0,3.19,8
+2382,wave,10.0,4.62,4
+2384,waves,10.0,4.37,5
+2385,weaken,10.0,3.49,6
+2386,weakness,10.0,4.19,8
+2387,wealthiest,60.0,3.29,10
+2388,weaponry,80.0,3.36,8
+2389,weapons,0.0,4.75,7
+2390,web,10.0,4.74,3
+2391,wedged,100.0,2.9,6
+2393,whereas,10.0,4.41,7
+2394,wherever,10.0,4.27,8
+2398,widened,40.0,3.35,7
+2399,widespread,60.0,4.19,10
+2400,wild,10.0,4.8,4
+2401,willing,10.0,4.72,7
+2402,winger,10.0,3.57,6
+2403,winning,10.0,4.98,7
+2404,withdrawal,46.666666666666664,4.05,10
+2405,withdrew,30.0,3.72,8
+2406,withholds,50.0,2.2,9
+2408,workings,0.0,3.38,8
+2409,worldwide,10.0,4.54,9
+2410,worse,20.0,4.89,5
+2411,worst,20.0,4.93,5
+2412,wounded,27.5,4.32,7
+2413,wounds,15.0,4.07,6
+2414,wrapped,65.0,4.15,7
+2415,wreckage,100.0,3.29,8
+2416,wrenching,100.0,3.1,9
+2417,wrongdoing,40.0,3.26,10
+2418,yesterdays,10.0,2.56,10
+2419,yields,40.0,3.89,6
+2420,zombies,50.0,3.77,7
+2423,tanks,5.0,4.27,5
+2425,bolden,10.0,2.52,6
+2426,care,4.285714285714286,5.56,4
+2427,act,2.5,5.3,3
+2440,professor,10.0,4.9,9
+2442,baa,10.0,2.92,3
+2443,atoll,10.0,2.85,5
+2446,news,2.5,5.44,4
+2447,banco,0.0,3.03,5
+2448,popular,3.3333333333333335,5.07,7
+2452,german,0.0,4.95,6
+2453,football,0.0,5.11,8
+2456,second,2.857142857142857,5.63,6
+2457,driver,2.5,4.75,6
+2458,nick,10.0,4.59,4
+2459,birthday,5.0,4.76,8
+2460,king,10.0,5.17,4
+2461,bobby,10.0,4.22,5
+2463,state,8.571428571428571,5.78,5
+2467,keita,10.0,2.69,5
+2469,fighting,12.5,4.92,8
+2470,reals,0.0,2.73,5
+2472,brown,10.0,5.01,5
+2473,discovered,0.0,4.74,10
+2477,roux,10.0,3.01,4
+2480,labor,0.0,4.77,5
+2481,video,11.666666666666666,5.43,5
+2482,worked,10.0,5.16,6
+2483,champ,10.0,3.9,5
+2484,car,10.0,5.45,3
+2485,champions,0.0,4.5,9
+2488,de,0.0,5.23,2
+2489,la,5.0,5.05,2
+2490,law,12.5,5.46,3
+2491,cliff,10.0,4.1,5
+2493,cold,20.0,5.02,4
+2494,war,18.333333333333332,5.46,3
+2495,colin,10.0,4.09,5
+2498,order,0.0,5.49,5
+2506,fort,0.0,4.45,4
+2511,trump,10.0,4.93,5
+2513,boles,10.0,2.47,5
+2514,dutch,20.0,4.41,5
+2515,eastern,10.0,4.78,7
+2520,service,1.25,5.49,7
+2521,force,5.0,5.23,5
+2523,formula,7.5,4.45,7
+2524,one,3.75,6.47,3
+2525,fox,0.0,4.66,3
+2529,grand,5.625,4.91,5
+2531,jets,0.0,4.09,4
+2532,bay,10.0,4.73,3
+2533,daily,20.0,5.07,5
+2534,hawk,5.0,3.81,4
+2535,high,4.0,5.75,4
+2537,list,15.0,5.28,4
+2538,houses,0.0,4.72,6
+2543,motor,0.0,4.53,5
+2544,speedway,0.0,3.23,8
+2555,bosch,10.0,3.3,5
+2556,johnny,10.0,4.35,6
+2558,josh,10.0,4.35,4
+2565,kim,10.0,4.59,3
+2569,belt,10.0,4.42,4
+2570,l,10.0,5.18,1
+2572,party,3.888888888888889,5.49,5
+2573,mans,0.0,3.68,4
+2574,race,0.0,5.08,4
+2578,planet,0.0,4.68,6
+2579,earth,0.0,5.06,5
+2581,local,5.0,5.43,5
+2589,stars,10.0,4.86,5
+2590,airlines,0.0,4.19,8
+2593,actions,6.666666666666667,4.82,7
+2595,mark,10.0,5.05,4
+2596,meadows,10.0,3.6,7
+2597,miles,10.0,5.0,5
+2601,medal,0.0,4.39,5
+2602,freedom,5.0,4.86,7
+2604,police,2.5,5.33,6
+2607,sports,10.0,4.94,6
+2608,course,10.0,5.44,6
+2609,man,3.3333333333333335,5.82,3
+2614,failed,10.0,4.82,6
+2615,live,10.0,5.54,4
+2616,picture,5.0,5.13,7
+2617,arts,0.0,4.7,4
+2620,green,10.0,5.13,5
+2622,sans,5.0,3.58,4
+2623,allies,20.0,4.27,6
+2626,new,5.0,6.25,3
+2629,north,0.0,5.34,5
+2630,world,3.3333333333333335,5.89,5
+2631,series,0.0,5.35,6
+2632,otto,10.0,3.67,4
+2634,feeling,20.0,5.13,7
+2635,peter,10.0,4.88,5
+2636,polish,0.0,4.29,6
+2637,pm,0.0,4.69,2
+2638,beata,0.0,2.15,5
+2639,prime,2.5,4.81,5
+2642,pope,10.0,4.38,4
+2643,john,10.0,5.38,4
+2645,flag,10.0,4.58,4
+2648,results,10.0,5.23,7
+2649,da,0.0,4.54,2
+2650,pussy,0.0,4.24,5
+2652,queen,0.0,4.86,5
+2655,singh,10.0,4.04,5
+2656,forces,5.0,4.98,6
+2657,roman,0.0,4.5,5
+2659,royal,6.666666666666667,4.85,5
+2662,controllers,10.0,3.68,11
+2663,area,5.0,5.46,4
+2664,crime,2.5,4.89,5
+2665,unit,2.5,4.95,4
+2669,south,10.0,5.4,5
+2670,soviet,0.0,4.54,6
+2671,leader,5.0,4.95,6
+2672,st,0.0,5.2,2
+2674,street,10.0,5.28,6
+2675,bank,8.0,5.16,4
+2676,bombers,10.0,3.79,7
+2677,tensions,15.0,3.78,8
+2679,human,0.0,5.35,5
+2680,rights,10.0,5.19,6
+2681,transport,0.0,4.68,9
+2682,division,5.0,4.86,8
+2683,twitter,0.0,4.83,7
+2685,pages,0.0,4.62,5
+2687,peace,10.0,5.02,5
+2688,plan,6.666666666666667,5.29,4
+2690,code,0.0,5.08,4
+2692,us,5.0,6.04,2
+2693,distance,10.0,4.85,8
+2694,vester,10.0,1.68,6
+2695,lee,10.0,4.73,3
+2696,vice,3.3333333333333335,4.71,4
+2699,lane,5.0,4.57,4
+2703,walking,10.0,4.86,7
+2704,dead,10.0,5.19,4
+2706,post,0.0,5.43,4
+2708,stadium,0.0,4.63,7
+2709,western,0.0,5.01,7
+2710,interviews,10.0,4.36,10
+2713,lion,0.0,4.25,4
+2715,history,0.0,5.39,7
+2716,zero,2.5,4.63,4
+2717,another,0.0,5.74,7
+2718,aid,10.0,4.75,3
+2719,workers,15.0,4.95,7
+2720,al,10.0,5.16,2
+2722,shooter,10.0,4.05,7
+2723,along,10.0,5.38,5
+2724,lines,10.0,4.95,5
+2725,amazing,10.0,5.1,7
+2726,things,10.0,5.74,6
+2727,demands,10.0,4.41,7
+2728,applying,0.0,4.24,8
+2729,set,10.0,5.59,3
+2730,thought,5.0,5.59,7
+2731,armed,5.0,4.59,5
+2732,gangs,10.0,3.73,5
+2733,firms,0.0,4.38,5
+2735,general,15.0,5.47,7
+2736,generals,10.0,3.72,8
+2737,beans,0.0,4.14,5
+2738,backed,20.0,4.26,6
+2739,bad,10.0,5.53,3
+2740,wire,10.0,4.43,4
+2741,style,0.0,5.11,5
+2742,points,0.0,5.23,6
+2743,best,0.0,5.84,4
+2744,finish,5.0,4.91,6
+2745,big,0.0,5.67,3
+2746,step,0.0,5.13,4
+2747,blood,20.0,5.1,5
+2748,well,5.0,6.03,4
+2749,please,10.0,5.66,6
+2750,financial,13.333333333333334,5.08,9
+2751,dose,5.0,4.2,4
+2752,broken,10.0,4.88,6
+2753,brothers,0.0,4.69,8
+2754,cars,0.0,4.89,4
+2755,cases,0.0,5.04,5
+2756,chance,10.0,5.26,6
+2757,success,5.0,5.06,7
+2758,hands,0.0,5.16,5
+2759,abilities,10.0,4.21,9
+2760,chicken,10.0,4.63,7
+2761,clearing,0.0,4.04,8
+2762,close,0.0,5.36,5
+2764,website,0.0,5.09,7
+2765,nature,10.0,4.98,6
+2766,effort,20.0,4.92,6
+2767,floor,10.0,4.94,5
+2768,control,5.0,5.4,7
+2770,cover,10.0,5.08,5
+2771,members,5.0,5.35,7
+2772,currently,10.0,5.08,9
+2773,tests,10.0,4.67,5
+2775,closed,10.0,4.9,6
+2776,driving,5.0,4.9,7
+2777,deadly,10.0,4.16,6
+2778,property,9.090909090909092,5.11,8
+2779,deep,10.0,5.05,4
+2780,case,10.0,5.55,4
+2781,lawyers,0.0,4.39,7
+2782,defending,0.0,4.33,9
+2783,reduction,25.0,4.39,9
+2784,attack,5.0,5.09,6
+2786,effect,10.0,5.02,6
+2787,die,10.0,5.07,3
+2788,different,10.0,5.59,9
+2789,accounts,20.0,4.73,8
+2790,front,20.0,5.28,5
+2791,ear,0.0,4.43,3
+2792,recovery,10.0,4.58,8
+2793,situation,2.5,5.09,9
+2794,took,10.0,5.51,4
+2795,eighth,0.0,4.2,6
+2796,certain,0.0,5.16,7
+2797,emotion,0.0,4.19,7
+2798,enter,10.0,4.81,5
+2799,entire,10.0,5.09,6
+2800,equal,0.0,4.65,5
+2801,couples,0.0,4.34,7
+2802,euro,3.3333333333333335,4.09,4
+2803,zone,3.3333333333333335,4.72,4
+2804,honey,0.0,4.37,5
+2805,pressure,15.0,5.01,8
+2806,faced,20.0,4.49,5
+2807,leaders,5.0,4.81,7
+2808,falling,20.0,4.66,7
+2809,fears,25.0,4.17,5
+2810,fear,0.0,4.95,4
+2811,hole,0.0,4.66,4
+2812,sale,10.0,4.99,4
+2813,fired,0.0,4.63,5
+2814,first,5.0,6.11,5
+2815,food,10.0,5.4,4
+2816,foot,10.0,4.87,4
+2817,banks,4.285714285714286,4.69,5
+2818,feed,20.0,4.67,4
+2819,fourth,0.0,4.83,6
+2820,year,10.0,5.96,4
+2821,future,10.0,5.33,6
+2822,give,20.0,5.71,4
+2823,good,0.0,6.12,4
+2824,faith,0.0,4.82,5
+2825,package,15.0,4.46,7
+2826,great,0.0,5.88,5
+2827,uncle,0.0,4.45,5
+2828,growing,0.0,4.94,7
+2829,size,0.0,5.13,4
+2830,half,0.0,5.41,4
+2831,naked,3.3333333333333335,4.43,5
+2832,hand,10.0,5.41,4
+2833,harms,30.0,3.29,5
+2834,way,30.0,6.01,3
+2835,head,0.0,5.51,4
+2836,health,3.3333333333333335,5.44,6
+2837,figures,10.0,4.73,7
+2838,highest,5.0,4.86,7
+2839,level,6.666666666666667,5.41,5
+2840,highly,10.0,4.89,6
+2841,holding,10.0,4.89,7
+2842,companies,10.0,5.18,9
+2843,home,10.0,5.81,4
+2844,hospital,5.0,5.07,8
+2845,might,0.0,5.66,5
+2846,hunger,30.0,4.1,6
+2847,strike,20.0,4.66,6
+2848,called,10.0,5.59,6
+2849,people,5.0,6.25,6
+2850,fine,0.0,5.23,4
+2851,member,10.0,5.18,6
+2852,(,10.0,0.0,1
+2853,listening,10.0,4.66,9
+2854,markets,6.666666666666667,4.61,7
+2855,interest,0.0,5.17,8
+2856,rates,0.0,4.88,5
+2857,findings,10.0,4.38,8
+2858,jet,6.666666666666667,4.29,3
+2859,job,0.0,5.5,3
+2860,jobs,0.0,4.98,4
+2861,jumbo,5.0,3.38,5
+2862,key,10.0,5.12,3
+2863,knowing,5.0,4.76,7
+2864,lamb,0.0,4.02,4
+2865,large,20.0,5.39,5
+2867,late,30.0,5.34,4
+2868,lay,0.0,4.64,3
+2869,ahead,0.0,5.01,5
+2870,secrets,0.0,4.31,7
+2871,afghans,0.0,2.96,7
+2872,right,5.0,5.96,5
+2874,letter,30.0,4.95,6
+2875,plays,10.0,4.84,5
+2876,lifted,10.0,4.1,6
+2877,",",0.0,0.0,1
+2878,sites,30.0,4.74,5
+2879,long,20.0,5.81,4
+2880,lost,15.0,5.39,4
+2881,days,10.0,5.61,4
+2882,low,15.0,5.33,3
+2883,flying,10.0,4.71,6
+2884,poets,10.0,3.84,5
+2885,major,10.0,5.3,5
+2886,players,10.0,5.3,7
+2887,make,10.0,6.08,4
+2888,system,0.0,5.56,6
+2889,maximum,0.0,4.6,7
+2890,meet,0.0,5.27,4
+2891,mixed,0.0,4.64,5
+2892,form,20.0,5.31,4
+2893,danger,10.0,4.59,6
+2894,bridge,15.0,4.77,6
+2895,natural,10.0,5.11,7
+2896,need,10.0,5.97,4
+2897,door,0.0,5.08,4
+2899,countries,0.0,5.13,9
+2900,nose,10.0,4.51,4
+2902,team,6.666666666666667,5.67,4
+2904,old,0.0,5.75,3
+2906,covers,0.0,4.51,6
+2907,online,20.0,5.19,6
+2908,poll,25.0,4.35,4
+2909,painful,30.0,4.32,7
+2910,company,0.0,5.6,7
+2911,priest,10.0,4.33,6
+2912,away,20.0,5.62,4
+2913,passing,0.0,4.63,7
+2914,gains,0.0,4.25,5
+2915,percent,10.0,5.04,7
+2916,artist,0.0,4.8,6
+2917,gray,10.0,4.45,4
+2919,return,7.5,5.19,6
+2920,together,5.0,5.46,8
+2921,two,0.0,6.1,3
+2922,plain,0.0,4.43,5
+2923,location,10.0,4.86,8
+2924,pocket,10.0,4.48,6
+2925,costs,10.0,4.96,5
+2926,powerful,0.0,4.85,8
+2927,time,10.0,6.29,4
+2928,event,10.0,5.18,5
+2929,youth,15.0,4.75,5
+2930,problem,0.0,5.4,7
+2931,real,7.5,5.6,4
+2932,estate,7.5,4.82,6
+2933,tools,20.0,4.59,5
+2934,public,0.0,5.57,6
+2935,money,5.0,5.64,5
+2936,pulled,0.0,4.67,6
+2937,quite,0.0,5.29,5
+2938,strong,0.0,5.22,6
+2939,rainbow,10.0,4.07,7
+2940,power,20.0,5.52,5
+2941,receiving,10.0,4.59,9
+2942,much,0.0,6.0,4
+2943,camp,0.0,4.79,4
+2944,related,10.0,5.1,7
+2945,developed,0.0,4.95,9
+2946,report,10.0,5.32,6
+2947,known,10.0,5.39,5
+2948,contain,10.0,4.5,7
+2950,around,0.0,5.77,6
+2951,rule,10.0,4.94,4
+2952,pair,10.0,4.72,4
+2953,rules,40.0,5.06,5
+2954,run,0.0,5.49,3
+2955,said,10.0,6.01,4
+2956,end,0.0,5.68,3
+2957,sea,10.0,5.06,3
+2958,search,0.0,4.96,6
+2959,engine,0.0,4.84,6
+2960,prisons,10.0,3.83,7
+2961,reasons,10.0,4.93,7
+2962,sense,10.0,5.19,5
+2963,honor,10.0,4.69,5
+2964,number,0.0,5.62,6
+2965,aside,10.0,4.59,5
+2966,sets,15.0,4.69,4
+2967,seven,0.0,5.08,5
+2968,savings,0.0,4.44,7
+2969,seventeen,5.0,3.87,9
+2970,sharp,5.0,4.48,5
+2971,city,0.0,5.61,4
+2972,shortly,0.0,4.47,7
+2973,single,20.0,5.41,6
+2974,photo,10.0,4.97,5
+2975,turning,20.0,4.71,7
+2976,point,16.666666666666668,5.54,5
+2977,sound,10.0,5.15,5
+2978,southern,10.0,4.84,8
+2979,space,0.0,5.23,5
+2980,special,0.0,5.34,7
+2981,classes,20.0,4.77,7
+2982,square,10.0,4.84,6
+2983,farmers,10.0,4.43,7
+2986,loan,10.0,4.68,4
+2988,fall,10.0,5.13,4
+2989,objects,30.0,4.51,7
+2990,partnership,10.0,4.48,11
+2991,strongly,0.0,4.47,8
+2993,support,0.0,5.53,7
+2994,waste,30.0,4.81,5
+2995,tablet,10.0,4.05,6
+2996,computers,10.0,4.33,9
+2997,tag,20.0,4.44,3
+2998,taking,0.0,5.39,6
+2999,bringing,0.0,4.71,8
+3000,tax,6.0,5.14,3
+3001,cut,0.0,5.24,3
+3003,problems,10.0,5.19,8
+3004,girl,10.0,5.38,4
+3005,testing,0.0,4.67,7
+3006,even,0.0,5.99,4
+3007,bigger,0.0,4.74,6
+3008,third,0.0,5.32,5
+3009,interests,2.5,4.66,9
+3010,admitting,0.0,3.8,9
+3011,take,0.0,5.92,4
+3012,touched,20.0,4.3,7
+3013,tractor,0.0,3.78,7
+3014,woman,30.0,5.35,5
+3015,travel,0.0,5.0,6
+3016,tree,10.0,4.85,4
+3017,troop,0.0,3.69,5
+3018,troubled,10.0,3.91,8
+3019,twenty,10.0,4.65,6
+3020,group,30.0,5.57,5
+3021,terms,10.0,5.1,5
+3022,using,0.0,5.47,5
+3023,safety,20.0,4.97,6
+3024,reminder,10.0,4.12,8
+3025,warm,10.0,4.71,4
+3026,wash,10.0,4.46,4
+3027,put,0.0,5.66,3
+3028,went,10.0,5.5,4
+3029,pointed,0.0,4.46,7
+3030,think,0.0,6.08,5
+3031,wind,20.0,4.84,4
+3032,without,0.0,5.69,7
+3033,young,20.0,5.43,5
