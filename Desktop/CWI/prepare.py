@@ -1,16 +1,31 @@
+import syllapy
 import pandas as pd
 
-df =  pd.read_csv('test.csv')
 
-df['Concreteness'].replace(0, None, inplace=True)
-df['Familiarity'].replace(0, None, inplace=True)
 
-df.to_csv('test.csv')
+import math
+from collections import Counter
 
-# Count missing values per column
-missing_values = df.isnull().sum()
 
-print("Number of missing values in each column:")
-print(missing_values)
+df =  pd.read_csv('train.csv')
 
-print(len(df))
+def word_entropy(word):
+    word_len = len(word)
+    freqs = Counter(word)
+    entropy = -sum((freq/word_len) * math.log2(freq/word_len) for freq in freqs.values())
+    return entropy
+
+df['word_entropy'] = df['Complex_Phrase'].apply(word_entropy)
+
+
+def count_syllables(word):
+    return syllapy.count(word)
+
+
+
+
+# Apply syllable count function to the Complex_Phrase column
+
+
+
+df.to_csv('train.csv',index=False)
